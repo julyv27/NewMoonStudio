@@ -40,7 +40,7 @@ x-data="{
 
 {{ $data := slice }}
 {{ range (where site.RegularPages "Type" "posts") }}
-{{ $data = $data | append (dict "title" .Title "url" .RelPermalink "cover" .Params.cover "author" .Params.author "categories" .Params.categories "tags" .Params.tags "description" (or .Description (.Summary | emojify | safeHTML))) }}
+{{ $data = $data | append (dict "title" .Title "url" .RelPermalink "cover" .Params.cover "categories" .Params.categories "tags" .Params.tags "description" (or .Description (.Summary | emojify | safeHTML))) }}
 {{ end }}
 
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js" integrity="sha256-42IbU8t3tOwwbexB7ZVRHm3YDRf65aBPPjRtIUufj5I=" crossorigin="anonymous"></script>
