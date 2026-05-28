@@ -1,3 +1,11 @@
+@font-face {
+  font-display: swap;
+  font-family: "SangSangShinb7";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/fonts/SSShinb7.ttf") format("truetype");
+}
+
 .light,
 [data-theme="emerald"] {
   --color-base-100: oklch(93.8% 0.006 85);
@@ -24,16 +32,15 @@ body {
 }
 
 .softmoon-wordmark {
+  color: currentColor;
   display: inline-block;
+  font-family: "SangSangShinb7", cursive;
+  font-size: clamp(2.6rem, 5vw, 4.8rem);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 0.9;
   text-decoration: none;
-}
-
-.softmoon-wordmark img {
-  display: block;
-  height: clamp(3.4rem, 7vw, 5.8rem);
-  mix-blend-mode: multiply;
-  object-fit: contain;
-  width: auto;
+  white-space: nowrap;
 }
 
 .softmoon-search {
@@ -81,8 +88,8 @@ body {
     gap: 1rem;
   }
 
-  .softmoon-wordmark img {
-    height: 3.1rem;
+  .softmoon-wordmark {
+    font-size: 2.2rem;
   }
 
   .softmoon-nav-actions {
