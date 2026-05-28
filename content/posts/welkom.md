@@ -5,6 +5,7 @@ lastmod: 2026-05-28T11:30:00+02:00
 author: Julia
 draft: false
 summary: "De eerste blogpost van Soft Moon Studio staat klaar."
+cover: /img/blog/welkom.jpg
 categories:
   - Blog
 tags:

@@ -1,3 +1,24 @@
+.light,
+[data-theme="emerald"] {
+  --color-base-100: oklch(93.8% 0.006 85);
+  --color-base-200: oklch(90.5% 0.007 85);
+  --color-base-300: oklch(86% 0.007 85);
+  --color-base-content: oklch(18% 0.006 85);
+}
+
+.dark,
+[data-theme="forest"] {
+  --color-base-100: oklch(93.8% 0.006 85);
+  --color-base-200: oklch(90.5% 0.007 85);
+  --color-base-300: oklch(86% 0.007 85);
+  --color-base-content: oklch(18% 0.006 85);
+}
+
+html,
+body {
+  background: #edeae4;
+}
+
 .softmoon-nav {
   align-items: center;
 }
@@ -19,6 +40,21 @@
 .dream-grid .card {
   border: 1px solid color-mix(in srgb, currentColor 14%, transparent);
   box-shadow: none;
+}
+
+.dream-grid .card figure {
+  aspect-ratio: 16 / 10;
+  background: #edeae4;
+}
+
+.dream-grid .card figure img,
+.dream-grid .card figure picture {
+  height: 100%;
+  width: 100%;
+}
+
+.dream-grid .card figure img {
+  object-fit: cover;
 }
 
 .dream-grid .card-body {

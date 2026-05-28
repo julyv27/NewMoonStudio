@@ -5,6 +5,7 @@ lastmod: 2026-05-28T12:10:00+02:00
 author: Julia
 draft: false
 summary: "Een tweede testblog voor de minimalistische blogweergave."
+cover: /img/blog/zachte-start.jpg
 categories:
   - Blog
 tags:

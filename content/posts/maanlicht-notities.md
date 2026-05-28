@@ -5,6 +5,7 @@ lastmod: 2026-05-28T12:00:00+02:00
 author: Julia
 draft: false
 summary: "Een korte testblog over ritme, stilte en kleine observaties."
+cover: /img/blog/maanlicht-notities.jpg
 categories:
   - Blog
 tags:
