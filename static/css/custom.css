@@ -49,6 +49,23 @@ body {
   color: #4b52ff !important;
 }
 
+.card-title,
+#dream-single-post-main h1[itemprop="headline"] {
+  font-family: "SangSangShinb7", cursive;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.card-title {
+  font-size: 2rem;
+  line-height: 0.95;
+}
+
+#dream-single-post-main h1[itemprop="headline"] {
+  font-size: clamp(3rem, 7vw, 6rem);
+  line-height: 0.9;
+}
+
 .softmoon-search {
   width: min(42vw, 260px);
 }
