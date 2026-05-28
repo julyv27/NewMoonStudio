@@ -105,7 +105,7 @@ body {
 
 .dream-grid .card:hover::after,
 .dream-grid .card:focus-visible::after {
-  opacity: 0.5;
+  opacity: 0.25;
 }
 
 .dream-grid .card > * {
