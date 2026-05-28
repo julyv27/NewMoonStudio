@@ -1,0 +1,49 @@
+{{ define "title" }}
+{{- T "search" -}}
+{{ end }}
+
+{{ define "main" }}
+
+<div class="mt-8 lg:mt-12 px-4"
+x-data="{
+  search: '',
+  init() { this.search = new URLSearchParams(window.location.search).get('q') || '' },
+  get posts() { return this.search !== '' ? window.fuse.search(this.search) : [] },
+}">
+  <label for="search" class="input w-full">
+    <input id="search" name="search" type="text" class="grow" placeholder="{{ T "search" }}" x-model.debounce="search" />
+    <ion-icon name="search"></ion-icon>
+  </label>
+
+  <div class="mt-8 space-y-4">
+  <template x-for="post in posts">
+    <a class="card bg-base-100 hover:bg-base-content/10 cursor-pointer border border-base-content/30" :href="post.item.url">
+      <div class="card-body">
+        <h2 class="card-title" x-text="post.item.title"></h2>
+        <div x-html="post.item.description"></div>
+      </div>
+    </a>
+  </template>
+  </div>
+</div>
+
+{{ end }}
+
+{{ define "js" }}
+
+{{ $data := slice }}
+{{ range (where site.RegularPages "Type" "posts") }}
+{{ $data = $data | append (dict "title" .Title "url" .RelPermalink "author" .Params.author "categories" .Params.categories "tags" .Params.tags "description" (or .Description (.Summary | emojify | safeHTML))) }}
+{{ end }}
+
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js" integrity="sha256-42IbU8t3tOwwbexB7ZVRHm3YDRf65aBPPjRtIUufj5I=" crossorigin="anonymous"></script>
+<script>
+  var fuseData = {{ $data }};
+  var fuseOptions = {
+    keys: ["title", "description", "categories", "tags"]
+  };
+
+  var fuse = new Fuse(fuseData, fuseOptions);
+</script>
+
+{{ end }}

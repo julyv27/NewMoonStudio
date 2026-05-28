@@ -1,0 +1,46 @@
+.softmoon-nav {
+  align-items: center;
+}
+
+.softmoon-logo {
+  display: block;
+  height: 56px;
+  width: auto;
+}
+
+.softmoon-search {
+  width: min(42vw, 260px);
+}
+
+.softmoon-search input {
+  min-width: 0;
+}
+
+.dream-grid .card {
+  border: 1px solid color-mix(in srgb, currentColor 14%, transparent);
+  box-shadow: none;
+}
+
+.dream-grid .card-body {
+  gap: 0.55rem;
+}
+
+@media (max-width: 639px) {
+  .softmoon-nav {
+    align-items: flex-start;
+    gap: 1rem;
+  }
+
+  .softmoon-logo {
+    height: 48px;
+  }
+
+  .softmoon-nav-actions {
+    width: 100%;
+  }
+
+  .softmoon-search {
+    flex: 1;
+    width: auto;
+  }
+}

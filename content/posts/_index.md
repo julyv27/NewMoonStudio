@@ -2,4 +2,4 @@
 title: "Blog"
 ---
 
-Verhalen, notities en ideeën van New Moon Studio.
+Verhalen, notities en ideeen van Soft Moon Studio.
