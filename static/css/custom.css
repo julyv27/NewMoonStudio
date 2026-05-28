@@ -40,12 +40,13 @@ body {
   letter-spacing: 0;
   line-height: 0.9;
   text-decoration: none;
+  transition: color 160ms ease;
   white-space: nowrap;
 }
 
 .softmoon-wordmark:hover,
 .softmoon-wordmark:focus-visible {
-  color: #4b52ff;
+  color: #4b52ff !important;
 }
 
 .softmoon-search {
