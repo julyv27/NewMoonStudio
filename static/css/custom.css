@@ -47,13 +47,20 @@ body {
   background: #edeae4;
 }
 
+.card figure:has(img[src^="/img/blog/"]) {
+  aspect-ratio: 16 / 10;
+  background: #edeae4;
+}
+
 .dream-grid .card figure img,
-.dream-grid .card figure picture {
+.dream-grid .card figure picture,
+.card figure:has(img[src^="/img/blog/"]) img {
   height: 100%;
   width: 100%;
 }
 
-.dream-grid .card figure img {
+.dream-grid .card figure img,
+.card figure:has(img[src^="/img/blog/"]) img {
   object-fit: cover;
 }
 
