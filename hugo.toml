@@ -1,0 +1,17 @@
+baseURL = 'https://newmoonstudio.pages.dev/'
+locale = 'nl-nl'
+title = 'New Moon Studio'
+
+[params]
+  description = 'Notities, ideeën en verhalen van New Moon Studio.'
+  author = 'Julia'
+
+[menus]
+  [[menus.main]]
+    name = 'Blog'
+    pageRef = '/posts'
+    weight = 10
+  [[menus.main]]
+    name = 'Over'
+    pageRef = '/over'
+    weight = 20

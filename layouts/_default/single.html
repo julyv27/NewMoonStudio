@@ -1,0 +1,14 @@
+{{ define "main" }}
+  <article class="article">
+    <header class="article-header">
+      <p class="eyebrow">{{ .Section }}</p>
+      <h1>{{ .Title }}</h1>
+      {{ if not .Date.IsZero }}
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date | time.Format ":date_long" }}</time>
+      {{ end }}
+    </header>
+    <div class="content">
+      {{ .Content }}
+    </div>
+  </article>
+{{ end }}
