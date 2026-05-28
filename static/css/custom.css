@@ -85,6 +85,32 @@ body {
 .dream-grid .card {
   border: 1px solid color-mix(in srgb, currentColor 14%, transparent);
   box-shadow: none;
+  overflow: hidden;
+  position: relative;
+}
+
+.dream-grid .card::after {
+  background-image: url("/img/maanhover.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: min(82%, 320px);
+  content: "";
+  inset: 0;
+  opacity: 0;
+  pointer-events: none;
+  position: absolute;
+  transition: opacity 180ms ease;
+  z-index: 2;
+}
+
+.dream-grid .card:hover::after,
+.dream-grid .card:focus-visible::after {
+  opacity: 1;
+}
+
+.dream-grid .card > * {
+  position: relative;
+  z-index: 1;
 }
 
 .dream-grid .card figure {
