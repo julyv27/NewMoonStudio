@@ -1,7 +1,7 @@
 ---
-title: "Over Soft Moon Studio"
+title: "About Soft Moon Studio"
 date: 2026-05-28T11:30:00+02:00
 draft: false
 ---
 
-Soft Moon Studio is de plek waar ik notities, ideeen en verhalen verzamel.
+Soft Moon Studio is a place for notes, ideas and stories.

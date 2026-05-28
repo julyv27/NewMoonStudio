@@ -1,6 +1,6 @@
 baseURL = 'https://newmoonstudio.pages.dev/'
-defaultContentLanguage = 'nl'
-locale = 'nl-NL'
+defaultContentLanguage = 'en'
+locale = 'en'
 title = 'Soft Moon Studio'
 theme = 'dream'
 
@@ -9,7 +9,7 @@ theme = 'dream'
   darkTheme = 'forest'
   author = 'Julia'
   headerTitle = 'Soft Moon Studio'
-  description = 'Notities, ideeën en verhalen van Soft Moon Studio.'
+  description = 'Notes, ideas and stories from Soft Moon Studio.'
   avatar = 'img/soft-moon-logo.png'
   siteStartYear = 2026
   showPrevNextPost = true
@@ -26,6 +26,6 @@ theme = 'dream'
     pageRef = '/posts'
     weight = 10
   [[menus.main]]
-    name = 'Over'
+    name = 'About'
     pageRef = '/about'
     weight = 20

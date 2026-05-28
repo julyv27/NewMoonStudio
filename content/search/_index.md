@@ -1,3 +1,3 @@
 ---
-title: "Zoeken"
+title: "Search"
 ---

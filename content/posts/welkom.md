@@ -1,17 +1,17 @@
 ---
-title: "Welkom bij Soft Moon Studio"
+title: "Welcome to Soft Moon Studio"
 date: 2026-05-28T11:30:00+02:00
 lastmod: 2026-05-28T11:30:00+02:00
 author: Julia
 draft: false
-summary: "De eerste blogpost van Soft Moon Studio staat klaar."
+summary: "The first Soft Moon Studio blog post is ready."
 cover: /img/blog/welkom.jpg
 categories:
   - Blog
 tags:
-  - welkom
+  - welcome
 ---
 
-Dit is de eerste blogpost van Soft Moon Studio.
+This is the first blog post from Soft Moon Studio.
 
-Vanaf hier kun je nieuwe berichten toevoegen, ideeën uitwerken en de stijl van de site stap voor stap verfijnen.
+From here, new posts can be added, ideas can be developed and the site style can keep evolving step by step.

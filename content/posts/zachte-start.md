@@ -1,10 +1,10 @@
 ---
-title: "Zachte start"
+title: "Soft Start"
 date: 2026-05-28T12:10:00+02:00
 lastmod: 2026-05-28T12:10:00+02:00
 author: Julia
 draft: false
-summary: "Een tweede testblog voor de minimalistische blogweergave."
+summary: "A second test post for the minimal blog layout."
 cover: /img/blog/zachte-start.jpg
 categories:
   - Blog
@@ -13,6 +13,6 @@ tags:
   - start
 ---
 
-Deze post is bedoeld als visuele placeholder.
+This post is intended as a visual placeholder.
 
-Zo kunnen we beoordelen of de blogkaarten rustig genoeg ogen.
+It helps show whether the blog cards feel calm enough.
