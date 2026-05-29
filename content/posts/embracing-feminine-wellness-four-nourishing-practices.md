@@ -21,7 +21,7 @@ In our fast-paced world, feminine wellness is about listening to your body, hono
 
 Warm herbal infusions have long been used to support reproductive health and soothe pre-menstrual discomfort. Raspberry leaf tea in particular is cherished for its gentle support of the uterus and its ability to ease common symptoms like cramping and nausea. It's naturally caffeine free, organic and contains just one ingredient: red raspberry leaves. Many people enjoy a cup in the days leading up to their period or during the postpartum phase for a sense of comfort and balance.
 
-If you'd like to try this tradition yourself, explore Earth Mama Organic Raspberry Leaf Tea. The tea comes in convenient sachets and is certified organic, kosher and gluten free. Each box contains 48 tea bags, and the flavour is earthy and mild. You can sip it hot or iced, perhaps with a drizzle of honey or a squeeze of lemon. Find Earth Mama Organic Raspberry Leaf Tea on Amazon.
+If you'd like to try this tradition yourself, explore Earth Mama Organic Raspberry Leaf Tea. The tea comes in convenient sachets and is certified organic, kosher and gluten free. Each box contains 48 tea bags, and the flavour is earthy and mild. You can sip it hot or iced, perhaps with a drizzle of honey or a squeeze of lemon. [Find Earth Mama Organic Raspberry Leaf Tea on Amazon](https://www.amazon.com/dp/B07B991S4D?th=1&linkCode=ll2&tag=softmoonstudi-20&linkId=8d494b74fb7943b45b439b7d0a01f04c&language=en_US&ref_=as_li_ss_tl).
 
 ## Flow Through Gentle Movement
 
