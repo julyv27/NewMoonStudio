@@ -139,6 +139,33 @@ body {
   gap: 0.55rem;
 }
 
+.softmoon-categories {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 0.35rem 0 0.65rem;
+}
+
+.softmoon-category {
+  background: #ded9cf;
+  border-radius: 999px;
+  color: #35322d;
+  display: inline-flex;
+  font-family: "Questrial", ui-sans-serif, system-ui, sans-serif;
+  font-size: 0.75rem;
+  letter-spacing: 0.04em;
+  line-height: 1;
+  padding: 0.45rem 0.65rem;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+a.softmoon-category:hover,
+a.softmoon-category:focus-visible {
+  background: #4b52ff;
+  color: #fff;
+}
+
 @media (max-width: 639px) {
   .softmoon-nav {
     align-items: flex-start;
