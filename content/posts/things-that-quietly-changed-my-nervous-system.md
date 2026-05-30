@@ -80,15 +80,13 @@ Things that helped:
 - less background noise
 - natural scents
 
-One ritual I especially love is using lavender essential oil in the evening.
+One ritual I especially love is [using lavender essential oil](https://amzn.to/4uIahmJ) in the evening.
 
 Lavender has been traditionally associated with relaxation and emotional calm, and for me it became part of a nightly ritual that signals safety to my nervous system.
 
 I usually add a few drops to a diffuser while reading, journaling or winding down before bed. The scent instantly creates a softer atmosphere and helps me transition out of "survival mode."
 
 One of my favorite options is the Handcraft Blends Lavender Essential Oil because it's pure, long-lasting and works beautifully for diffusers, baths and calming evening rituals.
-
-**Affiliate link coming soon.**
 
 ## 3. Eating More Nervous System-Friendly Foods
 
