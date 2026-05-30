@@ -4,7 +4,7 @@ date: 2026-05-30T12:00:00+02:00
 lastmod: 2026-05-30T12:00:00+02:00
 draft: false
 summary: "Small, gentle rituals that can help create a calmer, softer inner world when modern life feels overstimulating."
-cover: /img/blog/quietly-changed-my-nervous-system.jpg
+cover: /img/blog/lavendel.jpg
 categories:
   - Selfcare
 tags:
