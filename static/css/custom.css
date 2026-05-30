@@ -78,6 +78,10 @@ body {
   width: min(42vw, 260px);
 }
 
+.softmoon-nav-actions {
+  gap: 1.5rem;
+}
+
 .softmoon-search input {
   min-width: 0;
 }
@@ -203,6 +207,7 @@ a.softmoon-category:focus-visible {
   }
 
   .softmoon-nav-actions {
+    gap: 1rem;
     width: 100%;
   }
 
