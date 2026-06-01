@@ -22,6 +22,8 @@ As an Amazon Associate, I earn from qualifying purchases.
 
 The product shortcode automatically adds `rel="nofollow noopener sponsored"` and a visible `Affiliate link` note.
 
+When an exact Amazon affiliate URL is not available yet, use the same shortcode with `affiliate="false"`, a descriptive `eyebrow`, and the CTA `Browse options on Amazon`. This renders a visible `Product link` note and omits `sponsored`. Replace the temporary URL with a specific SiteStripe affiliate URL before treating the card as a Soft Moon Studio pick.
+
 ## Product Card Pattern
 
 Use:
@@ -36,6 +38,7 @@ Rules:
 - Describe fit and context, not unsupported results.
 - Use the CTA `View on Amazon`.
 - Let the shortcode show `Soft Moon Studio pick` and `Affiliate link`.
+- For a temporary non-affiliate Amazon browse link, set `affiliate="false"` and use a neutral eyebrow such as `Cozy lighting idea`.
 - Use a relevant owned or properly licensed lifestyle image.
 - The visible subject of the image must match the recommended product type. For example, never use a salt-lamp image for a linen-lamp card.
 - Omit the image parameter when no honest, relevant image is available. A text-only card is better than a misleading image.

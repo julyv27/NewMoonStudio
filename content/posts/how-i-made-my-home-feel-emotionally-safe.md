@@ -162,3 +162,5 @@ And while no lamp or cozy ritual can solve every source of stress, creating a so
 Sometimes healing does not begin with doing more.
 
 Sometimes it begins with making your life feel softer to live inside.
+
+If you would like to explore more gentle lighting options, I collected my favorite ideas in [9 Cozy Lighting Ideas That Make Your Home Feel Softer at Night](/posts/9-cozy-lighting-ideas-that-make-your-home-feel-softer-at-night/).

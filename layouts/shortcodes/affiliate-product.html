@@ -1,5 +1,6 @@
 <aside class="softmoon-affiliate-product not-prose">
-  <p class="softmoon-affiliate-eyebrow">Soft Moon Studio pick</p>
+  {{ $isAffiliate := ne (.Get "affiliate") "false" }}
+  <p class="softmoon-affiliate-eyebrow">{{ with .Get "eyebrow" }}{{ . }}{{ else }}Soft Moon Studio pick{{ end }}</p>
   <div class="softmoon-affiliate-product-layout{{ if not (.Get "image") }} softmoon-affiliate-product-layout-text-only{{ end }}">
     {{ with .Get "image" }}
       <figure class="softmoon-affiliate-product-image">
@@ -12,10 +13,10 @@
       {{ with .Get "whyFits" }}
         <p><strong>Why it fits:</strong> {{ . }}</p>
       {{ end }}
-      <a class="softmoon-affiliate-button" href="{{ .Get "url" }}" target="_blank" rel="nofollow noopener sponsored">
+      <a class="softmoon-affiliate-button" href="{{ .Get "url" }}" target="_blank" rel="nofollow noopener{{ if $isAffiliate }} sponsored{{ end }}">
         {{ with .Get "cta" }}{{ . }}{{ else }}View on Amazon{{ end }}
       </a>
-      <p class="softmoon-affiliate-link-note">Affiliate link</p>
+      <p class="softmoon-affiliate-link-note">{{ if $isAffiliate }}Affiliate link{{ else }}Product link{{ end }}</p>
     </div>
   </div>
 </aside>
