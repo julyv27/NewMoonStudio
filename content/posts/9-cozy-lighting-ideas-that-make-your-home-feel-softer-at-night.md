@@ -88,7 +88,7 @@ Not every corner needs another lamp. Flameless candles can add small points of l
 
 Choose a set with a timer or remote if you want the room to feel welcoming at the same time each evening. Warm white candles usually look softer than bright white versions.
 
-{{< affiliate-product title="Flameless Candles with a Timer" eyebrow="Cozy lighting idea" whyFits="Small pools of candlelight make shelves and evening rituals feel warmer without an open flame." image="/img/blog/cozy-lighting/flameless-candles.jpg" imageAlt="Warm candles arranged on a shelf as lifestyle inspiration" url="https://www.amazon.com/s?k=flameless+candles+remote+timer+warm+white" cta="Browse options on Amazon" affiliate="false" >}}
+{{< affiliate-product title="Rechargeable Flameless Tea Lights" whyFits="Small pools of candlelight make shelves and evening rituals feel warmer without an open flame." image="/img/blog/cozy-lighting/flameless-candles.jpg" imageAlt="Warm candles arranged on a shelf as lifestyle inspiration" url="https://amzn.to/3QaOghj" cta="View on Amazon" >}}
 
 ## 6. Dimmable Floor Lamp for a Quiet Reading Corner
 
@@ -96,7 +96,7 @@ A floor lamp can soften a larger part of the room while keeping the overhead lig
 
 The most useful version is dimmable, with a warm setting and a shade that directs light gently rather than flooding the whole room.
 
-{{< affiliate-product title="Dimmable Warm Floor Lamp" eyebrow="Cozy lighting idea" whyFits="A floor lamp creates a quiet reading corner while leaving the harsh overhead light switched off." image="/img/blog/cozy-lighting/floor-lamp.jpg" imageAlt="Warm floor lamp beside a sofa as lifestyle inspiration" url="https://www.amazon.com/s?k=dimmable+floor+lamp+warm+light+living+room" cta="Browse options on Amazon" affiliate="false" >}}
+{{< affiliate-product title="Dimmable Warm Floor Lamp" whyFits="A floor lamp creates a quiet reading corner while leaving the harsh overhead light switched off." image="/img/blog/cozy-lighting/floor-lamp.jpg" imageAlt="Warm floor lamp beside a sofa as lifestyle inspiration" url="https://amzn.to/4egT9hZ" cta="View on Amazon" >}}
 
 ## 7. Cordless Table Lamp for Flexible Soft Light
 
@@ -104,7 +104,7 @@ Sometimes the corner that needs light does not have an outlet nearby. A recharge
 
 Choose a simple dimmable design that gives off a warm glow. Its main advantage is flexibility: you can place it exactly where the room feels a little empty.
 
-{{< affiliate-product title="Rechargeable Cordless Table Lamp" eyebrow="Cozy lighting idea" whyFits="A portable lamp brings warm light to small corners where an outlet is not available." image="/img/blog/cozy-lighting/cover-cozy-bedroom.jpg" imageAlt="Small table lamp in a softly lit bedroom as lifestyle inspiration" url="https://www.amazon.com/s?k=rechargeable+cordless+table+lamp+dimmable+warm+light" cta="Browse options on Amazon" affiliate="false" >}}
+{{< affiliate-product title="Rechargeable Cordless Table Lamp" whyFits="A portable lamp brings warm light to small corners where an outlet is not available." image="/img/blog/cozy-lighting/cover-cozy-bedroom.jpg" imageAlt="Small table lamp in a softly lit bedroom as lifestyle inspiration" url="https://amzn.to/4uG6s1d" cta="View on Amazon" >}}
 
 ## 8. Warm Fairy Lights for a Gentle Decorative Layer
 
@@ -112,7 +112,7 @@ Fairy lights work best as a quiet accent rather than the main event. A short str
 
 Choose a warm-white strand and avoid using too many lights in one room. The goal is a gentle glow, not a festive display.
 
-{{< affiliate-product title="Warm White Fairy Lights" eyebrow="Cozy lighting idea" whyFits="A subtle strand of warm lights adds softness to a bedroom shelf, headboard or reading nook." image="/img/blog/cozy-lighting/fairy-lights.jpg" imageAlt="Warm fairy lights in a cozy bedroom as lifestyle inspiration" url="https://www.amazon.com/s?k=warm+white+fairy+string+lights+bedroom" cta="Browse options on Amazon" affiliate="false" >}}
+{{< affiliate-product title="Warm White Fairy Lights" whyFits="A subtle strand of warm lights adds softness to a bedroom shelf, headboard or reading nook." image="/img/blog/cozy-lighting/fairy-lights.jpg" imageAlt="Warm fairy lights in a cozy bedroom as lifestyle inspiration" url="https://amzn.to/43Gg2Fo" cta="View on Amazon" >}}
 
 ## 9. Paper Lantern Lamp for a Soft Sculptural Glow
 
@@ -120,7 +120,7 @@ A paper lantern introduces light and texture at the same time. The shade diffuse
 
 This idea suits a bedroom, reading nook or living room where you want the lighting to feel intentional but still minimal.
 
-{{< affiliate-product title="Paper Lantern Light" eyebrow="Cozy lighting idea" whyFits="A paper shade diffuses the bulb and adds a quiet sculptural element to the room." image="/img/blog/cozy-lighting/paper-lantern.jpg" imageAlt="Round paper lantern in a minimalist interior as lifestyle inspiration" url="https://www.amazon.com/s?k=paper+lantern+lamp+warm+light" cta="Browse options on Amazon" affiliate="false" >}}
+{{< affiliate-product title="Paper Lantern Lampshade" whyFits="A paper shade diffuses the bulb and adds a quiet sculptural element to the room." image="/img/blog/cozy-lighting/paper-lantern.jpg" imageAlt="Round paper lantern in a minimalist interior as lifestyle inspiration" url="https://amzn.to/4ehbP13" cta="View on Amazon" >}}
 
 ## Frequently Asked Questions
 
