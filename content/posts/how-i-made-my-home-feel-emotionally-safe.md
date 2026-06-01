@@ -108,7 +108,7 @@ One thing I started adding throughout my home was linen shade lighting.
 
 The texture softens the light beautifully and gives rooms a calm, cozy atmosphere that feels almost like a quiet boutique hotel.
 
-[Warm Linen Table Lamp on Amazon](https://www.amazon.com/s?k=linen+shade+table+lamp+warm+light)
+[This is the warm linen table lamp I recommend](https://amzn.to/4nZnrJz)
 
 ## Creating Tiny Rituals of Comfort
 
