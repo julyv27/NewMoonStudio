@@ -88,7 +88,7 @@ I especially love using it during:
 
 It instantly makes a space feel more peaceful and emotionally grounded.
 
-{{< affiliate-product title="Mushroom Table Lamp" whyFits="A gentle ambient glow can make a bedside table or journaling corner feel softer." url="https://amzn.to/4dXFpY2" cta="View on Amazon" >}}
+{{< affiliate-product title="Mushroom Table Lamp" whyFits="A gentle ambient glow can make a bedside table or journaling corner feel softer." url="https://amzn.to/4vfV8J4" cta="View on Amazon" >}}
 
 ## Why Soft Lighting Feels So Healing
 
@@ -109,7 +109,7 @@ One thing I started adding throughout my home was linen shade lighting.
 
 The texture softens the light beautifully and gives rooms a calm, cozy atmosphere that feels almost like a quiet boutique hotel.
 
-{{< affiliate-product title="Warm Linen Table Lamp" whyFits="A diffused glow can make an everyday bedroom or living room feel calmer." url="https://amzn.to/4nZnrJz" cta="View on Amazon" >}}
+{{< affiliate-product title="Warm Linen Table Lamp" whyFits="A diffused glow can make an everyday bedroom or living room feel calmer." url="https://amzn.to/3PXNNPt" cta="View on Amazon" >}}
 
 ## Creating Tiny Rituals of Comfort
 
