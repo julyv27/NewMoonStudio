@@ -1,0 +1,12 @@
+<aside class="softmoon-affiliate-product not-prose">
+  <h3>{{ .Get "title" }}</h3>
+  {{ with .Get "bestFor" }}
+    <p><strong>Best for:</strong> {{ . }}</p>
+  {{ end }}
+  {{ with .Get "why" }}
+    <p><strong>Why I like it:</strong> {{ . }}</p>
+  {{ end }}
+  <a class="softmoon-affiliate-button" href="{{ .Get "url" }}" target="_blank" rel="nofollow noopener sponsored">
+    {{ with .Get "cta" }}{{ . }}{{ else }}View on Amazon{{ end }} <span>(affiliate link)</span>
+  </a>
+</aside>

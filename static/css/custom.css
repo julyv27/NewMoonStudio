@@ -192,6 +192,57 @@ a.softmoon-category:focus-visible {
   color: #fff;
 }
 
+.softmoon-affiliate-disclosure {
+  color: color-mix(in srgb, currentColor 68%, transparent);
+  font-size: 0.72rem;
+  line-height: 1.45;
+  margin: 0.75rem 0 1.25rem;
+}
+
+.softmoon-affiliate-product {
+  background: #e6e1d8;
+  border: 1px solid color-mix(in srgb, currentColor 14%, transparent);
+  border-radius: 0.85rem;
+  margin: 1.25rem 0 1.75rem;
+  padding: 1rem 1.1rem;
+}
+
+.softmoon-affiliate-product h3 {
+  font-family: "Questrial", ui-sans-serif, system-ui, sans-serif;
+  font-size: 1.2rem;
+  font-weight: 400;
+  margin: 0 0 0.65rem;
+}
+
+.softmoon-affiliate-product p {
+  font-size: 0.95rem;
+  line-height: 1.55;
+  margin: 0.35rem 0;
+}
+
+.softmoon-affiliate-button {
+  background: #35322d;
+  border-radius: 999px;
+  color: #fff;
+  display: inline-flex;
+  font-size: 0.85rem;
+  margin-top: 0.75rem;
+  padding: 0.65rem 0.9rem;
+  text-decoration: none;
+}
+
+.softmoon-affiliate-button:hover,
+.softmoon-affiliate-button:focus-visible {
+  background: #4b52ff;
+  color: #fff;
+}
+
+.softmoon-affiliate-button span {
+  font-size: 0.72rem;
+  margin-left: 0.3rem;
+  opacity: 0.82;
+}
+
 @media (max-width: 639px) {
   .softmoon-post-grid {
     grid-template-columns: 1fr;

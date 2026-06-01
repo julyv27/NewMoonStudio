@@ -3,6 +3,7 @@ title: "How I Made My Home Feel Emotionally Safe"
 date: 2026-06-01T12:00:00+02:00
 lastmod: 2026-06-01T12:00:00+02:00
 draft: false
+affiliate: true
 summary: "Small changes in lighting, atmosphere and evening rituals can help create a calmer home that feels emotionally safe."
 cover: /img/blog/lamp-blog.jpg
 categories:
@@ -87,7 +88,7 @@ I especially love using it during:
 
 It instantly makes a space feel more peaceful and emotionally grounded.
 
-[This is the mushroom table lamp I recommend](https://amzn.to/4dXFpY2)
+{{< affiliate-product title="Mushroom Table Lamp" bestFor="A gentle glow beside your bed, reading chair or journaling corner." why="The rounded shape and warm ambient light create a softer atmosphere without overpowering the room." url="https://amzn.to/4dXFpY2" cta="View the mushroom lamp on Amazon" >}}
 
 ## Why Soft Lighting Feels So Healing
 
@@ -108,7 +109,7 @@ One thing I started adding throughout my home was linen shade lighting.
 
 The texture softens the light beautifully and gives rooms a calm, cozy atmosphere that feels almost like a quiet boutique hotel.
 
-[This is the warm linen table lamp I recommend](https://amzn.to/4nZnrJz)
+{{< affiliate-product title="Warm Linen Table Lamp" bestFor="Adding a calm, diffused light to a bedroom or living room." why="The linen shade softens the glow and makes an everyday space feel warmer and more settled." url="https://amzn.to/4nZnrJz" cta="View the linen lamp on Amazon" >}}
 
 ## Creating Tiny Rituals of Comfort
 
@@ -126,7 +127,7 @@ Sometimes I turn on my Himalayan salt lamp while winding down at night, and the 
 
 It feels grounding, peaceful and comforting after overstimulating days.
 
-[This is the Himalayan salt lamp I like](https://amzn.to/49AMr3P)
+{{< affiliate-product title="Himalayan Salt Lamp" bestFor="Creating a small pool of amber light during a slow evening routine." why="Its gentle glow adds warmth to a quiet corner when I want the room to feel less stimulating." url="https://amzn.to/49AMr3P" cta="View the salt lamp on Amazon" >}}
 
 ## A Calm Home Is Not About Perfection
 

@@ -3,6 +3,7 @@ title: "Things That Quietly Changed My Nervous System"
 date: 2026-05-30T12:00:00+02:00
 lastmod: 2026-05-30T12:00:00+02:00
 draft: false
+affiliate: true
 summary: "Small, gentle rituals that can help create a calmer, softer inner world when modern life feels overstimulating."
 cover: /img/blog/lavendel.jpg
 categories:
@@ -80,7 +81,9 @@ Things that helped:
 - less background noise
 - natural scents
 
-One ritual I especially love is [using lavender essential oil](https://amzn.to/4uIahmJ) in the evening.
+One ritual I especially love is using lavender essential oil in the evening.
+
+{{< affiliate-product title="Lavender Essential Oil" bestFor="Adding a gentle scent to an evening wind-down ritual." why="I enjoy using lavender when I want a quiet sensory cue that the day is slowing down." url="https://amzn.to/4uIahmJ" cta="View the lavender oil on Amazon" >}}
 
 Lavender has been traditionally associated with relaxation and emotional calm, and for me it became part of a nightly ritual that signals safety to my nervous system.
 

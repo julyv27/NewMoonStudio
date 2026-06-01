@@ -3,6 +3,7 @@ title: "Your Nervous System Doesn't Need a Perfect Life to Feel Safe"
 date: 2026-05-30T22:18:39+02:00
 lastmod: 2026-05-30T22:18:39+02:00
 draft: false
+affiliate: true
 summary: "Your nervous system does not need perfection. It needs gentle, repeated experiences that teach your body it is safe to soften."
 cover: /img/blog/nervous-system-doesnt-need-a-perfect-life.jpg
 categories:
@@ -180,7 +181,7 @@ There is something deeply grounding about physical warmth and gentle pressure - 
 
 Instead of trying to "fix" myself, it helped my body feel supported.
 
-[This is the weighted blanket I personally love for calmer evenings.](https://amzn.to/4uIOPOt)
+{{< affiliate-product title="Weighted Blanket" bestFor="Creating a more comforting place to rest during a quiet evening." why="I like the grounded, cozy feeling it adds when I want to settle in with a book or slow down before bed." url="https://amzn.to/4uIOPOt" cta="View the weighted blanket on Amazon" >}}
 
 Sometimes healing starts with creating an environment your nervous system no longer needs to defend itself from.
 

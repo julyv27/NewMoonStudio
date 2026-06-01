@@ -86,6 +86,10 @@
           </figure>
         {{ end }}
 
+        {{ if .Params.affiliate }}
+          <p class="softmoon-affiliate-disclosure not-prose">As an Amazon Associate, I earn from qualifying purchases.</p>
+        {{ end }}
+
         {{ .Content | emojify }}
 
         {{ if fileExists "layouts/partials/adsense-post-bottom.html" }}
