@@ -80,7 +80,7 @@ Wall lighting can make a bedroom feel more finished, but rewiring is not always 
 
 Look for a warm setting, dimmable controls and a mounting method that suits your wall. A matching pair can create balance on either side of a bed.
 
-{{< affiliate-product title="Rechargeable Wall Sconces" eyebrow="Cozy lighting idea" whyFits="A pair of renter-friendly wall lights adds softness without using bedside-table space." image="/img/blog/cozy-lighting/wall-sconce.jpg" imageAlt="Warm wall-mounted lamp as lifestyle inspiration" url="https://www.amazon.com/s?k=rechargeable+wall+sconces+battery+operated+remote+dimmable" cta="Browse options on Amazon" affiliate="false" >}}
+{{< affiliate-product title="Rechargeable Wall Sconces" whyFits="A pair of renter-friendly wall lights adds softness without using bedside-table space." image="/img/blog/cozy-lighting/wall-sconce.jpg" imageAlt="Warm wall-mounted lamp as lifestyle inspiration" url="https://amzn.to/4vfZCiS" cta="View on Amazon" >}}
 
 ## 5. Flameless Candles for Shelves and Evening Rituals
 
