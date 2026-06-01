@@ -27,7 +27,7 @@ The product shortcode automatically adds `rel="nofollow noopener sponsored"` and
 Use:
 
 ```text
-{{< affiliate-product title="Product Name" whyFits="One short reader-focused benefit." image="/img/blog/relevant-lifestyle-image.jpg" imageAlt="Accurate description as lifestyle inspiration" url="AMAZON_AFFILIATE_URL" cta="View on Amazon" >}}
+{{< affiliate-product title="Product Name" whyFits="One short reader-focused benefit." image="/img/blog/relevant-product-image.jpg" imageAlt="Accurate description as lifestyle inspiration" url="AMAZON_AFFILIATE_URL" cta="View on Amazon" >}}
 ```
 
 Rules:
@@ -37,6 +37,8 @@ Rules:
 - Use the CTA `View on Amazon`.
 - Let the shortcode show `Soft Moon Studio pick` and `Affiliate link`.
 - Use a relevant owned or properly licensed lifestyle image.
+- The visible subject of the image must match the recommended product type. For example, never use a salt-lamp image for a linen-lamp card.
+- Omit the image parameter when no honest, relevant image is available. A text-only card is better than a misleading image.
 - If an image is contextual rather than the exact product, make the alt text clear by adding `as lifestyle inspiration`.
 - The shortcode visibly labels card images as `Lifestyle inspiration`.
 - Do not download and re-upload Amazon product images. Only use Amazon product imagery through an officially permitted method.

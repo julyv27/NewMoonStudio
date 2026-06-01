@@ -223,6 +223,10 @@ a.softmoon-category:focus-visible {
   grid-template-columns: minmax(0, 145px) 1fr;
 }
 
+.softmoon-affiliate-product-layout-text-only {
+  grid-template-columns: 1fr;
+}
+
 .softmoon-affiliate-product-image {
   aspect-ratio: 1 / 1;
   border-radius: 0.65rem;

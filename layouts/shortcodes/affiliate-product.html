@@ -1,6 +1,6 @@
 <aside class="softmoon-affiliate-product not-prose">
   <p class="softmoon-affiliate-eyebrow">Soft Moon Studio pick</p>
-  <div class="softmoon-affiliate-product-layout">
+  <div class="softmoon-affiliate-product-layout{{ if not (.Get "image") }} softmoon-affiliate-product-layout-text-only{{ end }}">
     {{ with .Get "image" }}
       <figure class="softmoon-affiliate-product-image">
         <img src="{{ . }}" alt="{{ $.Get "imageAlt" }}" loading="lazy" />
