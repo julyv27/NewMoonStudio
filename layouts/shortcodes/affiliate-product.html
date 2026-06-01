@@ -4,7 +4,7 @@
     {{ with .Get "image" }}
       <figure class="softmoon-affiliate-product-image">
         <img src="{{ . }}" alt="{{ $.Get "imageAlt" }}" loading="lazy" />
-        <figcaption>Lifestyle inspiration</figcaption>
+        <figcaption>{{ with $.Get "imageLabel" }}{{ . }}{{ else }}Lifestyle inspiration{{ end }}</figcaption>
       </figure>
     {{ end }}
     <div>
