@@ -199,6 +199,7 @@ a.softmoon-category:focus-visible {
 
   .softmoon-nav {
     align-items: flex-start;
+    flex-wrap: wrap;
     gap: 1rem;
   }
 
@@ -207,12 +208,15 @@ a.softmoon-category:focus-visible {
   }
 
   .softmoon-nav-actions {
+    flex-wrap: wrap;
+    justify-content: flex-start;
     gap: 1rem;
     width: 100%;
   }
 
   .softmoon-search {
     flex: 1;
+    flex-basis: 100%;
     width: auto;
   }
 }
