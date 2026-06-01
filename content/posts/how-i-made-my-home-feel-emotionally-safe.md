@@ -126,7 +126,7 @@ Sometimes I turn on my Himalayan salt lamp while winding down at night, and the 
 
 It feels grounding, peaceful and comforting after overstimulating days.
 
-[Himalayan Salt Lamp on Amazon](https://www.amazon.com/s?k=himalayan+salt+lamp)
+[This is the Himalayan salt lamp I like](https://amzn.to/49AMr3P)
 
 ## A Calm Home Is Not About Perfection
 
