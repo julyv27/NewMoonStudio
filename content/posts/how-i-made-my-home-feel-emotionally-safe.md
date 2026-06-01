@@ -87,7 +87,7 @@ I especially love using it during:
 
 It instantly makes a space feel more peaceful and emotionally grounded.
 
-[Mushroom Table Lamp on Amazon](https://www.amazon.com/s?k=mushroom+table+lamp+warm+light)
+[This is the mushroom table lamp I recommend](https://amzn.to/4dXFpY2)
 
 ## Why Soft Lighting Feels So Healing
 
