@@ -24,7 +24,7 @@ Warm herbal infusions have long been used to support reproductive health and soo
 
 If you'd like to try this tradition yourself, explore Earth Mama Organic Raspberry Leaf Tea. The tea comes in convenient sachets and is certified organic, kosher and gluten free. Each box contains 48 tea bags, and the flavour is earthy and mild. You can sip it hot or iced, perhaps with a drizzle of honey or a squeeze of lemon.
 
-{{< affiliate-product title="Earth Mama Organic Raspberry Leaf Tea" bestFor="A warm, caffeine-free tea ritual when you want to slow down." why="The sachets make it simple to prepare, and the mild earthy flavour works well hot or iced." url="https://www.amazon.com/dp/B07B991S4D?th=1&linkCode=ll2&tag=softmoonstudi-20&linkId=8d494b74fb7943b45b439b7d0a01f04c&language=en_US&ref_=as_li_ss_tl" cta="View the tea on Amazon" >}}
+{{< affiliate-product title="Earth Mama Organic Raspberry Leaf Tea" whyFits="A caffeine-free tea ritual offers a simple moment to pause and slow down." image="/img/blog/feminine-wellness.jpg" imageAlt="Tea and wellness ritual as lifestyle inspiration" url="https://www.amazon.com/dp/B07B991S4D?th=1&linkCode=ll2&tag=softmoonstudi-20&linkId=8d494b74fb7943b45b439b7d0a01f04c&language=en_US&ref_=as_li_ss_tl" cta="View on Amazon" >}}
 
 ## Flow Through Gentle Movement
 

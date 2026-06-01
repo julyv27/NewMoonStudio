@@ -83,7 +83,7 @@ Things that helped:
 
 One ritual I especially love is using lavender essential oil in the evening.
 
-{{< affiliate-product title="Lavender Essential Oil" bestFor="Adding a gentle scent to an evening wind-down ritual." why="I enjoy using lavender when I want a quiet sensory cue that the day is slowing down." url="https://amzn.to/4uIahmJ" cta="View the lavender oil on Amazon" >}}
+{{< affiliate-product title="Lavender Essential Oil" whyFits="A gentle scent can become a quiet sensory cue that the day is slowing down." image="/img/blog/lavendel.jpg" imageAlt="Essential oil bottle with dried flowers as lifestyle inspiration" url="https://amzn.to/4uIahmJ" cta="View on Amazon" >}}
 
 Lavender has been traditionally associated with relaxation and emotional calm, and for me it became part of a nightly ritual that signals safety to my nervous system.
 

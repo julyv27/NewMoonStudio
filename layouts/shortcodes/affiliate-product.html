@@ -1,12 +1,21 @@
 <aside class="softmoon-affiliate-product not-prose">
-  <h3>{{ .Get "title" }}</h3>
-  {{ with .Get "bestFor" }}
-    <p><strong>Best for:</strong> {{ . }}</p>
-  {{ end }}
-  {{ with .Get "why" }}
-    <p><strong>Why I like it:</strong> {{ . }}</p>
-  {{ end }}
-  <a class="softmoon-affiliate-button" href="{{ .Get "url" }}" target="_blank" rel="nofollow noopener sponsored">
-    {{ with .Get "cta" }}{{ . }}{{ else }}View on Amazon{{ end }} <span>(affiliate link)</span>
-  </a>
+  <p class="softmoon-affiliate-eyebrow">Soft Moon Studio pick</p>
+  <div class="softmoon-affiliate-product-layout">
+    {{ with .Get "image" }}
+      <figure class="softmoon-affiliate-product-image">
+        <img src="{{ . }}" alt="{{ $.Get "imageAlt" }}" loading="lazy" />
+        <figcaption>Lifestyle inspiration</figcaption>
+      </figure>
+    {{ end }}
+    <div>
+      <h3>{{ .Get "title" }}</h3>
+      {{ with .Get "whyFits" }}
+        <p><strong>Why it fits:</strong> {{ . }}</p>
+      {{ end }}
+      <a class="softmoon-affiliate-button" href="{{ .Get "url" }}" target="_blank" rel="nofollow noopener sponsored">
+        {{ with .Get "cta" }}{{ . }}{{ else }}View on Amazon{{ end }}
+      </a>
+      <p class="softmoon-affiliate-link-note">Affiliate link</p>
+    </div>
+  </div>
 </aside>

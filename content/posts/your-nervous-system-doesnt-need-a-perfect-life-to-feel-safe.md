@@ -181,7 +181,7 @@ There is something deeply grounding about physical warmth and gentle pressure - 
 
 Instead of trying to "fix" myself, it helped my body feel supported.
 
-{{< affiliate-product title="Weighted Blanket" bestFor="Creating a more comforting place to rest during a quiet evening." why="I like the grounded, cozy feeling it adds when I want to settle in with a book or slow down before bed." url="https://amzn.to/4uIOPOt" cta="View the weighted blanket on Amazon" >}}
+{{< affiliate-product title="Weighted Blanket" whyFits="A cozy layer can make a reading corner or evening wind-down feel more grounded." image="/img/blog/nervous-system-doesnt-need-a-perfect-life.jpg" imageAlt="Soft neutral bedding as lifestyle inspiration" url="https://amzn.to/4uIOPOt" cta="View on Amazon" >}}
 
 Sometimes healing starts with creating an environment your nervous system no longer needs to defend itself from.
 

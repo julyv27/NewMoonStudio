@@ -200,34 +200,76 @@ a.softmoon-category:focus-visible {
 }
 
 .softmoon-affiliate-product {
-  background: #e6e1d8;
+  background: #e9e5dd;
   border: 1px solid color-mix(in srgb, currentColor 14%, transparent);
   border-radius: 0.85rem;
   margin: 1.25rem 0 1.75rem;
-  padding: 1rem 1.1rem;
+  padding: 0.9rem;
+}
+
+.softmoon-affiliate-eyebrow {
+  color: #706b63;
+  font-size: 0.66rem !important;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  margin: 0 0 0.65rem !important;
+  text-transform: uppercase;
+}
+
+.softmoon-affiliate-product-layout {
+  align-items: center;
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: minmax(0, 145px) 1fr;
+}
+
+.softmoon-affiliate-product-image {
+  aspect-ratio: 1 / 1;
+  border-radius: 0.65rem;
+  margin: 0;
+  overflow: hidden;
+  position: relative;
+}
+
+.softmoon-affiliate-product-image img {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.softmoon-affiliate-product-image figcaption {
+  background: rgb(53 50 45 / 72%);
+  bottom: 0;
+  color: #fff;
+  font-size: 0.56rem;
+  left: 0;
+  letter-spacing: 0.06em;
+  padding: 0.28rem 0.4rem;
+  position: absolute;
+  text-transform: uppercase;
 }
 
 .softmoon-affiliate-product h3 {
   font-family: "Questrial", ui-sans-serif, system-ui, sans-serif;
-  font-size: 1.2rem;
+  font-size: 1.15rem;
   font-weight: 400;
-  margin: 0 0 0.65rem;
+  margin: 0 0 0.45rem;
 }
 
 .softmoon-affiliate-product p {
-  font-size: 0.95rem;
-  line-height: 1.55;
-  margin: 0.35rem 0;
+  font-size: 0.9rem;
+  line-height: 1.45;
+  margin: 0.25rem 0;
 }
 
 .softmoon-affiliate-button {
-  background: #35322d;
+  border: 1px solid #8c857b;
   border-radius: 999px;
-  color: #fff;
+  color: #35322d;
   display: inline-flex;
-  font-size: 0.85rem;
-  margin-top: 0.75rem;
-  padding: 0.65rem 0.9rem;
+  font-size: 0.78rem;
+  margin-top: 0.6rem;
+  padding: 0.5rem 0.75rem;
   text-decoration: none;
 }
 
@@ -237,10 +279,20 @@ a.softmoon-category:focus-visible {
   color: #fff;
 }
 
-.softmoon-affiliate-button span {
-  font-size: 0.72rem;
-  margin-left: 0.3rem;
-  opacity: 0.82;
+.softmoon-affiliate-link-note {
+  color: #706b63;
+  font-size: 0.64rem !important;
+  margin: 0.3rem 0 0 !important;
+}
+
+@media (max-width: 479px) {
+  .softmoon-affiliate-product-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .softmoon-affiliate-product-image {
+    aspect-ratio: 16 / 9;
+  }
 }
 
 @media (max-width: 639px) {

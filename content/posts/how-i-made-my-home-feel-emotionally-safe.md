@@ -88,7 +88,7 @@ I especially love using it during:
 
 It instantly makes a space feel more peaceful and emotionally grounded.
 
-{{< affiliate-product title="Mushroom Table Lamp" bestFor="A gentle glow beside your bed, reading chair or journaling corner." why="The rounded shape and warm ambient light create a softer atmosphere without overpowering the room." url="https://amzn.to/4dXFpY2" cta="View the mushroom lamp on Amazon" >}}
+{{< affiliate-product title="Mushroom Table Lamp" whyFits="A gentle ambient glow can make a bedside table or journaling corner feel softer." image="/img/blog/lamp-blog.jpg" imageAlt="Warm ambient lamp glow as lifestyle inspiration" url="https://amzn.to/4dXFpY2" cta="View on Amazon" >}}
 
 ## Why Soft Lighting Feels So Healing
 
@@ -109,7 +109,7 @@ One thing I started adding throughout my home was linen shade lighting.
 
 The texture softens the light beautifully and gives rooms a calm, cozy atmosphere that feels almost like a quiet boutique hotel.
 
-{{< affiliate-product title="Warm Linen Table Lamp" bestFor="Adding a calm, diffused light to a bedroom or living room." why="The linen shade softens the glow and makes an everyday space feel warmer and more settled." url="https://amzn.to/4nZnrJz" cta="View the linen lamp on Amazon" >}}
+{{< affiliate-product title="Warm Linen Table Lamp" whyFits="A diffused glow can make an everyday bedroom or living room feel calmer." image="/img/blog/lamp-blog.jpg" imageAlt="Warm ambient lamp glow as lifestyle inspiration" url="https://amzn.to/4nZnrJz" cta="View on Amazon" >}}
 
 ## Creating Tiny Rituals of Comfort
 
@@ -127,7 +127,7 @@ Sometimes I turn on my Himalayan salt lamp while winding down at night, and the 
 
 It feels grounding, peaceful and comforting after overstimulating days.
 
-{{< affiliate-product title="Himalayan Salt Lamp" bestFor="Creating a small pool of amber light during a slow evening routine." why="Its gentle glow adds warmth to a quiet corner when I want the room to feel less stimulating." url="https://amzn.to/49AMr3P" cta="View the salt lamp on Amazon" >}}
+{{< affiliate-product title="Himalayan Salt Lamp" whyFits="The amber glow adds warmth to a quiet corner during a slow evening routine." image="/img/blog/lamp-blog.jpg" imageAlt="Glowing Himalayan salt lamp in a calm setting" url="https://amzn.to/49AMr3P" cta="View on Amazon" >}}
 
 ## A Calm Home Is Not About Perfection
 
