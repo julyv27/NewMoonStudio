@@ -34,7 +34,7 @@ Publish the first ten Pins over five weeks at two Pins per week. Do not bulk-upl
 - `pin-09`: bedside intent.
 - `pin-04`: renter intent.
 - `pin-05`, `pin-12`: evening-ritual intent.
-- `pin-07`: small-space intent.
+- `pin-07`: bedroom-lamp and small-space intent.
 - `pin-08`: layering tutorial intent.
 - `pin-10`: reading-corner intent.
 

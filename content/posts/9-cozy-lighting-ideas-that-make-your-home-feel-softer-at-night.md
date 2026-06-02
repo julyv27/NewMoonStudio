@@ -1,7 +1,7 @@
 ---
 title: "9 Cozy Lighting Ideas That Make Your Home Feel Softer at Night"
 date: 2026-06-01T22:45:00+02:00
-lastmod: 2026-06-02T21:05:00+02:00
+lastmod: 2026-06-02T21:10:00+02:00
 draft: false
 affiliate: true
 summary: "Nine cozy lighting ideas for creating a softer evening atmosphere, from bedside lamps and warm linen shades to renter-friendly wall lights and flameless candles."
@@ -18,6 +18,7 @@ tags:
   - calm home
   - bedroom lighting
   - nightstand lamp
+  - bedroom lamp
   - evening rituals
   - home decor
 ---
@@ -63,7 +64,7 @@ If you are looking for a nightstand lamp, this is the first option I would choos
 
 ## 2. Linen Table Lamp for Soft Diffused Lighting
 
-If you want your room to feel calmer without drawing too much attention to the lamp itself, a linen shade is a good starting point. The texture diffuses the bulb and creates a gentler light than an exposed or glossy shade.
+If you want your room to feel calmer without drawing too much attention to the lamp itself, a linen shade is a good starting point. This type of bedroom lamp diffuses the bulb and creates a gentler light than an exposed or glossy shade.
 
 This style works especially well in a bedroom or living room where you want a warm boutique-hotel feeling.
 
