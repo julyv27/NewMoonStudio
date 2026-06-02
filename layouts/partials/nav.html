@@ -12,10 +12,6 @@
     </a>
 
     <section class="flex items-center justify-end gap-3 softmoon-nav-actions">
-      <a class="text-sm font-semibold hover:underline" href="{{ "affiliate-disclosure" | relLangURL }}">
-        Affiliate disclosure
-      </a>
-
       {{ with site.GetPage "/about" }}
       {{ $aboutPages := .Resources.ByType "page" }}
       {{ if gt (len $aboutPages) 0 }}
