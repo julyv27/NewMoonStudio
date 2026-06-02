@@ -4,7 +4,7 @@
 
 Drive qualified Pinterest traffic to:
 
-`https://softmoonstudio.pages.dev/posts/9-cozy-lighting-ideas-that-make-your-home-feel-softer-at-night/`
+`https://softmoonstudio.com/posts/9-cozy-lighting-ideas-that-make-your-home-feel-softer-at-night/`
 
 The landing page contains nine disclosed Amazon affiliate cards.
 
