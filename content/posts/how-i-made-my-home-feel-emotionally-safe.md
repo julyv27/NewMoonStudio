@@ -28,6 +28,8 @@ Bright overhead lighting. Visual clutter. Too much noise. Harsh energy. Rooms th
 
 And when your nervous system already feels overwhelmed, your home matters more than you think.
 
+If you want the practical lighting version of this idea, I broke it down in [9 Cozy Lighting Ideas That Make Your Home Feel Softer at Night](/posts/9-cozy-lighting-ideas-that-make-your-home-feel-softer-at-night/).
+
 A peaceful home does not have to be perfect or expensive.
 
 But it should feel emotionally safe.
@@ -111,6 +113,8 @@ The texture softens the light beautifully and gives rooms a calm, cozy atmospher
 
 {{< affiliate-product title="Warm Linen Table Lamp" whyFits="A diffused glow can make an everyday bedroom or living room feel calmer." image="/img/products/warm-linen-table-lamp.jpg" imageAlt="Warm table lamp with a textured linen shade and dark base" imageLabel="Product image" url="https://amzn.to/3PXNNPt" cta="View on Amazon" >}}
 
+If you want more ideas like this, continue with [my cozy lighting guide](/posts/9-cozy-lighting-ideas-that-make-your-home-feel-softer-at-night/), where I gathered the softer lighting options that work best in a real home.
+
 ## Creating Tiny Rituals of Comfort
 
 I also began realizing that emotional safety often comes from tiny repeated comforts.
@@ -163,4 +167,4 @@ Sometimes healing does not begin with doing more.
 
 Sometimes it begins with making your life feel softer to live inside.
 
-If you would like to explore more gentle lighting options, I collected my favorite ideas in [9 Cozy Lighting Ideas That Make Your Home Feel Softer at Night](/posts/9-cozy-lighting-ideas-that-make-your-home-feel-softer-at-night/).
+If you would like to explore more gentle lighting options, read [this softer evening lighting guide](/posts/9-cozy-lighting-ideas-that-make-your-home-feel-softer-at-night/).
