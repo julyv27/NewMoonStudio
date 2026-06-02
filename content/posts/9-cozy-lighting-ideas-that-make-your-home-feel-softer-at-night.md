@@ -1,7 +1,7 @@
 ---
 title: "9 Cozy Lighting Ideas That Make Your Home Feel Softer at Night"
 date: 2026-06-01T22:45:00+02:00
-lastmod: 2026-06-01T23:25:00+02:00
+lastmod: 2026-06-02T21:05:00+02:00
 draft: false
 affiliate: true
 summary: "Nine cozy lighting ideas for creating a softer evening atmosphere, from bedside lamps and warm linen shades to renter-friendly wall lights and flameless candles."
@@ -17,6 +17,7 @@ tags:
   - soft lighting
   - calm home
   - bedroom lighting
+  - nightstand lamp
   - evening rituals
   - home decor
 ---
@@ -56,7 +57,7 @@ You do not need every idea below. Choose the one that solves the most noticeable
 
 A rounded mushroom lamp is an easy way to make a bedside table or journaling corner feel more considered. Its shape is playful without becoming busy, and the glow stays close to the surface instead of lighting the entire room.
 
-This is the first option I would choose for a bedroom, a reading chair or a small side table where you want a visible but compact focal point.
+If you are looking for a nightstand lamp, this is the first option I would choose for a bedroom, reading chair or small side table where you want a visible but compact focal point.
 
 {{< affiliate-product title="Mushroom Table Lamp" whyFits="A compact statement lamp can soften a bedside table or journaling corner without taking over the room." image="/img/products/mushroom-table-lamp.jpg" imageAlt="Orange mushroom-style table lamp with warm ambient light" imageLabel="Product image" url="https://amzn.to/4vfV8J4" cta="View on Amazon" >}}
 
