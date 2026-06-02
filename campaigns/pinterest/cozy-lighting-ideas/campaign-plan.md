@@ -30,8 +30,8 @@ Publish the first ten Pins over five weeks at two Pins per week. Do not bulk-upl
 
 - `pin-01`, `pin-06`: broad listicle intent.
 - `pin-02`, `pin-11`: problem-led intent.
-- `pin-03`: bedroom intent.
-- `pin-09`: nightstand-lamp and bedside intent.
+- `pin-03`: nightstand-lamp and bedroom intent.
+- `pin-09`: bedside intent.
 - `pin-04`: renter intent.
 - `pin-05`, `pin-12`: evening-ritual intent.
 - `pin-07`: small-space intent.
