@@ -160,6 +160,65 @@ body {
   padding: 1rem;
 }
 
+.softmoon-home-hero {
+  background: #e9e5dd;
+  border: 1px solid color-mix(in srgb, currentColor 12%, transparent);
+  border-radius: 1.4rem;
+  margin: 1rem;
+  padding: clamp(1.4rem, 4vw, 3rem);
+}
+
+.softmoon-home-eyebrow {
+  color: #706b63;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  margin: 0 0 0.9rem;
+  text-transform: uppercase;
+}
+
+.softmoon-home-hero h1 {
+  font-family: "Questrial", ui-sans-serif, system-ui, sans-serif;
+  font-size: clamp(2.3rem, 6vw, 5.2rem);
+  font-weight: 400;
+  letter-spacing: -0.035em;
+  line-height: 0.98;
+  margin: 0;
+  max-width: 12ch;
+}
+
+.softmoon-home-hero p:not(.softmoon-home-eyebrow) {
+  color: #4b453e;
+  font-size: clamp(1rem, 1.6vw, 1.2rem);
+  line-height: 1.55;
+  margin: 1.2rem 0 0;
+  max-width: 45rem;
+}
+
+.softmoon-home-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1.6rem;
+}
+
+.softmoon-home-actions a {
+  border: 1px solid #8c857b;
+  border-radius: 999px;
+  color: #35322d;
+  display: inline-flex;
+  font-size: 0.86rem;
+  padding: 0.62rem 0.9rem;
+  text-decoration: none;
+}
+
+.softmoon-home-actions a:hover,
+.softmoon-home-actions a:focus-visible {
+  background: #4b52ff;
+  border-color: #4b52ff;
+  color: #fff;
+}
+
 .softmoon-post-column,
 .softmoon-post-column .card {
   height: 100%;
