@@ -160,64 +160,6 @@ body {
   padding: 1rem;
 }
 
-.softmoon-home-hero {
-  margin: 0 auto 1.35rem;
-  max-width: 68rem;
-  padding: 0.25rem 1rem 0.5rem;
-  text-align: center;
-}
-
-.softmoon-home-eyebrow {
-  color: #706b63;
-  font-size: 0.72rem;
-  font-weight: 700;
-  letter-spacing: 0.16em;
-  margin: 0 0 0.9rem;
-  text-transform: uppercase;
-}
-
-.softmoon-home-hero h1 {
-  font-family: "Questrial", ui-sans-serif, system-ui, sans-serif;
-  font-size: clamp(1.65rem, 3.4vw, 3rem);
-  font-weight: 400;
-  letter-spacing: -0.025em;
-  line-height: 1.02;
-  margin: 0;
-}
-
-.softmoon-home-hero p:not(.softmoon-home-eyebrow) {
-  color: #4b453e;
-  font-size: clamp(0.98rem, 1.4vw, 1.1rem);
-  line-height: 1.45;
-  margin: 0.7rem auto 0;
-  max-width: 36rem;
-}
-
-.softmoon-home-actions {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.75rem;
-  justify-content: center;
-  margin-top: 1rem;
-}
-
-.softmoon-home-actions a {
-  border: 1px solid #8c857b;
-  border-radius: 999px;
-  color: #35322d;
-  display: inline-flex;
-  font-size: 0.86rem;
-  padding: 0.62rem 0.9rem;
-  text-decoration: none;
-}
-
-.softmoon-home-actions a:hover,
-.softmoon-home-actions a:focus-visible {
-  background: #4b52ff;
-  border-color: #4b52ff;
-  color: #fff;
-}
-
 .softmoon-post-column,
 .softmoon-post-column .card {
   height: 100%;

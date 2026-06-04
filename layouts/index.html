@@ -4,17 +4,6 @@
 
 {{ $paginator := .Paginate (where site.RegularPages "Type" "posts") }}
 
-<section class="softmoon-home-hero" aria-labelledby="softmoon-home-hero-title">
-  <p class="softmoon-home-eyebrow">Cozy home inspiration</p>
-  <h1 id="softmoon-home-hero-title">Soft lighting ideas for a calmer, cozier home.</h1>
-  <p>Warm lamps, gentle routines and soft home details for slower evenings.</p>
-  <nav class="softmoon-home-actions" aria-label="Featured topics">
-    <a href="/categories/cozy-lighting-ideas/">Cozy Lighting Ideas</a>
-    <a href="/categories/calm-home-aesthetic/">Calm Home Aesthetic</a>
-    <a href="/categories/soft-living/">Soft Living</a>
-  </nav>
-</section>
-
 {{ if site.Params.zenMode }}
 <div class="dream-zen-posts max-w-[65ch] mt-8 mx-auto px-4 space-y-8">
 {{ range $paginator.Pages }}
