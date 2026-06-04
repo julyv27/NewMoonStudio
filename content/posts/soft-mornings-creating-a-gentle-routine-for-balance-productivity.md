@@ -7,7 +7,6 @@ summary: "A gentle morning routine can create more balance, focus and calm witho
 cover: /img/blog/soft-mornings.jpg
 categories:
   - Soft Living
-  - Calm Morning Routines
 tags:
   - soft mornings
   - routine

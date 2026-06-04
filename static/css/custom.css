@@ -319,6 +319,32 @@ a.softmoon-category:focus-visible {
   margin: 0 0 0.45rem;
 }
 
+.softmoon-affiliate-details {
+  display: grid;
+  gap: 0.35rem;
+  margin: 0.35rem 0 0.55rem;
+}
+
+.softmoon-affiliate-details div {
+  display: grid;
+  gap: 0.1rem;
+}
+
+.softmoon-affiliate-details dt {
+  color: #706b63;
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+.softmoon-affiliate-details dd {
+  font-size: 0.86rem;
+  line-height: 1.35;
+  margin: 0;
+}
+
 .softmoon-affiliate-product p {
   font-size: 0.9rem;
   line-height: 1.45;
@@ -346,6 +372,13 @@ a.softmoon-category:focus-visible {
   color: #706b63;
   font-size: 0.64rem !important;
   margin: 0.3rem 0 0 !important;
+}
+
+.softmoon-term-intro {
+  color: #4b453e;
+  font-size: 0.95rem;
+  line-height: 1.55;
+  margin-top: 1rem;
 }
 
 @media (max-width: 479px) {

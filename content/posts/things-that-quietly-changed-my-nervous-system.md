@@ -7,7 +7,7 @@ affiliate: true
 summary: "Small, gentle rituals that can help create a calmer, softer inner world when modern life feels overstimulating."
 cover: /img/blog/lavendel.jpg
 categories:
-  - Selfcare
+  - Soft Living
 tags:
   - nervous system
   - soft living

@@ -6,8 +6,7 @@ draft: false
 summary: "Simple full Moon rituals can help you slow down, release what no longer serves you and reconnect with your inner rhythm."
 cover: /img/blog/moon-ritual.jpg
 categories:
-  - Astrology
-  - Cozy Evening Rituals
+  - Soft Living
 tags:
   - full moon
   - rituals

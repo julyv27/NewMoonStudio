@@ -7,7 +7,7 @@ affiliate: true
 summary: "Your nervous system does not need perfection. It needs gentle, repeated experiences that teach your body it is safe to soften."
 cover: /img/blog/nervous-system-doesnt-need-a-perfect-life.jpg
 categories:
-  - Selfcare
+  - Soft Living
 tags:
   - nervous system
   - emotional safety

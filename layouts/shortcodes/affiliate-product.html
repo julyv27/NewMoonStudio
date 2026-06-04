@@ -10,6 +10,22 @@
     {{ end }}
     <div>
       <h3>{{ .Get "title" }}</h3>
+      {{ if or (.Get "bestFor") (.Get "whereUse") }}
+        <dl class="softmoon-affiliate-details">
+          {{ with .Get "bestFor" }}
+            <div>
+              <dt>Best for</dt>
+              <dd>{{ . }}</dd>
+            </div>
+          {{ end }}
+          {{ with .Get "whereUse" }}
+            <div>
+              <dt>Where to use it</dt>
+              <dd>{{ . }}</dd>
+            </div>
+          {{ end }}
+        </dl>
+      {{ end }}
       {{ with .Get "whyFits" }}
         <p><strong>Why it fits:</strong> {{ . }}</p>
       {{ end }}
