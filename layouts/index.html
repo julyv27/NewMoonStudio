@@ -5,16 +5,14 @@
 {{ $paginator := .Paginate (where site.RegularPages "Type" "posts") }}
 
 <section class="softmoon-home-hero" aria-labelledby="softmoon-home-hero-title">
-  <p class="softmoon-home-eyebrow">Soft home inspiration for calmer days</p>
-  <h1 id="softmoon-home-hero-title">Cozy home ideas, soft lighting and gentle rituals for a calmer space.</h1>
-  <p>
-    Soft Moon Studio shares warm lighting ideas, calm home inspiration and feminine wellness rituals for creating a home that feels softer, safer and easier to rest in.
-  </p>
-  <div class="softmoon-home-actions" aria-label="Featured topics">
+  <p class="softmoon-home-eyebrow">Cozy home inspiration</p>
+  <h1 id="softmoon-home-hero-title">Soft lighting ideas for a calmer, cozier home.</h1>
+  <p>Warm lamps, gentle routines and soft home details for slower evenings.</p>
+  <nav class="softmoon-home-actions" aria-label="Featured topics">
     <a href="/categories/cozy-lighting-ideas/">Cozy Lighting Ideas</a>
     <a href="/categories/calm-home-aesthetic/">Calm Home Aesthetic</a>
     <a href="/categories/soft-living/">Soft Living</a>
-  </div>
+  </nav>
 </section>
 
 {{ if site.Params.zenMode }}
