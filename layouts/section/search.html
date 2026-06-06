@@ -47,7 +47,10 @@ x-data="{
 <script>
   var fuseData = {{ $data }};
   var fuseOptions = {
-    keys: ["title", "description", "categories", "tags"]
+    keys: ["title", "description", "categories", "tags"],
+    threshold: 0.2,
+    ignoreLocation: true,
+    minMatchCharLength: 3
   };
 
   var fuse = new Fuse(fuseData, fuseOptions);
