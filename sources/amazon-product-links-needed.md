@@ -23,12 +23,13 @@ Affiliate links received on 2026-06-06:
 
 Article: `warm-light-bulbs-explained-2700k-vs-3000k.md`
 
-5. **Dimmable 2700K LED bulb, 90+ CRI**
-   - Confirm socket/base, lumen output and dimmer compatibility.
-6. **Dimmable 3000K LED bulb, 90+ CRI**
-   - Prefer the same brand and shape as the 2700K option for a fair comparison.
-7. **Tunable warm smart LED bulb**
-   - Prefer a useful warm range around 2200K-3000K and a reputable app ecosystem.
+5. **Dimmable 2700K A19 LED bulb, 90+ CRI**
+   - Confirm E26 base, bulb dimensions, lumen output and dimmer compatibility.
+   - Prefer a reputable brand with clear specifications.
+6. **Dimmable 3000K A19 LED bulb, 90+ CRI**
+   - Prefer the same brand, shape and lumen output as the 2700K option for a fair comparison.
+7. **Tunable-white smart A19 LED bulb**
+   - Prefer a useful warm-white range, clear hub/app requirements and a reputable ecosystem.
 
 ## Cozy Reading Nook
 
