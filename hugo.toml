@@ -7,7 +7,7 @@ theme = 'dream'
 [params]
   lightTheme = 'emerald'
   darkTheme = 'forest'
-  author = 'Julia'
+  author = 'Soft Moon Studio'
   headerTitle = 'Soft Moon Studio'
   description = 'Cozy home ideas, soft lighting inspiration and gentle lifestyle rituals for creating a calmer, softer home.'
   avatar = 'img/soft-moon-logo.png'
