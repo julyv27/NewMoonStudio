@@ -153,4 +153,6 @@ Start with the place where you want to exhale at the end of the day. That might 
 
 One warm pool of light can change how a room feels. A few carefully chosen layers can make the evening feel gentler.
 
-For more ideas about creating a calmer atmosphere at home, read [How I Made My Home Feel Emotionally Safe](/posts/how-i-made-my-home-feel-emotionally-safe/). If you want to build a slower evening rhythm around your space, continue with [Things That Quietly Changed My Nervous System](/posts/things-that-quietly-changed-my-nervous-system/).
+For more ideas about creating a calmer atmosphere at home, read [How I Made My Home Feel Emotionally Safe](/posts/how-i-made-my-home-feel-emotionally-safe/). To plan the room rather than choosing one lamp at a time, continue with [How to Layer Lighting for a Cozy Home](/posts/how-to-layer-lighting-for-a-cozy-home/).
+
+If the bedroom is your priority, see [Cozy Bedroom Lighting Ideas Without the Overhead Light](/posts/cozy-bedroom-lighting-ideas-without-the-overhead-light/). For outlet-free corners, compare the [best cordless table lamps for small spaces](/posts/best-cordless-table-lamps-for-small-spaces/).

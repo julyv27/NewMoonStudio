@@ -167,4 +167,6 @@ Sometimes healing does not begin with doing more.
 
 Sometimes it begins with making your life feel softer to live inside.
 
-If you would like to explore more gentle lighting options, read [this softer evening lighting guide](/posts/9-cozy-lighting-ideas-that-make-your-home-feel-softer-at-night/).
+If you would like to explore more gentle lighting options, read [this softer evening lighting guide](/posts/9-cozy-lighting-ideas-that-make-your-home-feel-softer-at-night/) or learn [how to layer lighting for a cozy home](/posts/how-to-layer-lighting-for-a-cozy-home/).
+
+Another small way to give an evening a gentler shape is to create one place for it. [This is how I created a reading corner that helped me slow down](/posts/how-i-created-a-reading-corner-that-helped-me-slow-down/).
