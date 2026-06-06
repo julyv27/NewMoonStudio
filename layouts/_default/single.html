@@ -201,4 +201,19 @@
   {{ .Page.Store.Set "hasMathjax" true }}
 {{ end }}
 
+<script>
+  document.querySelectorAll('[data-affiliate-link]').forEach(function (link) {
+    link.addEventListener('click', function () {
+      if (typeof window.gtag !== 'function') return;
+
+      window.gtag('event', 'affiliate_click', {
+        product_name: link.dataset.productName,
+        link_type: link.dataset.linkType,
+        link_url: link.href,
+        article_path: window.location.pathname
+      });
+    });
+  });
+</script>
+
 {{ end }}

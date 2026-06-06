@@ -12,18 +12,13 @@ temporary cards are deliberately labeled `Product link`, not `Affiliate link` or
 Article: `best-cordless-table-lamps-for-small-spaces.md`
 
 1. **O'Bright Seraph Cordless LED Table Lamp**
+   - Exact product page currently used: `https://www.amazon.com/dp/B0CHHJG2YZ`
    - Prefer: warm light, multiple dimming levels, metal finish.
    - Purpose: clean all-round cordless lamp for dining, desk or bedside use.
 2. **KDG Rechargeable Cordless Table Lamps, Two-Pack**
+   - Exact product page currently used: `https://www.amazon.com/dp/B0BR3R7GHN`
    - Prefer: warm white, stable metal base, separate charging cables.
    - Purpose: matching lamps for two nightstands or a dining table.
-3. **Small dimmable cordless bedside lamp**
-   - Prefer: a very low warm setting, easy touch control, stable base.
-   - Purpose: gentle final light before sleep.
-4. **Portable USB-C rechargeable table lamp**
-   - Prefer: lightweight, warm dimming, clear runtime information.
-   - Purpose: one lamp that can move between rooms.
-
 The existing rechargeable cordless lamp already uses:
 `https://amzn.to/4uG6s1d`.
 

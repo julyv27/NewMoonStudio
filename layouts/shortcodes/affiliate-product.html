@@ -29,7 +29,13 @@
       {{ with .Get "whyFits" }}
         <p><strong>Why it fits:</strong> {{ . }}</p>
       {{ end }}
-      <a class="softmoon-affiliate-button" href="{{ .Get "url" }}" target="_blank" rel="nofollow noopener{{ if $isAffiliate }} sponsored{{ end }}">
+      {{ with .Get "checkBefore" }}
+        <p><strong>Check before buying:</strong> {{ . }}</p>
+      {{ end }}
+      {{ with .Get "skipIf" }}
+        <p><strong>Skip if:</strong> {{ . }}</p>
+      {{ end }}
+      <a class="softmoon-affiliate-button" href="{{ .Get "url" }}" target="_blank" rel="nofollow noopener{{ if $isAffiliate }} sponsored{{ end }}" data-affiliate-link data-product-name="{{ .Get "title" }}" data-link-type="{{ if $isAffiliate }}affiliate{{ else }}product{{ end }}">
         {{ with .Get "cta" }}{{ . }}{{ else }}View on Amazon{{ end }}
       </a>
       <p class="softmoon-affiliate-link-note">{{ if $isAffiliate }}Affiliate link{{ else }}Product link{{ end }}</p>
