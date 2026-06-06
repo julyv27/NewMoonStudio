@@ -41,7 +41,7 @@ Our current all-round pick is the compact rechargeable lamp below because its do
 | O'Bright Seraph | A clean metal silhouette | Taller shape spreads light across a table | Finish, dimensions and included charger |
 | KDG two-pack | Two nightstands or a dining table | Matching pair for two locations | Whether you genuinely need both lamps |
 
-The first option uses an existing Soft Moon Studio Amazon affiliate link. The two shortlisted alternatives currently link to their exact Amazon product pages but are not yet affiliate links.
+All three options below use disclosed Soft Moon Studio Amazon affiliate links.
 
 ## How These Lamps Were Selected
 
@@ -77,7 +77,7 @@ Before ordering, compare the exact height with the surface where you plan to use
 
 **Skip it if:** you prefer a fabric shade or need a traditional reading-lamp shape.
 
-{{< affiliate-product affiliate="false" eyebrow="Shortlisted option" title="O'Bright Seraph Cordless LED Table Lamp" bestFor="A compact lamp with a clean metal silhouette" whereUse="Dining table, console, desk or bedside table" whyFits="The taller shape can distribute light across a small surface without adding visual clutter." checkBefore="Confirm the current finish, dimensions, runtime by brightness level and what charging accessories are included." skipIf="You want a soft fabric shade or a lamp designed mainly for focused reading." url="https://www.amazon.com/dp/B0CHHJG2YZ" cta="View exact product on Amazon" >}}
+{{< affiliate-product eyebrow="Shortlisted pick" title="O'Bright Seraph Cordless LED Table Lamp" bestFor="A compact lamp with a clean metal silhouette" whereUse="Dining table, console, desk or bedside table" whyFits="The taller shape can distribute light across a small surface without adding visual clutter." checkBefore="Confirm the current finish, dimensions, runtime by brightness level and what charging accessories are included." skipIf="You want a soft fabric shade or a lamp designed mainly for focused reading." url="https://amzn.to/43ROop7" cta="Check availability on Amazon" >}}
 
 ## 3. KDG Two-Pack: Best for Two Matching Light Points
 
@@ -89,7 +89,7 @@ Buying two only represents value when both have a clear place. If you need one s
 
 **Skip it if:** you are buying a pair simply because the unit price appears lower.
 
-{{< affiliate-product affiliate="false" eyebrow="Shortlisted option" title="KDG Rechargeable Cordless Table Lamps, Two-Pack" bestFor="Matching light in two small areas" whereUse="Two nightstands, dining table or matching shelves" whyFits="A coordinated pair creates balance without relying on two nearby wall outlets." checkBefore="Confirm the current pack contents, dimensions, charging setup and runtime claims on each brightness setting." skipIf="You only need one lamp or do not want to keep two devices charged." url="https://www.amazon.com/dp/B0BR3R7GHN" cta="View exact product on Amazon" >}}
+{{< affiliate-product eyebrow="Shortlisted pick" title="KDG Rechargeable Cordless Table Lamps, Two-Pack" bestFor="Matching light in two small areas" whereUse="Two nightstands, dining table or matching shelves" whyFits="A coordinated pair creates balance without relying on two nearby wall outlets." checkBefore="Confirm the current pack contents, dimensions, charging setup and runtime claims on each brightness setting." skipIf="You only need one lamp or do not want to keep two devices charged." url="https://amzn.to/3Q3GRjS" cta="Check availability on Amazon" >}}
 
 ## What to Check Before Buying a Cordless Lamp
 
