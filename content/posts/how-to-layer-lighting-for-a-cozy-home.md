@@ -1,11 +1,14 @@
 ---
 title: "How to Layer Lighting for a Cozy Home"
 date: 2026-06-06T12:00:00+02:00
-lastmod: 2026-06-06T12:00:00+02:00
+lastmod: 2026-06-06T21:15:00+02:00
 draft: false
+affiliate: true
 summary: "Learn how to layer ambient, task and accent lighting so your home feels warmer, calmer and more useful after dark."
-cover: /img/blog/cozy-lighting/fairy-lights-cozy-interior.jpg
-covercaption: "A cozy room usually feels softer because several small lights are working together. Lifestyle inspiration."
+cover: /img/blog/cozy-lighting/how-to-layer-lighting-cover.jpg
+covercaption: "A floor lamp and table lamp create separate pools of warm light at different heights. Photo by Nicholas Derio Palacios via Pexels."
+images:
+  - /img/blog/cozy-lighting/how-to-layer-lighting-cover.jpg
 categories:
   - Cozy Lighting Ideas
   - Calm Home Aesthetic
@@ -35,17 +38,23 @@ Ambient light is the general glow that helps you move through a room. It can com
 
 At night, the goal is not to make every corner equally bright. A lower, warmer ambient light gives the room shape without making it feel stark.
 
+{{< affiliate-product title="Warm Linen Table Lamp" bestFor="A soft ambient glow across part of the room" whereUse="Living-room side table, bedroom dresser or console" whyFits="The textured shade diffuses the bulb and creates a gentler background layer." image="/img/products/warm-linen-table-lamp.jpg" imageAlt="Warm table lamp with a textured linen shade and dark base" imageLabel="Product image" url="https://amzn.to/3PXNNPt" cta="View on Amazon" >}}
+
 ### 2. Task Lighting
 
 Task lighting supports something specific: reading, journaling, knitting, cooking or getting ready for bed.
 
 A bedside lamp, book light or floor lamp beside a chair can provide focused light without illuminating the entire room. This is the layer that makes a cozy room practical rather than merely decorative.
 
+{{< affiliate-product title="Dimmable Warm Floor Lamp" bestFor="Focused light beside a reading chair" whereUse="Living-room sofa, armchair or bedroom reading corner" whyFits="A dimmable floor lamp directs useful light toward the activity while the rest of the room stays soft." image="/img/blog/cozy-lighting/floor-lamp.jpg" imageAlt="Warm floor lamp beside a sofa as lifestyle inspiration" url="https://amzn.to/4egT9hZ" cta="View on Amazon" >}}
+
 ### 3. Accent Lighting
 
 Accent lighting creates small points of warmth. Think of a lamp on a shelf, a short strand of fairy lights or a few flameless candles on a sideboard.
 
 This layer does not need to be bright. Its purpose is to soften empty areas and make the room feel more intentional.
+
+{{< affiliate-product title="Rechargeable Flameless Tea Lights" bestFor="Small accent lights on shelves and sideboards" whereUse="Bookcase, mantel, bath tray or quiet evening corner" whyFits="Several tiny points of warm light add atmosphere without competing with the practical lamps." image="/img/blog/cozy-lighting/flameless-candles.jpg" imageAlt="Warm candles arranged on a shelf as lifestyle inspiration" url="https://amzn.to/3QaOghj" cta="View on Amazon" >}}
 
 ## Start With What You Do in the Room
 
