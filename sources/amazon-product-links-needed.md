@@ -28,8 +28,9 @@ Article: `warm-light-bulbs-explained-2700k-vs-3000k.md`
    - Prefer a reputable brand with clear specifications.
 6. **Dimmable 3000K A19 LED bulb, 90+ CRI**
    - Prefer the same brand, shape and lumen output as the 2700K option for a fair comparison.
-7. **Tunable-white smart A19 LED bulb**
-   - Prefer a useful warm-white range, clear hub/app requirements and a reputable ecosystem.
+Affiliate link received on 2026-06-07:
+
+- Tunable-white smart bulb: `https://amzn.to/3QbqXUq`
 
 ## Cozy Reading Nook
 
