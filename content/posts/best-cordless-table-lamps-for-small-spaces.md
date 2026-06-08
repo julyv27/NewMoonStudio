@@ -1,7 +1,7 @@
 ---
 title: "Best Cordless Table Lamps for Small Spaces"
 date: 2026-06-06T12:10:00+02:00
-lastmod: 2026-06-08T14:00:00+02:00
+lastmod: 2026-06-08T15:00:00+02:00
 draft: false
 affiliate: true
 summary: "Compare cordless table lamps for small spaces, with practical advice on warm light, dimming, charging, stability and where each style works best."
@@ -38,7 +38,7 @@ Our current all-round pick is the compact rechargeable lamp below because its li
 | Option | Best for | Main advantage | Check before buying |
 | --- | --- | --- | --- |
 | Rechargeable cordless table lamp | One flexible everyday light | Compact and easy to move | Current runtime and charging method |
-| O'Bright Seraph | A traditional cordless shaded lamp | Familiar fabric-shade appearance | Finish, dimensions and included charger |
+| O'Bright Seraph | A compact cordless shaded lamp | Familiar shade in a small footprint | Finish, dimensions and included charger |
 | KDG two-pack | Two nightstands or a dining table | Matching pair for two locations | Whether you genuinely need both lamps |
 
 All three options below use disclosed Soft Moon Studio Amazon affiliate links.
@@ -67,17 +67,17 @@ The cylindrical linen shade diffuses the light in several directions and gives t
 
 **Skip it if:** you need a dedicated task lamp with strongly directed light.
 
-## 2. O'Bright Seraph: Best for a Traditional Shaded Look
+## 2. O'Bright Seraph: Best Compact Shaded Look
 
-The O'Bright Seraph has a tall black metal stem, a round charging base and a tapered white fabric shade. It suits a console, desk or bedside table when you prefer the familiar appearance of a traditional lamp without a visible power cable.
+The O'Bright Seraph combines a compact round black base, a slim stem with decorative rings and a small tapered white shade. It suits a desk or bedside table when you prefer the familiar appearance of a shaded lamp without a visible power cable.
 
 Before ordering, compare the exact height with the surface where you plan to use it. A lamp can look compact in a product image and still feel visually tall on a narrow bedside table.
 
-**Choose it if:** you want a cordless lamp with a classic fabric shade rather than a low metal restaurant-lamp silhouette.
+**Choose it if:** you want a compact cordless lamp with a classic tapered shade rather than a low metal restaurant-lamp silhouette.
 
 **Skip it if:** you need a very compact lamp, a low glare-controlled metal shade or strongly directed reading light.
 
-{{< affiliate-product eyebrow="Shortlisted pick" title="O'Bright Seraph Cordless LED Table Lamp" bestFor="A traditional shaded lamp without a visible power cord" whereUse="Console, desk, patio table or bedside table" whyFits="Its tall black metal stem and warm fabric shade look more like a classic table lamp than a compact restaurant lamp." checkBefore="Confirm the current finish, dimensions, runtime by brightness level and what charging accessories are included." skipIf="You want a low, glare-controlled metal shade or a lamp designed mainly for focused reading." image="/img/blog/cozy-lighting/obright-seraph-lifestyle.jpg" imageAlt="AI-generated representation of the O'Bright Seraph with a black metal base, tall stem and tapered white fabric shade" imageLabel="AI-generated product representation" url="https://amzn.to/43ROop7" cta="Check availability on Amazon" >}}
+{{< affiliate-product eyebrow="Shortlisted pick" title="O'Bright Seraph Cordless LED Table Lamp" bestFor="A compact shaded lamp without a visible power cord" whereUse="Desk, patio table or bedside table" whyFits="Its small black base, slim ringed stem and tapered white shade give it the familiar look of a classic lamp in a compact format." checkBefore="Confirm the current finish, dimensions, runtime by brightness level and what charging accessories are included." skipIf="You want a low, glare-controlled metal shade or a lamp designed mainly for focused reading." image="/img/blog/cozy-lighting/obright-seraph-lifestyle.jpg" imageAlt="AI-generated representation of the compact O'Bright Seraph with a round black base, slim ringed stem and small tapered white shade" imageLabel="AI-generated product representation" url="https://amzn.to/43ROop7" cta="Check availability on Amazon" >}}
 
 ## 3. KDG Two-Pack: Best for Two Matching Light Points
 
