@@ -1,7 +1,7 @@
 ---
 title: "Best Cordless Table Lamps for Small Spaces"
 date: 2026-06-06T12:10:00+02:00
-lastmod: 2026-06-08T12:00:00+02:00
+lastmod: 2026-06-08T14:00:00+02:00
 draft: false
 affiliate: true
 summary: "Compare cordless table lamps for small spaces, with practical advice on warm light, dimming, charging, stability and where each style works best."
@@ -29,9 +29,9 @@ A cordless table lamp solves that placement problem, but the wrong one can creat
 
 For most small homes, choose a **stable rechargeable lamp with warm dimmable light, simple touch controls and a charging cable you can replace easily**.
 
-Our current all-round pick is the compact rechargeable lamp below because its downward glow suits nightstands, dining tables and outlet-free corners. Treat it as a flexible layer of atmosphere rather than the only practical light in the room.
+Our current all-round pick is the compact rechargeable lamp below because its linen shade spreads a soft glow across nightstands, shelves and outlet-free corners. Treat it as a flexible layer of atmosphere rather than the only practical light in the room.
 
-{{< affiliate-product title="Rechargeable Cordless Table Lamp" bestFor="Flexible warm light in a small home" whereUse="Nightstand, shelf, dining table or outlet-free corner" whyFits="The compact shape creates a contained pool of light and can move wherever the room needs it." checkBefore="Confirm the current shape, finish, runtime, charging method, dimensions and brightness settings on the Amazon listing." skipIf="You need a strong directed lamp for long reading sessions." url="https://amzn.to/4uG6s1d" cta="Check availability on Amazon" >}}
+{{< affiliate-product title="Rechargeable Cordless Table Lamp" bestFor="Flexible warm light in a small home" whereUse="Nightstand, shelf, desk or outlet-free corner" whyFits="The cylindrical linen shade softens the light, while the compact wood-look base is easy to place on a small surface." checkBefore="Confirm the current finish, runtime, charging method, dimensions and brightness settings on the Amazon listing." skipIf="You need a strong directed lamp for long reading sessions." image="/img/blog/cozy-lighting/rechargeable-cordless-linen-table-lamp.jpg" imageAlt="AI-generated representation of a rechargeable cordless table lamp with a cylindrical linen shade and round wood-look base" imageLabel="AI-generated product representation" url="https://amzn.to/4uG6s1d" cta="Check availability on Amazon" >}}
 
 ## Compare the Shortlist
 
@@ -61,7 +61,7 @@ Soft Moon Studio has not personally laboratory-tested every lamp in this shortli
 
 This compact style is the most versatile choice when you want one lamp to move between a nightstand, dining table and shelf.
 
-The downward-facing glow is useful for atmosphere because it keeps the brightest part of the lamp below eye level. It is less suitable when you need a broad beam for detailed work or long reading sessions.
+The cylindrical linen shade diffuses the light in several directions and gives the lamp a softer, more traditional appearance. It is less suitable when you need a strongly directed beam for detailed work or long reading sessions.
 
 **Choose it if:** you want one small lamp that can soften several parts of the home.
 
