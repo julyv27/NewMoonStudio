@@ -41,5 +41,3 @@ If your work permits, begin with a creative or meaningful task while your mind i
 ## A ritual of self love
 
 Soft mornings are ultimately an act of self love. By prioritising sleep, nourishing food, gentle movement and mindful reflection, you offer yourself the stability and warmth needed to thrive. While this routine provides structure, it is also flexible: modify steps according to your mood, the season or your unique needs. Over time, these small habits will become second nature, setting the stage for days that feel both purposeful and peaceful.
-
-The same principle can shape the other end of the day. [How I Created a Reading Corner That Helped Me Slow Down](/posts/how-i-created-a-reading-corner-that-helped-me-slow-down/) explores how one small place can make a quieter evening easier to begin.

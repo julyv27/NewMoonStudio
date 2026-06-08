@@ -176,4 +176,4 @@ Sometimes softness is the most powerful form of healing.
 
 And often, the smallest rituals quietly change everything.
 
-If your environment is the place you want to begin, read [How I Made My Home Feel Emotionally Safe](/posts/how-i-made-my-home-feel-emotionally-safe/). For a practical evening ritual, continue with [How I Created a Reading Corner That Helped Me Slow Down](/posts/how-i-created-a-reading-corner-that-helped-me-slow-down/).
+If your environment is the place you want to begin, read [How I Made My Home Feel Emotionally Safe](/posts/how-i-made-my-home-feel-emotionally-safe/).
