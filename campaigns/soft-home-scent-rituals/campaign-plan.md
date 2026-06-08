@@ -186,3 +186,18 @@ and prioritize the reader's question.
 - Use clear affiliate disclosures on commercial articles.
 - Prefer products that are visually consistent with Soft Moon Studio but do not
   choose appearance at the expense of safety, usability or honest limitations.
+
+## Conversion Upgrade: June 8, 2026
+
+The cornerstone guide was strengthened after publication with:
+
+- a visible product and specification verification date
+- a more useful comparison table with method and capacity
+- a decisive short recommendation that reduces choice overload
+- four unique product-card images based on the linked products' general forms
+- explicit labels stating that these are AI-generated product representations
+- product-specific CTA wording focused on checking current listing details
+
+The guide deliberately does not use invented star ratings, first-hand testing
+language, artificial scarcity or unsupported popularity claims. Those devices may
+increase short-term clicks, but would weaken trust and product-review quality.
