@@ -98,7 +98,11 @@ All four exact Amazon destinations and SiteStripe links were verified on
 2026-06-08. Product cards remain text-only because no accurate, permitted exact
 product images are available locally.
 
-Publication status: **ready to publish**.
+Publication status: **published on 2026-06-08**.
+
+Live URL:
+
+`https://softmoonstudio.com/posts/best-essential-oil-diffusers-that-look-like-home-decor/`
 
 ## Recommended First Publication Set
 
