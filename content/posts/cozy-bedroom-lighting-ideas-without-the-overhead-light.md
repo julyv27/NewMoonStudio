@@ -58,8 +58,6 @@ Decorative bedside light is not always enough for a printed page. If you read in
 
 If you have a chair in the bedroom, place a dimmable floor lamp beside or slightly behind it. This turns an unused corner into a practical reading space.
 
-See the [cozy reading nook essentials guide](/posts/cozy-reading-nook-essentials-for-slow-evenings/) for the comfort and storage layers that complete the corner.
-
 ## 5. Use a Cordless Lamp in Awkward Corners
 
 Bedrooms often have one place where an outlet is missing: a shelf, a small vanity or the far side of the bed.

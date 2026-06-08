@@ -32,30 +32,6 @@ Affiliate link received on 2026-06-07:
 
 - Tunable-white smart bulb: `https://amzn.to/3QbqXUq`
 
-## Cozy Reading Nook
-
-Article: `cozy-reading-nook-essentials-for-slow-evenings.md`
-
-8. **Nestl reading pillow with back and arm support**
-   - Confirm removable/washable cover and size.
-9. **Gritin rechargeable book light**
-   - Prefer adjustable warmth, brightness and a secure lightweight clip.
-10. **Slim C-shaped side table**
-    - Confirm dimensions and load capacity; choose a warm wood or dark neutral finish.
-11. **Bedsure fleece throw blanket**
-    - Prefer a soft neutral or muted warm color and machine-washable care.
-12. **Small linen lumbar pillow**
-    - Prefer a removable cover and compact depth suitable for an armchair.
-13. **OIAHOMY woven blanket basket**
-    - Prefer a medium size in a natural neutral color.
-14. **Mug warmer with automatic shutoff**
-    - Prefer a recognized model with clear safety instructions and broad flat-mug compatibility.
-
-Existing affiliate products reused in this guide:
-
-- Dimmable warm floor lamp: `https://amzn.to/4egT9hZ`
-- Rechargeable cordless table lamp: `https://amzn.to/4uG6s1d`
-
 ## Replacement Checklist
 
 For each approved product:

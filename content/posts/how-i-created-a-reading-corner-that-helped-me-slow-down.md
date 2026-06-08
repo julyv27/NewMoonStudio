@@ -91,7 +91,7 @@ If I were beginning again, I would use this order:
 
 That is enough.
 
-The [9 Cozy Reading Nook Essentials](/posts/cozy-reading-nook-essentials-for-slow-evenings/) guide includes practical options, but it is not a checklist you have to complete. It is a way to identify the one missing piece that would help your corner work better.
+Treat this order as a way to identify the one missing piece that would help your corner work better, not as a checklist you have to complete.
 
 ## A Place to Return to Yourself
 

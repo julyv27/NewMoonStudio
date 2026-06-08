@@ -120,7 +120,7 @@ Place a floor lamp beside the seat you use most. Add a table lamp on the opposit
 
 Begin with a lamp that directs useful light toward the page. Then add a softer light behind or beside the chair so the contrast with the rest of the room is not too strong.
 
-Our [cozy reading nook essentials guide](/posts/cozy-reading-nook-essentials-for-slow-evenings/) brings the lighting, comfort and storage pieces together.
+The same principle applies here: begin with useful reading light, then add comfort and storage only where the corner genuinely needs them.
 
 ## What to Avoid
 
