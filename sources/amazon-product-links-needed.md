@@ -19,19 +19,6 @@ Affiliate links received on 2026-06-06:
 - O'Bright Seraph: `https://amzn.to/43ROop7`
 - KDG Two-Pack: `https://amzn.to/3Q3GRjS`
 
-## Warm Light Bulbs
-
-Article: `warm-light-bulbs-explained-2700k-vs-3000k.md`
-
-5. **Dimmable 2700K A19 LED bulb, 90+ CRI**
-   - Confirm E26 base, bulb dimensions, lumen output and dimmer compatibility.
-   - Prefer a reputable brand with clear specifications.
-6. **Dimmable 3000K A19 LED bulb, 90+ CRI**
-   - Prefer the same brand, shape and lumen output as the 2700K option for a fair comparison.
-Affiliate link received on 2026-06-07:
-
-- Tunable-white smart bulb: `https://amzn.to/3QbqXUq`
-
 ## Replacement Checklist
 
 For each approved product:

@@ -97,7 +97,7 @@ Buying two only represents value when both have a clear place. If you need one s
 
 Look for warm white light around **2700K to 3000K** and more than one brightness level. A lamp that feels pleasant during dinner may still be too bright beside the bed.
 
-If the listing only says “warm light,” look for product images or specifications that state the actual color temperature. Our guide to [2700K vs 3000K lighting](/posts/warm-light-bulbs-explained-2700k-vs-3000k/) explains the difference.
+If the listing only says “warm light,” look for product images or specifications that state the actual color temperature. Choose 2700K for a softer evening glow or 3000K when you want warm light with slightly clearer visibility.
 
 ### Runtime at the Setting You Will Use
 

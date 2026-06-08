@@ -87,8 +87,6 @@ Try:
 - dimmable bulbs when the fixture supports them
 - 90+ CRI when you want fabrics and colors to look natural
 
-Read [Warm Light Bulbs Explained: 2700K vs 3000K](/posts/warm-light-bulbs-explained-2700k-vs-3000k/) before buying a full set.
-
 ## A Simple Bedroom Lighting Plan
 
 For most bedrooms, begin with:

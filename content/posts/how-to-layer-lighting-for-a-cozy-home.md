@@ -94,8 +94,6 @@ For bedrooms, living rooms and evening corners, **2700K** is a reliable cozy sta
 
 Brightness matters too. A warm bulb can still feel uncomfortable if it is far brighter than the room needs. Dimmable bulbs and lamps give you more control as daylight fades.
 
-For a practical comparison, read [Warm Light Bulbs Explained: 2700K vs 3000K](/posts/warm-light-bulbs-explained-2700k-vs-3000k/).
-
 ## Soften the Bulb
 
 An exposed bulb can create glare even when its color is warm. Linen, paper, frosted glass and opal shades diffuse the light so it reaches the room more gently.
