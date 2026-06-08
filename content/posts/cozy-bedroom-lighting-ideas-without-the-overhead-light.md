@@ -1,7 +1,7 @@
 ---
 title: "Cozy Bedroom Lighting Ideas Without the Overhead Light"
 date: 2026-06-06T12:30:00+02:00
-lastmod: 2026-06-06T12:30:00+02:00
+lastmod: 2026-06-07T17:55:00+02:00
 draft: false
 affiliate: true
 summary: "Create a softer bedroom at night with layered bedside lamps, renter-friendly sconces and small warm lights instead of one harsh ceiling fixture."
@@ -40,7 +40,7 @@ Wall sconces free the surface beside the bed and make a small room feel more con
 
 Before mounting one, sit in bed and check the height. The light should support reading without shining directly into your eyes.
 
-{{< affiliate-product title="Rechargeable Wall Sconce" bestFor="Renter-friendly bedside lighting" whereUse="Beside the bed or above a compact reading chair" whyFits="A wall-mounted light preserves nightstand space and does not require permanent rewiring." image="/img/blog/cozy-lighting/wall-sconce.jpg" imageAlt="Warm wall-mounted lamp as lifestyle inspiration" url="https://amzn.to/4vfZCiS" cta="View on Amazon" >}}
+{{< affiliate-product title="Depuley Battery-Operated Wall Sconces, Set of 2" bestFor="Matching renter-friendly bedside lighting" whereUse="On both sides of a bed, along a hallway or around a console" whyFits="The wireless gold sconces add balanced wall light without permanent electrical wiring or taking up nightstand space." checkBefore="Confirm the current dimensions, mounting method, included rechargeable bulbs, remote functions and wall suitability on Amazon." skipIf="You need hardwired task lighting or an adjustable swing arm for focused reading." image="/img/blog/cozy-lighting/depuley-wireless-wall-sconces.jpg" imageAlt="AI-generated representation of two gold battery-operated wall sconces with white shades beside a bed" imageLabel="AI-generated product representation" url="https://www.amazon.com/Depuley-Battery-Operated-Wall-Sconce/dp/B0DRCVXK8J?th=1&linkCode=sl2&tag=softmoonstudi-20&linkId=ec7201ab45cc3515cc409f9a6af9ebb7&language=en_US&ref_=as_li_ss_tl" cta="Check availability on Amazon" >}}
 
 ## 3. Add a Second Light Across the Room
 
