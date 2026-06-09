@@ -4,7 +4,15 @@
   <div class="softmoon-affiliate-product-layout{{ if not (.Get "image") }} softmoon-affiliate-product-layout-text-only{{ end }}">
     {{ with .Get "image" }}
       <figure class="softmoon-affiliate-product-image">
-        <img src="{{ . }}" alt="{{ $.Get "imageAlt" }}" loading="lazy" />
+        {{ $imageURL := . }}
+        {{ $imageFile := replaceRE `\?.*$` "" $imageURL }}
+        {{ $imagePath := printf "static%s" $imageFile }}
+        {{ if and (fileExists $imagePath) (not (hasSuffix $imageFile ".svg")) }}
+          {{ $imageConfig := imageConfig $imagePath }}
+          <img src="{{ $imageURL }}" alt="{{ $.Get "imageAlt" }}" width="{{ $imageConfig.Width }}" height="{{ $imageConfig.Height }}" loading="lazy" decoding="async" />
+        {{ else }}
+          <img src="{{ $imageURL }}" alt="{{ $.Get "imageAlt" }}" loading="lazy" decoding="async" />
+        {{ end }}
         <figcaption>{{ with $.Get "imageLabel" }}{{ . }}{{ else }}Lifestyle inspiration{{ end }}</figcaption>
       </figure>
     {{ end }}

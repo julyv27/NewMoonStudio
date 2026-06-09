@@ -79,7 +79,9 @@
       <section id="dream-single-post-content" itemprop="articleBody">
         {{ if and .Params.Cover site.Params.showSummaryCoverInPost }}
           <figure>
-            <img class="z-30" src="{{ .Params.Cover }}" alt="{{ .Title }}" />
+            {{ $coverPath := printf "static%s" .Params.Cover }}
+            {{ $coverConfig := imageConfig $coverPath }}
+            <img class="z-30" src="{{ .Params.Cover }}" alt="{{ .Title }}" width="{{ $coverConfig.Width }}" height="{{ $coverConfig.Height }}" decoding="async" fetchpriority="high" />
             {{ with .Params.covercaption }}
               <figcaption class="text-sm italic text-center mt-2">{{ . }}</figcaption>
             {{ end }}

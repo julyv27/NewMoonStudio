@@ -1,18 +1,21 @@
 <a class="card bg-base-100 hover:bg-base-content/10 shadow-xl cursor-pointer dark:border dark:border-base-content/30" href="{{ .RelPermalink }}">
+  {{ $priorityCover := .Store.Get "priorityCover" }}
   {{ if .Params.cover }}
   <figure>
     {{ with .Resources.Get .Params.cover }}
     {{ if eq .MediaType.SubType "svg" }}
-      <img src="{{ .RelPermalink }}" alt="{{ .Title }}" />
+      <img src="{{ .RelPermalink }}" alt="{{ .Title }}" decoding="async" {{ if $priorityCover }}fetchpriority="high"{{ else }}loading="lazy"{{ end }} />
     {{ else }}
       {{ $webp := .Resize (printf "%dx%d webp" .Width .Height) }}
       <picture>
         <source srcset="{{ $webp.RelPermalink }}" type="image/webp" />
-        <img src="{{ .RelPermalink }}" alt="{{ .Title }}" />
+        <img src="{{ .RelPermalink }}" alt="{{ .Title }}" decoding="async" {{ if $priorityCover }}fetchpriority="high"{{ else }}loading="lazy"{{ end }} />
       </picture>
     {{ end }}
     {{ else }}
-    <img src="{{ .Params.cover }}" alt="{{ .Title }}" />
+    {{ $coverPath := printf "static%s" .Params.cover }}
+    {{ $coverConfig := imageConfig $coverPath }}
+    <img src="{{ .Params.cover }}" alt="{{ .Title }}" width="{{ $coverConfig.Width }}" height="{{ $coverConfig.Height }}" decoding="async" {{ if $priorityCover }}fetchpriority="high"{{ else }}loading="lazy"{{ end }} />
     {{ end }}
   </figure>
   {{ else if not site.Params.noDefaultSummaryCover }}
@@ -21,7 +24,7 @@
     {{ $webp := .Resize (printf "%dx%d webp" .Width .Height) }}
     <picture>
       <source srcset="{{ $webp.RelPermalink }}" type="image/webp" />
-      <img src="{{ .RelPermalink }}" alt="{{ .Title }}" />
+      <img src="{{ .RelPermalink }}" alt="{{ .Title }}" loading="lazy" decoding="async" />
     </picture>
     {{ end }}
   </figure>

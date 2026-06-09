@@ -1,0 +1,38 @@
+{{ with site.Params.favicon }}
+  {{ if hasPrefix . "<link" }}
+    {{ . | safeHTML }}
+  {{ else }}
+    <link href="{{ . | relURL }}" rel="icon" type="image/x-icon" />
+  {{ end }}
+{{ end }}
+
+<link rel="canonical" href="{{ .Permalink }}" />
+<link rel="preconnect" href="https://www.googletagmanager.com" />
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
+
+{{ if eq .Type "posts" }}
+<meta name="author" content="{{ if isset .Params "author" }}{{ .Params.author }}{{ else }}{{ site.Params.author }}{{ end }}" />
+<meta name="description" content="{{ (or .Description .Summary) | plainify }}" />
+{{- $keywords := slice }}
+{{- with .Keywords }}
+  {{- $keywords = . }}
+{{- else }}
+  {{- range .GetTerms "tags" }}
+    {{- $keywords = $keywords | append .Title }}
+  {{- end }}
+{{- end }}
+<meta name="keywords" content="{{ delimit $keywords `,` }}">
+{{ else }}
+<meta name="author" content="{{ site.Params.author }}" />
+<meta name="description" content="{{ site.Params.description | plainify }}" />
+{{ end }}
+
+{{ hugo.Generator }}
+{{ template "_internal/opengraph.html" . }}
+{{ template "_internal/twitter_cards.html" . }}
+
+{{ $outputCss := resources.Get "css/output.css" }}
+{{ if hugo.IsProduction }}
+  {{ $outputCss = $outputCss | minify }}
+{{ end }}
+<link rel="stylesheet" href="{{ $outputCss.RelPermalink }}" />

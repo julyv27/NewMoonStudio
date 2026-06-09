@@ -45,10 +45,35 @@ wordt:
 
 ## Optioneel: www doorsturen
 
-Als `www.softmoonstudio.com` ook gebruikt moet kunnen worden, maak een tweede
-Bulk Redirect aan van `www.softmoonstudio.com` naar `https://softmoonstudio.com`
-met dezelfde opties en status `301`. Voeg in DNS ook een proxied `A`-record toe:
+`www.softmoonstudio.com` moet als alternatieve ingang bereikbaar zijn. Voeg het
+eerst als custom domain toe aan hetzelfde Pages-project en maak daarna een
+proxied DNS-record aan:
 
 | Type | Naam | IPv4-adres | Proxy status |
 | --- | --- | --- | --- |
-| `A` | `www` | `192.0.2.1` | Proxied |
+| `CNAME` | `www` | `softmoonstudio.pages.dev` | Proxied |
+
+Maak vervolgens een Bulk Redirect van `www.softmoonstudio.com` naar
+`https://softmoonstudio.com` met status `301`, subpath matching en behoud van
+querystrings. Controleer daarna beide ingangen met:
+
+```sh
+curl -I https://softmoonstudio.com/
+curl -I https://www.softmoonstudio.com/
+```
+
+De eerste hoort `200` te geven en de tweede één `301` naar het hoofddomein.
+
+## Beschikbaarheid en 502-controle
+
+- Production branch: `main`
+- Build command: `hugo --gc --minify`
+- Output directory: `public`
+- Koppel geen extra Worker of reverse proxy vóór het Pages-project.
+- Laat de laatste geslaagde Pages-deployment actief wanneer een nieuwe build faalt.
+- Stel een externe uptimecheck in op `/` en op een representatief artikel, elke
+  vijf minuten vanuit minstens twee regio's.
+- Waarschuw bij twee opeenvolgende `5xx`-responses; één losse Cloudflare-fout kan
+  een tijdelijk netwerkincident zijn.
+- Controleer bij een 502 eerst de Cloudflare Ray ID, Pages deployment status en
+  eventuele redirect- of Worker-rules voordat DNS wordt gewijzigd.

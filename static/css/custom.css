@@ -94,26 +94,28 @@ body {
   position: relative;
 }
 
-.dream-grid .card::after,
-.softmoon-post-grid .card::after {
-  background-image: url("/img/maanhover.png");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: min(82%, 320px);
-  content: "";
-  inset: 0;
-  opacity: 0;
-  pointer-events: none;
-  position: absolute;
-  transition: opacity 180ms ease;
-  z-index: 2;
-}
+@media (hover: hover) and (pointer: fine) {
+  .dream-grid .card::after,
+  .softmoon-post-grid .card::after {
+    background-image: url("/img/maanhover-small.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: min(82%, 320px);
+    content: "";
+    inset: 0;
+    opacity: 0;
+    pointer-events: none;
+    position: absolute;
+    transition: opacity 180ms ease;
+    z-index: 2;
+  }
 
-.dream-grid .card:hover::after,
-.dream-grid .card:focus-visible::after,
-.softmoon-post-grid .card:hover::after,
-.softmoon-post-grid .card:focus-visible::after {
-  opacity: 0.25;
+  .dream-grid .card:hover::after,
+  .dream-grid .card:focus-visible::after,
+  .softmoon-post-grid .card:hover::after,
+  .softmoon-post-grid .card:focus-visible::after {
+    opacity: 0.25;
+  }
 }
 
 .dream-grid .card > *,
@@ -303,6 +305,32 @@ a.softmoon-category:focus-visible {
   text-decoration: none;
 }
 
+#dream-single-post-content {
+  overflow-wrap: anywhere;
+}
+
+#dream-single-post-content img {
+  height: auto;
+  max-width: 100%;
+}
+
+#dream-single-post-content table {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+  overscroll-behavior-inline: contain;
+  white-space: nowrap;
+}
+
+footer {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+
+footer > * {
+  max-width: 100%;
+}
+
 .softmoon-affiliate-button:hover,
 .softmoon-affiliate-button:focus-visible {
   background: #4b52ff;
@@ -330,6 +358,13 @@ a.softmoon-category:focus-visible {
   .softmoon-affiliate-product-image {
     aspect-ratio: 16 / 9;
   }
+
+  .softmoon-affiliate-button {
+    align-items: center;
+    justify-content: center;
+    min-height: 44px;
+    width: 100%;
+  }
 }
 
 @media (max-width: 639px) {
@@ -344,7 +379,8 @@ a.softmoon-category:focus-visible {
   }
 
   .softmoon-wordmark {
-    font-size: 2.2rem;
+    font-size: clamp(1.85rem, 10vw, 2.2rem);
+    white-space: normal;
   }
 
   .softmoon-nav-actions {
@@ -358,6 +394,21 @@ a.softmoon-category:focus-visible {
     flex: 1;
     flex-basis: 100%;
     width: auto;
+  }
+
+  #dream-single-post-main h1[itemprop="headline"] {
+    font-size: clamp(2rem, 10vw, 2.65rem);
+  }
+
+  .card-title {
+    font-size: 1.35rem;
+  }
+
+  footer,
+  footer > div {
+    align-items: flex-start;
+    text-align: left;
+    width: 100%;
   }
 }
 
