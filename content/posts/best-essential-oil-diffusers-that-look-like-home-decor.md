@@ -1,6 +1,6 @@
 ---
 title: "4 Best Essential Oil Diffusers That Look Like Home Decor"
-date: 2026-06-08T19:30:00+02:00
+date: 2026-06-06T11:30:00+02:00
 lastmod: 2026-06-08T20:50:00+02:00
 draft: false
 affiliate: true
