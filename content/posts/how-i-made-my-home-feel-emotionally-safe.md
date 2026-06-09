@@ -1,10 +1,12 @@
 ---
-title: "How I Made My Home Feel Emotionally Safe"
+title: "How to Make Your Home Feel Safe and Cozy: What Helped Me"
+seoTitle: "How to Make Your Home Feel Safe and Cozy"
 date: 2026-06-01T12:00:00+02:00
-lastmod: 2026-06-01T12:00:00+02:00
+lastmod: 2026-06-09T14:00:00+02:00
 draft: false
 affiliate: true
 summary: "Small changes in lighting, atmosphere and evening rituals can help create a calmer home that feels emotionally safe."
+description: "Explore gentle ways to make your home feel safe and cozy through softer lighting, less sensory clutter and simple evening rituals."
 cover: /img/blog/lamp-blog.jpg
 categories:
   - Calm Home Aesthetic
@@ -14,9 +16,18 @@ tags:
   - nervous system
   - evening rituals
   - soft living
+sources:
+  - title: "I'm So Stressed Out! Fact Sheet"
+    publisher: "National Institute of Mental Health"
+    url: "https://www.nimh.nih.gov/health/publications/stress/index.shtml"
+  - title: "Lighting Principles and Terms"
+    publisher: "U.S. Department of Energy"
+    url: "https://www.energy.gov/energysaver/lighting-principles-and-terms"
 ---
 
 For a long time, I thought stress only lived inside my mind.
+
+*This is a personal reflection about comfort and environment, not mental-health advice. Persistent stress or anxiety deserves support from a qualified professional.*
 
 I blamed my overthinking. My schedule. My phone. My anxiety.
 

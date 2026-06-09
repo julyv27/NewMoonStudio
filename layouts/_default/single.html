@@ -1,4 +1,4 @@
-{{ define "title" }}{{ .Title }}{{ end }}
+{{ define "title" }}{{ or .Params.seoTitle .Title }}{{ end }}
 
 {{ define "css" }}
 
@@ -53,6 +53,11 @@
         </div>
         {{ end }}
         <p class="text-sm">
+          {{ if eq .Type "posts" }}
+            <span itemprop="author" itemscope itemtype="https://schema.org/Organization">
+              By <a itemprop="url" href="{{ "about-soft-moon-studio/" | relURL }}"><span itemprop="name">{{ site.Params.author }}</span></a>
+            </span> |
+          {{ end }}
           {{ if site.Params.Experimental.jsDate }}
             <span data-format="luxon">{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}</span>
           {{ else }}
@@ -93,6 +98,24 @@
         {{ end }}
 
         {{ .Content | emojify }}
+
+        {{ with .Params.sources }}
+          <section class="softmoon-sources not-prose" aria-labelledby="article-sources">
+            <h2 id="article-sources">Sources and further reading</h2>
+            <ul>
+              {{ range . }}
+                <li>
+                  <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .title }}</a>
+                  {{ with .publisher }}<span> — {{ . }}</span>{{ end }}
+                </li>
+              {{ end }}
+            </ul>
+          </section>
+        {{ end }}
+
+        {{ if eq .Type "posts" }}
+          {{ partial "article-author.html" . }}
+        {{ end }}
 
         {{ if fileExists "layouts/partials/adsense-post-bottom.html" }}
           <div class="dream-adsense-post-bottom">

@@ -1,10 +1,12 @@
 ---
-title: "Cozy Bedroom Lighting Ideas Without the Overhead Light"
+title: "7 Cozy Bedroom Lighting Ideas Without an Overhead Light"
+seoTitle: "Bedroom Lighting Without an Overhead Light"
 date: 2026-06-06T12:30:00+02:00
-lastmod: 2026-06-07T17:55:00+02:00
+lastmod: 2026-06-09T14:00:00+02:00
 draft: false
 affiliate: true
 summary: "Create a softer bedroom at night with layered bedside lamps, renter-friendly sconces and small warm lights instead of one harsh ceiling fixture."
+description: "Try seven cozy bedroom lighting ideas without an overhead light, using bedside lamps, renter-friendly sconces and warm accent lighting."
 cover: /img/blog/cozy-lighting/cover-cozy-bedroom.jpg
 covercaption: "Small pools of warm light can make a bedroom feel softer without changing the entire room. Photo via Pexels."
 categories:
@@ -16,6 +18,13 @@ tags:
   - bedside lamps
   - nightstand lighting
   - renter friendly lighting
+sources:
+  - title: "Lighting Principles and Terms"
+    publisher: "U.S. Department of Energy"
+    url: "https://www.energy.gov/energysaver/lighting-principles-and-terms"
+  - title: "Lighting Design"
+    publisher: "U.S. Department of Energy"
+    url: "https://www.energy.gov/energysaver/lighting-design"
 ---
 
 The bedroom often feels most peaceful in daylight and least peaceful when the main light goes on.

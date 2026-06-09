@@ -1,10 +1,12 @@
 ---
 title: "9 Cozy Lighting Ideas That Make Your Home Feel Softer at Night"
+seoTitle: "9 Cozy Lighting Ideas for a Warm Home"
 date: 2026-06-01T22:45:00+02:00
-lastmod: 2026-06-07T17:55:00+02:00
+lastmod: 2026-06-09T14:00:00+02:00
 draft: false
 affiliate: true
 summary: "Nine cozy lighting ideas for creating a softer evening atmosphere, from bedside lamps and warm linen shades to renter-friendly wall lights and flameless candles."
+description: "Discover nine cozy lighting ideas for a warm, relaxing home, including soft table lamps, renter-friendly wall lights and gentle accent lighting."
 cover: /img/blog/cozy-lighting/cover-cozy-bedroom.jpg
 covercaption: "A softly lit bedroom can feel calmer at the end of the day. Photo via Pexels."
 images:
@@ -21,6 +23,13 @@ tags:
   - bedroom lamp
   - evening rituals
   - home decor
+sources:
+  - title: "Lighting Principles and Terms"
+    publisher: "U.S. Department of Energy"
+    url: "https://www.energy.gov/energysaver/lighting-principles-and-terms"
+  - title: "Lighting Design"
+    publisher: "U.S. Department of Energy"
+    url: "https://www.energy.gov/energysaver/lighting-design"
 ---
 
 Some homes feel quieter the moment evening begins.

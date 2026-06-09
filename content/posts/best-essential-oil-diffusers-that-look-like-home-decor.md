@@ -1,10 +1,12 @@
 ---
 title: "4 Best Essential Oil Diffusers That Look Like Home Decor"
+seoTitle: "4 Decorative Essential Oil Diffusers"
 date: 2026-06-06T11:30:00+02:00
-lastmod: 2026-06-08T20:50:00+02:00
+lastmod: 2026-06-09T14:00:00+02:00
 draft: false
 affiliate: true
 summary: "Compare four essential oil diffusers that look at home in a calm interior, from premium ceramic designs to large-capacity and waterless options."
+description: "Compare four essential oil diffusers that look like home decor, including ceramic, compact, large-capacity and waterless designs."
 cover: /img/blog/soft-home-rituals/decorative-essential-oil-diffusers.jpg
 covercaption: "Decorative diffusers can add fragrance without making a calm room feel more cluttered. AI-generated lifestyle inspiration; not exact product representations."
 images:
@@ -20,6 +22,13 @@ tags:
   - calm home
   - home decor
   - soft home rituals
+sources:
+  - title: "Aromatherapy"
+    publisher: "National Center for Complementary and Integrative Health"
+    url: "https://www.nccih.nih.gov/health/aromatherapy"
+  - title: "The Essentials of Essential Oils Around Pets"
+    publisher: "ASPCA"
+    url: "https://www.aspca.org/news/essentials-essential-oils-around-pets"
 ---
 
 An essential oil diffuser can make a room smell more considered, but many models look like small appliances: shiny plastic, bright buttons and colored lights that compete with the rest of the space.

@@ -1,10 +1,12 @@
 ---
 title: "Best Cordless Table Lamps for Small Spaces"
+seoTitle: "Best Cordless Lamps for Small Spaces"
 date: 2026-06-06T12:10:00+02:00
-lastmod: 2026-06-08T15:00:00+02:00
+lastmod: 2026-06-09T14:00:00+02:00
 draft: false
 affiliate: true
 summary: "Compare cordless table lamps for small spaces, with practical advice on warm light, dimming, charging, stability and where each style works best."
+description: "Compare the best cordless table lamps for small spaces, nightstands and rental homes, with practical checks for warm light, runtime and charging."
 cover: /img/blog/cozy-lighting/best-cordless-table-lamps-cover.jpg
 covercaption: "AI-generated cordless-lamp lifestyle image. This is not an image of the exact linked product."
 images:
@@ -17,6 +19,10 @@ tags:
   - small space lighting
   - renter friendly lighting
   - bedside lamps
+sources:
+  - title: "Lighting Principles and Terms"
+    publisher: "U.S. Department of Energy"
+    url: "https://www.energy.gov/energysaver/lighting-principles-and-terms"
 ---
 
 Some of the corners that need light most are the ones furthest from an outlet.

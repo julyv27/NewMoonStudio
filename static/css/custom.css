@@ -331,6 +331,58 @@ footer > * {
   max-width: 100%;
 }
 
+.softmoon-author-box,
+.softmoon-sources {
+  border-top: 1px solid color-mix(in srgb, currentColor 16%, transparent);
+  margin-top: 2.5rem;
+  padding-top: 1.25rem;
+}
+
+.softmoon-author-box {
+  background: #e9e5dd;
+  border: 1px solid color-mix(in srgb, currentColor 14%, transparent);
+  border-radius: 0.85rem;
+  padding: 1rem;
+}
+
+.softmoon-author-label {
+  color: #706b63;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  margin: 0 0 0.25rem;
+  text-transform: uppercase;
+}
+
+.softmoon-author-box h2,
+.softmoon-sources h2 {
+  font-family: "Questrial", ui-sans-serif, system-ui, sans-serif;
+  font-size: 1.2rem;
+  font-weight: 400;
+  margin: 0 0 0.6rem;
+}
+
+.softmoon-author-box p,
+.softmoon-sources li {
+  font-size: 0.88rem;
+  line-height: 1.55;
+}
+
+.softmoon-author-box p {
+  margin: 0 0 0.65rem;
+}
+
+.softmoon-author-box a,
+.softmoon-sources a {
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+.softmoon-sources ul {
+  margin: 0;
+  padding-left: 1.1rem;
+}
+
 .softmoon-affiliate-button:hover,
 .softmoon-affiliate-button:focus-visible {
   background: #4b52ff;
