@@ -55,7 +55,7 @@
         <p class="text-sm">
           {{ if eq .Type "posts" }}
             <span itemprop="author" itemscope itemtype="https://schema.org/Organization">
-              By <a itemprop="url" href="{{ "about-soft-moon-studio/" | relURL }}"><span itemprop="name">{{ site.Params.author }}</span></a>
+              By <a itemprop="url" href="{{ "about/" | relURL }}"><span itemprop="name">{{ site.Params.author }}</span></a>
             </span> |
           {{ end }}
           {{ if site.Params.Experimental.jsDate }}

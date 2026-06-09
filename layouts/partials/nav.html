@@ -12,14 +12,9 @@
     </a>
 
     <section class="flex items-center justify-end gap-3 softmoon-nav-actions">
-      {{ with site.GetPage "/about" }}
-      {{ $aboutPages := .Resources.ByType "page" }}
-      {{ if gt (len $aboutPages) 0 }}
-      <button type="button" class="text-sm font-semibold cursor-pointer hover:underline" @click="flip = !flip">
+      <a class="text-sm font-semibold hover:underline" href="{{ "about/" | relURL }}">
         {{ T "about" }}
-      </button>
-      {{ end }}
-      {{ end }}
+      </a>
 
       <form class="softmoon-search" action="{{ "search" | relLangURL }}" method="get" role="search">
         <label for="nav-search" class="input input-sm w-full">
