@@ -1,14 +1,14 @@
 ---
 title: "How to Layer Lighting for a Cozy Home"
 date: 2026-06-06T12:00:00+02:00
-lastmod: 2026-06-09T10:30:00+02:00
+lastmod: 2026-06-09T13:15:00+02:00
 draft: false
 affiliate: true
 summary: "Learn how to layer ambient, task and accent lighting so your home feels warmer, calmer and more useful after dark."
-cover: /img/blog/cozy-lighting/how-to-layer-lighting-cover-v2.jpg
+cover: /img/blog/cozy-lighting/how-to-layer-lighting-cover-v3.jpg
 covercaption: "A linen table lamp, focused floor lamp and small flameless lights demonstrate three layers of warm evening light. AI-generated lifestyle inspiration; not exact product representations."
 images:
-  - /img/blog/cozy-lighting/how-to-layer-lighting-cover-v2.jpg
+  - /img/blog/cozy-lighting/how-to-layer-lighting-cover-v3.jpg
 categories:
   - Cozy Lighting Ideas
   - Calm Home Aesthetic
