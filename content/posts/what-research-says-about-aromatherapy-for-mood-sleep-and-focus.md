@@ -5,10 +5,10 @@ date: 2026-06-11T09:30:00+02:00
 draft: false
 summary: "A careful look at what research does and does not say about using aromatherapy for mood, sleep and focus, plus simple ways to create a scent ritual at home."
 description: "Explore what current research says about aromatherapy for mood, sleep and focus, with realistic expectations and practical essential-oil safety guidance."
-cover: /img/blog/soft-home-rituals/decorative-essential-oil-diffusers.jpg
-covercaption: "A diffuser can make scent part of a home ritual. AI-generated lifestyle inspiration; not an exact product representation."
+cover: /img/blog/soft-home-rituals/aromatherapy-mood-sleep-focus.jpg
+covercaption: "Rosemary, lavender and citrus can give different moments of the day their own sensory character. AI-generated editorial lifestyle image."
 images:
-  - /img/blog/soft-home-rituals/decorative-essential-oil-diffusers.jpg
+  - /img/blog/soft-home-rituals/aromatherapy-mood-sleep-focus.jpg
 categories:
   - Feminine Wellness
 tags:
