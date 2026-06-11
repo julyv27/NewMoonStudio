@@ -65,7 +65,7 @@ Scent can influence how a space is perceived, and some aromatherapy studies have
 
 The National Center for Complementary and Integrative Health highlights a study in which lemon had a positive effect on mood under stress, while neither lemon nor lavender changed the participants' stress indicators or pain. The National Cancer Institute also summarizes clinical studies with both positive and negative results.
 
-That distinction matters. A scent may make a room feel more comforting without measurably reducing stress or treating anxiety. It is reasonable to use aroma as part of a wind-down ritual, but not as a substitute for mental-health care.
+That distinction matters. A scent may make a room feel more comforting without measurably reducing stress or treating anxiety. It is reasonable to use aroma as part of a wind-down ritual, but not as a substitute for mental-health care. For a personal perspective on building small supportive routines, read [Things That Quietly Changed My Nervous System](/posts/things-that-quietly-changed-my-nervous-system/).
 
 ### Sleep and Evening Routines
 
@@ -98,3 +98,56 @@ Essential oils should not replace:
 - proper cleaning, ventilation or infection control
 - evidence-based insect protection
 - professional advice about respiratory symptoms
+
+Laboratory findings about antimicrobial activity do not mean that diffusing an oil disinfects a room. Likewise, the fact that some registered insect repellents contain plant-derived ingredients does not mean a home diffuser provides dependable protection from bites.
+
+Keeping these boundaries clear makes an aromatherapy routine both safer and more credible.
+
+## Why the Right Diffuser Matters
+
+A diffuser does not make an essential oil more therapeutic, but it does shape the practical experience. Noise, cleaning, reservoir size, visible lights and scent intensity all affect whether you will enjoy using it.
+
+### Ultrasonic Diffusers
+
+Ultrasonic diffusers combine water with a small amount of essential oil and create a cool mist. They tend to produce a gentler scent and are available in many sizes and designs.
+
+Check the reservoir, timer, automatic shutoff and whether the light can be switched off independently. Although these devices release water mist, they should not be treated as a substitute for a room humidifier.
+
+### Waterless Diffusers
+
+Waterless or nebulizing diffusers disperse undiluted essential oil. They can create a more concentrated fragrance, but often use oil faster and require more careful cleaning.
+
+For a first diffuser, an ultrasonic model is usually the simpler option. Choose a waterless model only when you deliberately want a stronger format and understand the extra oil use and maintenance.
+
+For a comparison of decorative options, read [Best Essential Oil Diffusers That Look Like Home Decor](/posts/best-essential-oil-diffusers-that-look-like-home-decor/). The guide covers ceramic, compact, large-capacity and waterless designs, with the tradeoffs to check before buying.
+
+## Choosing and Combining Essential Oils
+
+Buy from a supplier that clearly identifies the plant, ingredients and intended use. Keep bottles tightly closed and store them away from direct sunlight, heat and children.
+
+Instead of beginning with a complex blend, start with one scent. If you tolerate and enjoy it, try a simple pairing:
+
+- **For a soft floral-citrus atmosphere:** lavender and bergamot
+- **For a fresh workspace:** peppermint and rosemary
+- **For a bright home scent:** lemon and a small amount of eucalyptus
+- **For a warm evening atmosphere:** lavender and chamomile
+
+Use fewer drops than you think you need, follow the diffuser manufacturer's instructions and stop if the scent causes irritation, headache, nausea or breathing discomfort.
+
+## Essential Oil Safety at Home
+
+Natural does not automatically mean harmless. Essential oils are concentrated substances and can irritate skin, eyes or airways. Avoid applying undiluted oil to the skin and do not ingest it unless a qualified clinician has specifically instructed you to do so.
+
+Use extra caution around babies, during pregnancy and when someone in the home has asthma or another respiratory condition. Ask an appropriate healthcare professional for individual advice when needed.
+
+Essential oils can also pose risks to pets. Keep bottles and diffusers out of reach, provide ventilation and make sure an animal can leave the room. The ASPCA advises particular caution with concentrated oils, pets with breathing problems and birds. Ask your veterinarian before diffusing around animals.
+
+## A Small Ritual, Not a Cure-All
+
+Aromatherapy does not need dramatic promises to be worthwhile.
+
+A familiar scent can help define a quiet evening, make a work corner feel more intentional or simply add another sensory layer to a room. Research does not support treating essential oils as a cure-all, and individual responses vary. The value may lie in the ritual: slowing down, noticing your surroundings and choosing how you want a space to feel.
+
+If the wider atmosphere of your home is where you want to begin, continue with [How I Made My Home Feel Emotionally Safe](/posts/how-i-made-my-home-feel-emotionally-safe/). It explores lighting, sensory clutter and repeated comforts as parts of a softer environment.
+
+Start lightly, pay attention to your own response and keep the routine simple. If you want the diffuser itself to feel considered rather than clinical, continue with the [Soft Moon Studio guide to decorative essential oil diffusers](/posts/best-essential-oil-diffusers-that-look-like-home-decor/).
