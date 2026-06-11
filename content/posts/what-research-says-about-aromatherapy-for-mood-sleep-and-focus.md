@@ -120,7 +120,7 @@ Waterless or nebulizing diffusers disperse undiluted essential oil. They can cre
 
 For a first diffuser, an ultrasonic model is usually the simpler option. Choose a waterless model only when you deliberately want a stronger format and understand the extra oil use and maintenance.
 
-For a comparison of decorative options, read [Best Essential Oil Diffusers That Look Like Home Decor](/posts/best-essential-oil-diffusers-that-look-like-home-decor/). The guide covers ceramic, compact, large-capacity and waterless designs, with the tradeoffs to check before buying.
+{{< guide-cta eyebrow="Compare your options" title="Best Essential Oil Diffusers That Look Like Home Decor" description="Compare four decorative diffuser formats by room, reservoir size, maintenance and design before choosing one." url="/posts/best-essential-oil-diffusers-that-look-like-home-decor/" cta="Read the buying guide" >}}
 
 ## Choosing and Combining Essential Oils
 
