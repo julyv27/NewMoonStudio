@@ -158,6 +158,8 @@ The Vitruvi Stone is the most restrained pottery-style option in this shortlist.
 
 ## Choose the Ritual Before the Diffuser
 
+If you want to understand the evidence before choosing a scent routine, read [What Research Says About Aromatherapy for Mood, Sleep & Focus](/posts/what-research-says-about-aromatherapy-for-mood-sleep-and-focus/). It separates promising findings from claims that current research cannot support.
+
 Begin with how you want to use it.
 
 Choose a compact ceramic diffuser for a short evening ritual, a larger reservoir when refilling would stop you using it, or a waterless nebulizer only when you deliberately want that stronger format. The most decorative option is not automatically the best one for your routine.
