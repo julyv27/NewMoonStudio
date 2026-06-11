@@ -3,6 +3,7 @@ title: "What Research Says About Aromatherapy for Mood, Sleep & Focus"
 seoTitle: "Aromatherapy for Mood, Sleep and Focus"
 date: 2026-06-11T09:30:00+02:00
 draft: false
+affiliate: true
 summary: "A careful look at what research does and does not say about using aromatherapy for mood, sleep and focus, plus simple ways to create a scent ritual at home."
 description: "Explore what current research says about aromatherapy for mood, sleep and focus, with realistic expectations and practical essential-oil safety guidance."
 cover: /img/blog/soft-home-rituals/aromatherapy-mood-sleep-focus.jpg
@@ -131,6 +132,8 @@ Instead of beginning with a complex blend, start with one scent. If you tolerate
 - **For a fresh workspace:** peppermint and rosemary
 - **For a bright home scent:** lemon and a small amount of eucalyptus
 - **For a warm evening atmosphere:** lavender and chamomile
+
+{{< affiliate-product eyebrow="Lavender oil option" title="Handcraft Blends Lavender Essential Oil" bestFor="Trying lavender as a single-note home fragrance" whereUse="In a compatible diffuser, following both the oil and diffuser instructions" whyFits="A single lavender oil lets you learn whether you enjoy the scent before buying several oils or building a blend." checkBefore="Confirm the current bottle size, ingredient information, usage directions and seller on the Amazon listing." skipIf="You are sensitive to fragrance, need an oil for ingestion or expect it to treat stress or sleep problems." image="/img/blog/lavendel.jpg" imageAlt="Unbranded amber essential-oil bottle among dried botanicals as lifestyle inspiration" url="https://www.amazon.com/dp/B075817VBP?th=1&linkCode=sl2&tag=softmoonstudi-20&linkId=3972e240784ffc11b426891fe4801fbb&language=en_US" cta="View on Amazon" >}}
 
 Use fewer drops than you think you need, follow the diffuser manufacturer's instructions and stop if the scent causes irritation, headache, nausea or breathing discomfort.
 
