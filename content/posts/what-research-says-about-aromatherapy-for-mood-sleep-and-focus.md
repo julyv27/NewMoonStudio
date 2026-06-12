@@ -41,6 +41,8 @@ Lavender may remind you of a quiet evening. Citrus can make a grey morning feel 
 
 Research into aromatherapy is growing, yet the results remain mixed. Some studies report changes in mood, anxiety or sleep, while others find little or no measurable effect. The most honest way to think about aromatherapy is as a complementary sensory practice: it may support a ritual or make an environment feel more intentional, but it is not a treatment or a guaranteed way to change how you feel.
 
+{{< guide-cta eyebrow="Looking for a diffuser?" title="Want to Go Straight to the Diffuser Comparison?" description="See four shortlisted essential oil diffusers for different rooms and routines, with the practical tradeoffs to check before buying." url="/posts/best-essential-oil-diffusers-that-look-like-home-decor/" cta="View the diffuser shortlist" >}}
+
 ## What Are Essential Oils?
 
 Essential oils are concentrated aromatic extracts from plants. Depending on the plant, the fragrant compounds may come from flowers, leaves, bark, roots or fruit peel.
