@@ -23,7 +23,7 @@
     {{ block "css" . }} {{ end }}
 
     {{ range site.Params.Advanced.customCSS }}
-    <link rel="stylesheet" href="{{ . | relURL }}" />
+    <link rel="stylesheet" href="{{ . | relURL }}?v={{ now.Unix }}" />
     {{ end }}
 
     <script>
