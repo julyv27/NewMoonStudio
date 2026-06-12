@@ -305,33 +305,6 @@ a.softmoon-category:focus-visible {
   text-decoration: none;
 }
 
-/* Keep article typography intact after a not-prose product card in Safari. */
-#dream-single-post-content > .softmoon-affiliate-product ~ p {
-  margin-bottom: 1.25em;
-  margin-top: 1.25em;
-}
-
-#dream-single-post-content > .softmoon-affiliate-product ~ h2 {
-  font-size: 1.5em;
-  font-weight: 700;
-  line-height: 1.3333333;
-  margin-bottom: 1em;
-  margin-top: 2em;
-}
-
-#dream-single-post-content > .softmoon-affiliate-product ~ h3 {
-  font-size: 1.25em;
-  font-weight: 600;
-  line-height: 1.6;
-  margin-bottom: 0.6em;
-  margin-top: 1.6em;
-}
-
-#dream-single-post-content > .softmoon-affiliate-product ~ :is(ul, ol) {
-  margin-bottom: 1.25em;
-  margin-top: 1.25em;
-}
-
 .softmoon-guide-cta {
   background: linear-gradient(135deg, #ddd4c7 0%, #eee9e1 100%);
   border: 1px solid color-mix(in srgb, currentColor 16%, transparent);
@@ -362,6 +335,18 @@ a.softmoon-category:focus-visible {
   font-size: 1.15rem;
   font-weight: 400;
   margin: 0 0 0.3rem;
+}
+
+.softmoon-guide-cta h3 a {
+  color: inherit;
+  text-decoration-color: color-mix(in srgb, currentColor 35%, transparent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+}
+
+.softmoon-guide-cta h3 a:hover,
+.softmoon-guide-cta h3 a:focus-visible {
+  text-decoration-color: currentColor;
 }
 
 .softmoon-guide-cta p {

@@ -2,8 +2,9 @@
   <p class="softmoon-guide-cta-eyebrow">{{ with .Get "eyebrow" }}{{ . }}{{ else }}Buying guide{{ end }}</p>
   <div class="softmoon-guide-cta-content">
     <div>
-      <h3>{{ .Get "title" }}</h3>
+      <h3><a href="{{ .Get "url" }}" data-internal-guide-link>{{ .Get "title" }}</a></h3>
       {{ with .Get "description" }}<p>{{ . }}</p>{{ end }}
     </div>
     <a class="softmoon-guide-cta-button" href="{{ .Get "url" }}" data-internal-guide-link>{{ with .Get "cta" }}{{ . }}{{ else }}Read the guide{{ end }}</a>
   </div>
+</aside>

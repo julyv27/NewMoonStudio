@@ -120,7 +120,7 @@ Waterless or nebulizing diffusers disperse undiluted essential oil. They can cre
 
 For a first diffuser, an ultrasonic model is usually the simpler option. Choose a waterless model only when you deliberately want a stronger format and understand the extra oil use and maintenance.
 
-{{< guide-cta eyebrow="Compare your options" title="Best Essential Oil Diffusers That Look Like Home Decor" description="Compare four decorative diffuser formats by room, reservoir size, maintenance and design before choosing one." url="/posts/best-essential-oil-diffusers-that-look-like-home-decor/" cta="Read the buying guide" >}}
+{{< guide-cta eyebrow="Ready to choose a diffuser?" title="Best Essential Oil Diffusers That Look Like Home Decor" description="Compare four decorative diffuser formats by room, reservoir size, maintenance and design before choosing one." url="/posts/best-essential-oil-diffusers-that-look-like-home-decor/" cta="Compare the 4 diffusers" >}}
 
 ## Choosing and Combining Essential Oils
 
@@ -153,4 +153,6 @@ A familiar scent can help define a quiet evening, make a work corner feel more i
 
 If the wider atmosphere of your home is where you want to begin, continue with [How I Made My Home Feel Emotionally Safe](/posts/how-i-made-my-home-feel-emotionally-safe/). It explores lighting, sensory clutter and repeated comforts as parts of a softer environment.
 
-Start lightly, pay attention to your own response and keep the routine simple. If you want the diffuser itself to feel considered rather than clinical, continue with the [Soft Moon Studio guide to decorative essential oil diffusers](/posts/best-essential-oil-diffusers-that-look-like-home-decor/).
+Start lightly, pay attention to your own response and keep the routine simple.
+
+{{< guide-cta eyebrow="Find the right diffuser for your home" title="Compare 4 Essential Oil Diffusers That Look Like Decor" description="See the best option for a bedroom, larger room, small surface or waterless scent ritual, plus what to check before buying." url="/posts/best-essential-oil-diffusers-that-look-like-home-decor/" cta="View the diffuser buying guide" >}}
