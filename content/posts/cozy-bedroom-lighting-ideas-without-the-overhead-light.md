@@ -75,7 +75,7 @@ A rechargeable lamp lets you bring light there without stretching a cable across
 
 {{< affiliate-product title="Rechargeable Cordless Table Lamp" bestFor="Small nightstands and outlet-free corners" whereUse="Nightstand, shelf, vanity or dresser" whyFits="A portable lamp adds a warm layer exactly where the bedroom layout needs it." image="/img/blog/cozy-lighting/cordless-table-lamp.jpg" imageAlt="Cordless table lamp glowing on a small table as lifestyle inspiration" url="https://amzn.to/4uG6s1d" cta="View on Amazon" >}}
 
-Compare more options in [Best Cordless Table Lamps for Small Spaces](/posts/best-cordless-table-lamps-for-small-spaces/).
+{{< guide-cta eyebrow="Choosing a cordless bedroom lamp?" title="Compare Cordless Table Lamps for Small Spaces" description="Compare compact and two-lamp options for small nightstands and awkward corners, including what to check for warmth, charging and size." url="/posts/best-cordless-table-lamps-for-small-spaces/" cta="View the cordless lamp guide" >}}
 
 ## 6. Keep Decorative Light Subtle
 

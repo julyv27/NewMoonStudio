@@ -79,7 +79,9 @@ Ask yourself:
 
 The answers give you a more useful lighting plan than copying a finished room from Pinterest.
 
-If you read beside the sofa, begin with a floor lamp. If your nightstand feels harsh, begin with a small shaded lamp. If an outlet-free corner disappears after sunset, a [rechargeable cordless lamp](/posts/best-cordless-table-lamps-for-small-spaces/) may solve the problem without adding a cable.
+If you read beside the sofa, begin with a floor lamp. If your nightstand feels harsh, begin with a small shaded lamp. If an outlet-free corner disappears after sunset, a rechargeable cordless lamp may solve the problem without adding a cable.
+
+{{< guide-cta eyebrow="Lighting an outlet-free corner?" title="Compare Cordless Table Lamps for Small Spaces" description="See which shortlisted cordless lamp best fits a nightstand, dining table or flexible corner, plus the charging and runtime details to verify." url="/posts/best-cordless-table-lamps-for-small-spaces/" cta="Compare the cordless lamps" >}}
 
 ## Place Light at Different Heights
 

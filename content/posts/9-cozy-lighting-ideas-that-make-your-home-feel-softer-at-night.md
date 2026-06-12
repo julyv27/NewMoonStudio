@@ -120,6 +120,8 @@ Choose a simple dimmable design that gives off a warm glow. Its main advantage i
 
 {{< affiliate-product title="Rechargeable Cordless Table Lamp" bestFor="Small spaces and awkward corners" whereUse="Nightstand, shelf, dining table, balcony or outlet-free corner" whyFits="A portable lamp brings warm light to small corners where an outlet is not available." image="/img/blog/cozy-lighting/cover-cozy-bedroom.jpg" imageAlt="Small table lamp in a softly lit bedroom as lifestyle inspiration" url="https://amzn.to/4uG6s1d" cta="View on Amazon" >}}
 
+{{< guide-cta eyebrow="Need more than one cordless option?" title="Compare Cordless Table Lamps for Small Spaces" description="See three shortlisted cordless lamps for nightstands, dining tables and outlet-free corners, with the practical differences to check before buying." url="/posts/best-cordless-table-lamps-for-small-spaces/" cta="Compare the cordless lamps" >}}
+
 ## 8. Warm Fairy Lights for a Gentle Decorative Layer
 
 Fairy lights work best as a quiet accent rather than the main event. A short strand along a headboard, shelf or reading nook can add a soft layer of warmth without requiring much space.
@@ -164,4 +166,4 @@ One warm pool of light can change how a room feels. A few carefully chosen layer
 
 For more ideas about creating a calmer atmosphere at home, read [How I Made My Home Feel Emotionally Safe](/posts/how-i-made-my-home-feel-emotionally-safe/). To plan the room rather than choosing one lamp at a time, continue with [How to Layer Lighting for a Cozy Home](/posts/how-to-layer-lighting-for-a-cozy-home/).
 
-If the bedroom is your priority, see [Cozy Bedroom Lighting Ideas Without the Overhead Light](/posts/cozy-bedroom-lighting-ideas-without-the-overhead-light/). For outlet-free corners, compare the [best cordless table lamps for small spaces](/posts/best-cordless-table-lamps-for-small-spaces/).
+If the bedroom is your priority, see [Cozy Bedroom Lighting Ideas Without the Overhead Light](/posts/cozy-bedroom-lighting-ideas-without-the-overhead-light/).
