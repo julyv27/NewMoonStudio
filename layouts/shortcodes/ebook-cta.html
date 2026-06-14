@@ -1,0 +1,9 @@
+<aside class="softmoon-guide-cta not-prose" aria-label="Astrology ebook">
+  <div class="softmoon-guide-cta-content">
+    <div>
+      <h3><a href="{{ .Get "url" }}" target="_blank" rel="noopener noreferrer">{{ .Get "title" }}</a></h3>
+      {{ with .Get "description" }}<p>{{ . }}</p>{{ end }}
+    </div>
+    <a class="softmoon-guide-cta-button" href="{{ .Get "url" }}" target="_blank" rel="noopener noreferrer">{{ with .Get "cta" }}{{ . }}{{ else }}Explore the Guide{{ end }}</a>
+  </div>
+</aside>

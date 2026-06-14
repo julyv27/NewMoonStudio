@@ -3,7 +3,6 @@ title: "What Does Your Birth Chart Say About You?"
 seoTitle: "What Your Birth Chart Says About You"
 date: 2026-06-14T20:30:00+02:00
 draft: false
-affiliate: true
 summary: "Learn what a birth chart is and how your Sun, Moon, Rising Sign, planets and houses create a fuller picture than your zodiac sign alone."
 description: "A beginner-friendly guide to birth charts, including the Sun, Moon, Rising Sign, planets, houses and the patterns they may reveal."
 cover: /img/blog/astrology/softmoon-birthchart-feature.webp
@@ -74,7 +73,7 @@ This is why two people with the same Sun sign can be completely different from o
 
 If you have ever felt disconnected from your zodiac sign, there is a good chance the answer can be found elsewhere in your birth chart.
 
-In our next guide, we'll explore exactly why this happens and what your Sun, Moon and Rising Sign each contribute to your personality.
+{{< ebook-cta title="Think astrology doesn't describe you?" description="This short guide explains why many people relate more to their Moon sign or Rising sign than their zodiac sign." url="https://payhip.com/b/od2Ol" cta="Explore the Guide" >}}
 
 ## The Three Most Important Parts of a Birth Chart
 
@@ -128,11 +127,7 @@ Rather than asking, "What's wrong with me?" they begin asking, "Why do I experie
 
 That shift alone can be incredibly valuable.
 
-## A Helpful Resource for Exploring Astrology Further
-
-If you're fascinated by birth charts and want to explore astrology beyond the basics, it can be helpful to keep a reference book nearby.
-
-{{< affiliate-product title="The Power of Birthdays, Stars & Numbers" bestFor="Readers exploring astrology, personality patterns and birth-date symbolism" whyFits="This accessible reference combines astrology, numerology and personality profiles for every day of the year." checkBefore="Check the current edition, format, price and delivery details before ordering." url="https://amzn.to/4e85Pb3" cta="View current details on Amazon" >}}
+{{< ebook-cta title="Think astrology doesn't describe you?" description="This short guide explains why many people relate more to their Moon sign or Rising sign than their zodiac sign." url="https://payhip.com/b/od2Ol" cta="Explore the Guide" >}}
 
 ## Astrology Is a Language
 
