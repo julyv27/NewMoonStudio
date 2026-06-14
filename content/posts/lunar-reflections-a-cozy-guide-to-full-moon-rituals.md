@@ -59,4 +59,6 @@ Rest and close the evening. Put away the materials, lower the lights and give yo
 
 There is no single correct way to honour the Moon. Feel free to adapt these steps, combine journaling with dance, invite friends to create a supportive circle or simply sit silently and watch the Moon. The key is intention. Let your intuition guide you and trust that whatever arises is exactly what you need.
 
+{{< ebook-cta title="Think astrology doesn't describe you?" description="This short guide explains why many people relate more to their Moon sign or Rising sign than their zodiac sign." url="https://payhip.com/b/od2Ol" cta="Explore the Guide" >}}
+
 Use the lunar cycle as a recurring reminder to pause, not as a rule you have to follow. For another quiet routine, try [a gentle morning ritual](/posts/soft-mornings-creating-a-gentle-routine-for-balance-productivity/) or create a softer setting with [cozy evening lighting ideas](/posts/9-cozy-lighting-ideas-that-make-your-home-feel-softer-at-night/).
