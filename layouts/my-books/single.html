@@ -1,0 +1,41 @@
+{{ define "title" }}{{ or .Params.seoTitle .Title }}{{ end }}
+
+{{ define "css" }}
+<link rel="stylesheet" href="{{ "css/books.css" | relURL }}?v={{ now.Unix }}" />
+{{ end }}
+
+{{ define "main" }}
+<main class="softmoon-books-page px-4">
+  <header class="softmoon-books-header">
+    <p class="softmoon-books-eyebrow">Soft Moon Studio Digital Guides</p>
+    <h1>My Books</h1>
+    <p>Thoughtful, beginner-friendly guides for exploring yourself with more curiosity and less pressure.</p>
+  </header>
+
+  <section class="softmoon-books-grid" aria-label="Soft Moon Studio books">
+    <article class="softmoon-book-card">
+      <a class="softmoon-book-cover" href="https://payhip.com/b/od2Ol" target="_blank" rel="noopener noreferrer" aria-label="View Your Zodiac Sign Was Never Meant To Explain You on Payhip">
+        <img src="/img/books/your-zodiac-sign-was-never-meant-to-explain-you.png" alt="Cover of Your Zodiac Sign Was Never Meant To Explain You" width="559" height="794" />
+      </a>
+      <div class="softmoon-book-copy">
+        <p class="softmoon-book-topic">Astrology</p>
+        <h2>Your Zodiac Sign Was Never Meant To Explain You</h2>
+        <p>A short self-discovery guide to why your Moon sign or Rising Sign may feel more familiar than your zodiac sign alone.</p>
+        <a class="softmoon-book-button" href="https://payhip.com/b/od2Ol" target="_blank" rel="noopener noreferrer">Explore the Astrology Guide</a>
+      </div>
+    </article>
+
+    <article class="softmoon-book-card">
+      <a class="softmoon-book-cover" href="https://payhip.com/b/756KN" target="_blank" rel="noopener noreferrer" aria-label="View Why Do Some People Seem To Glow on Payhip">
+        <img src="/img/books/why-do-some-people-seem-to-glow.png" alt="Cover of Why Do Some People Seem To Glow" width="559" height="794" />
+      </a>
+      <div class="softmoon-book-copy">
+        <p class="softmoon-book-topic">Auras</p>
+        <h2>Why Do Some People Seem To Glow?</h2>
+        <p>A calm introduction to aura colors, energy awareness and the symbolic traditions surrounding human presence.</p>
+        <a class="softmoon-book-button" href="https://payhip.com/b/756KN" target="_blank" rel="noopener noreferrer">Explore the Aura Guide</a>
+      </div>
+    </article>
+  </section>
+</main>
+{{ end }}

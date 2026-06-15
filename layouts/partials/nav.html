@@ -16,6 +16,10 @@
         {{ T "about" }}
       </a>
 
+      <a class="text-sm font-semibold hover:underline" href="{{ "my-books/" | relURL }}">
+        My Books
+      </a>
+
       <form class="softmoon-search" action="{{ "search" | relLangURL }}" method="get" role="search">
         <label for="nav-search" class="input input-sm w-full">
           <input id="nav-search" name="q" type="search" class="grow" placeholder="{{ T "search" }}" />
