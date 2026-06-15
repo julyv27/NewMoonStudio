@@ -46,6 +46,8 @@ Psychology offers several possible answers. Facial expression, tone of voice, bo
 
 Spiritual traditions offer another framework: the idea that human beings carry an energetic presence sometimes described as an aura.
 
+{{< ebook-cta label="Aura ebook" title="Why Do Some People Seem To Glow?" description="A soft, reflective aura guide for anyone who has ever wondered why some people seem to glow, feel magnetic or carry a presence that is hard to explain." image="/img/blog/astrology/aura-ebook-preview.avif" imageAlt="Mini preview of pages from the Soft Moon Studio aura guide Why Do Some People Seem To Glow?" url="https://payhip.com/b/756KN" cta="Explore the Aura Guide" >}}
+
 ## What Is a Human Aura?
 
 In modern spiritual traditions, an aura is often described as an energetic field surrounding a living being.
@@ -144,7 +146,7 @@ What energy am I cultivating within myself?
 
 These questions remain meaningful whether or not you believe in aura colors.
 
-{{< ebook-cta label="Aura ebook" title="Why Do Some People Seem To Glow?" description="A calm, beginner-friendly guide to aura colors, energy awareness and the traditions behind human auras." url="https://payhip.com/b/756KN" cta="Explore the Aura Guide" >}}
+{{< ebook-cta label="Aura ebook" title="Why Do Some People Seem To Glow?" description="A soft, reflective aura guide for anyone who has ever wondered why some people seem to glow, feel magnetic or carry a presence that is hard to explain." image="/img/blog/astrology/aura-ebook-preview.avif" imageAlt="Mini preview of pages from the Soft Moon Studio aura guide Why Do Some People Seem To Glow?" url="https://payhip.com/b/756KN" cta="Explore the Aura Guide" >}}
 
 ## A Gentle Reflection
 

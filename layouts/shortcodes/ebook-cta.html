@@ -1,6 +1,11 @@
 <aside class="softmoon-guide-cta not-prose" aria-label="{{ with .Get "label" }}{{ . }}{{ else }}Digital guide{{ end }}">
-  <div class="softmoon-guide-cta-content">
-    <div>
+  <div class="softmoon-guide-cta-content{{ with .Get "image" }} softmoon-guide-cta-content-with-image{{ end }}">
+    {{ with .Get "image" }}
+    <a class="softmoon-guide-cta-preview" href="{{ $.Get "url" }}" target="_blank" rel="noopener noreferrer" aria-label="View {{ $.Get "title" }}">
+      <img src="{{ . | relURL }}" alt="{{ with $.Get "imageAlt" }}{{ . }}{{ else }}Preview of {{ $.Get "title" }}{{ end }}" loading="lazy" decoding="async" />
+    </a>
+    {{ end }}
+    <div class="softmoon-guide-cta-copy">
       <h3><a href="{{ .Get "url" }}" target="_blank" rel="noopener noreferrer">{{ .Get "title" }}</a></h3>
       {{ with .Get "description" }}<p>{{ . }}</p>{{ end }}
     </div>

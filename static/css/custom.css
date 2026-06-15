@@ -325,9 +325,30 @@ a.softmoon-category:focus-visible {
 
 .softmoon-guide-cta-content {
   align-items: center;
-  display: flex;
+  display: grid;
   gap: 1rem;
-  justify-content: space-between;
+  grid-template-columns: minmax(0, 1fr) auto;
+}
+
+.softmoon-guide-cta-content-with-image {
+  grid-template-columns: 7rem minmax(0, 1fr) auto;
+}
+
+.softmoon-guide-cta-preview {
+  align-self: stretch;
+  background: rgb(255 255 255 / 42%);
+  border: 1px solid rgb(53 50 45 / 10%);
+  border-radius: 0.65rem;
+  display: block;
+  min-height: 6rem;
+  overflow: hidden;
+}
+
+.softmoon-guide-cta-preview img {
+  height: 100% !important;
+  object-fit: contain;
+  padding: 0.35rem;
+  width: 100%;
 }
 
 .softmoon-guide-cta h3 {
@@ -503,7 +524,15 @@ footer > * {
 
   .softmoon-guide-cta-content {
     align-items: stretch;
-    flex-direction: column;
+    grid-template-columns: 1fr;
+  }
+
+  .softmoon-guide-cta-content-with-image {
+    grid-template-columns: 5.5rem minmax(0, 1fr);
+  }
+
+  .softmoon-guide-cta-content-with-image .softmoon-guide-cta-button {
+    grid-column: 1 / -1;
   }
 
   .softmoon-guide-cta-button {
