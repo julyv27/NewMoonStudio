@@ -15,6 +15,7 @@ theme = 'dream'
   showPrevNextPost = true
   showSummaryCoverInPost = true
   imageZoomableInPost = true
+  stickyNav = true
   reorderNavItems = ['about', 'search']
 
 [params.advanced]
