@@ -445,12 +445,24 @@ footer > * {
   text-transform: uppercase;
 }
 
-.softmoon-author-box h2,
-.softmoon-sources h2 {
+.softmoon-author-box h2 {
   font-family: "Questrial", ui-sans-serif, system-ui, sans-serif;
   font-size: 1.2rem;
   font-weight: 400;
   margin: 0 0 0.6rem;
+}
+
+.softmoon-sources summary {
+  font-family: "Questrial", ui-sans-serif, system-ui, sans-serif;
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: color-mix(in srgb, currentColor 68%, transparent);
+  cursor: pointer;
+  width: fit-content;
+}
+
+.softmoon-sources[open] summary {
+  margin-bottom: 0.75rem;
 }
 
 .softmoon-author-box p,
@@ -471,8 +483,9 @@ footer > * {
 }
 
 .softmoon-sources a {
-  color: #4338ca;
-  font-weight: 500;
+  color: inherit;
+  font-weight: 400;
+  text-decoration-color: color-mix(in srgb, currentColor 40%, transparent);
 }
 
 .softmoon-sources ul {
@@ -484,6 +497,7 @@ footer > * {
 }
 
 .softmoon-sources li {
+  color: color-mix(in srgb, currentColor 68%, transparent);
   margin: 0;
 }
 

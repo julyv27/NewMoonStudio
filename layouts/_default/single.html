@@ -100,8 +100,8 @@
         {{ .Content | emojify }}
 
         {{ with .Params.sources }}
-          <section class="softmoon-sources not-prose" aria-labelledby="article-sources">
-            <h2 id="article-sources">Sources and further reading</h2>
+          <details class="softmoon-sources not-prose">
+            <summary>Sources used for this article</summary>
             <ul>
               {{ range . }}
                 <li>
@@ -110,7 +110,7 @@
                 </li>
               {{ end }}
             </ul>
-          </section>
+          </details>
         {{ end }}
 
         {{ if eq .Type "posts" }}
