@@ -2,6 +2,7 @@
 title: "Why Don't I Relate to My Zodiac Sign?"
 seoTitle: "Why You Don't Relate to Your Zodiac Sign"
 date: 2026-06-15T10:00:00+02:00
+lastmod: 2026-06-17T22:18:34+02:00
 draft: false
 summary: "Your Sun sign is only one part of your birth chart. Your Moon sign, Rising Sign and other placements may feel much more familiar."
 description: "Discover why you may not relate to your zodiac sign and how your Moon sign, Rising Sign and full birth chart add important context."
@@ -82,6 +83,8 @@ One may be outgoing and confident.
 The other may be quiet and reflective.
 
 Both can still be authentic expressions of the same Sun sign.
+
+{{< ebook-cta label="Astrology ebook" title="Think astrology doesn't describe you?" description="This short guide explains why many people relate more to their Moon sign or Rising sign than their zodiac sign." image="/img/books/your-zodiac-sign-was-never-meant-to-explain-you.png" imageAlt="Cover of the Soft Moon Studio astrology guide Your Zodiac Sign Was Never Meant To Explain You" url="https://payhip.com/b/od2Ol" cta="Explore the Guide" >}}
 
 ## Your Moon Sign May Feel More Familiar
 

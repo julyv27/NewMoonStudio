@@ -2,6 +2,7 @@
 title: "What Does Your Moon Sign Mean?"
 seoTitle: "What Your Moon Sign Means in Astrology"
 date: 2026-06-16T09:00:00+02:00
+lastmod: 2026-06-17T22:18:34+02:00
 draft: false
 summary: "Your Moon sign represents your emotional world in astrology, including your instincts, comfort needs and private reactions."
 description: "Learn what your Moon sign means in astrology, how it differs from your Sun sign and why it may feel more personally familiar."
@@ -143,7 +144,7 @@ Many people discover their Moon sign and immediately realize there is much more 
 
 If you've ever wondered why your zodiac sign felt incomplete, you're not imagining it.
 
-{{< ebook-cta title="Think astrology doesn't describe you?" description="This short guide explains why many people relate more to their Moon sign or Rising sign than their zodiac sign." url="https://payhip.com/b/od2Ol" cta="Explore the Guide" >}}
+{{< ebook-cta label="Astrology ebook" title="Think astrology doesn't describe you?" description="This short guide explains why many people relate more to their Moon sign or Rising sign than their zodiac sign." image="/img/books/your-zodiac-sign-was-never-meant-to-explain-you.png" imageAlt="Cover of the Soft Moon Studio astrology guide Your Zodiac Sign Was Never Meant To Explain You" url="https://payhip.com/b/od2Ol" cta="Explore the Guide" >}}
 
 ## How Do You Find Your Moon Sign?
 

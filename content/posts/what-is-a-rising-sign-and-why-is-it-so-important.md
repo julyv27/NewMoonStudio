@@ -2,6 +2,7 @@
 title: "What Is a Rising Sign and Why Is It So Important?"
 seoTitle: "What Is a Rising Sign in Astrology?"
 date: 2026-06-17T22:06:59+02:00
+lastmod: 2026-06-17T22:18:34+02:00
 draft: false
 summary: "Your Rising Sign, or Ascendant, shapes first impressions and forms the starting point for the houses in your birth chart."
 description: "Learn what a Rising Sign means, why your exact birth time matters and how your Ascendant differs from your Sun and Moon signs."
@@ -95,6 +96,8 @@ Your Rising Sign represents:
 Together, they create a more complete picture of who you are. This is why astrologers often refer to them as your "Big Three."
 
 Read [What Does Your Moon Sign Mean?](/posts/what-does-your-moon-sign-mean/) for a closer look at the emotional side of astrology.
+
+{{< ebook-cta label="Astrology ebook" title="Think astrology doesn't describe you?" description="This short guide explains why many people relate more to their Moon sign or Rising sign than their zodiac sign." image="/img/books/your-zodiac-sign-was-never-meant-to-explain-you.png" imageAlt="Cover of the Soft Moon Studio astrology guide Your Zodiac Sign Was Never Meant To Explain You" url="https://payhip.com/b/od2Ol" cta="Explore the Guide" >}}
 
 ## Why Do People Relate So Strongly to Their Rising Sign?
 

@@ -2,6 +2,7 @@
 title: "What Does Your Birth Chart Say About You?"
 seoTitle: "What Your Birth Chart Says About You"
 date: 2026-06-14T20:30:00+02:00
+lastmod: 2026-06-17T22:18:34+02:00
 draft: false
 summary: "Learn what a birth chart is and how your Sun, Moon, Rising Sign, planets and houses create a fuller picture than your zodiac sign alone."
 description: "A beginner-friendly guide to birth charts, including the Sun, Moon, Rising Sign, planets, houses and the patterns they may reveal."
@@ -73,7 +74,7 @@ This is why two people with the same Sun sign can be completely different from o
 
 If you have ever felt disconnected from your zodiac sign, there is a good chance the answer can be found elsewhere in your birth chart.
 
-{{< ebook-cta title="Think astrology doesn't describe you?" description="This short guide explains why many people relate more to their Moon sign or Rising sign than their zodiac sign." url="https://payhip.com/b/od2Ol" cta="Explore the Guide" >}}
+{{< ebook-cta label="Astrology ebook" title="Think astrology doesn't describe you?" description="This short guide explains why many people relate more to their Moon sign or Rising sign than their zodiac sign." image="/img/books/your-zodiac-sign-was-never-meant-to-explain-you.png" imageAlt="Cover of the Soft Moon Studio astrology guide Your Zodiac Sign Was Never Meant To Explain You" url="https://payhip.com/b/od2Ol" cta="Explore the Guide" >}}
 
 ## The Three Most Important Parts of a Birth Chart
 
@@ -127,7 +128,7 @@ Rather than asking, "What's wrong with me?" they begin asking, "Why do I experie
 
 That shift alone can be incredibly valuable.
 
-{{< ebook-cta title="Think astrology doesn't describe you?" description="This short guide explains why many people relate more to their Moon sign or Rising sign than their zodiac sign." url="https://payhip.com/b/od2Ol" cta="Explore the Guide" >}}
+{{< ebook-cta label="Astrology ebook" title="Think astrology doesn't describe you?" description="This short guide explains why many people relate more to their Moon sign or Rising sign than their zodiac sign." image="/img/books/your-zodiac-sign-was-never-meant-to-explain-you.png" imageAlt="Cover of the Soft Moon Studio astrology guide Your Zodiac Sign Was Never Meant To Explain You" url="https://payhip.com/b/od2Ol" cta="Explore the Guide" >}}
 
 ## Astrology Is a Language
 
