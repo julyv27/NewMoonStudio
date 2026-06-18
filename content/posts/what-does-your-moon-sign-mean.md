@@ -2,7 +2,7 @@
 title: "What Does Your Moon Sign Mean?"
 seoTitle: "What Your Moon Sign Means in Astrology"
 date: 2026-06-16T09:00:00+02:00
-lastmod: 2026-06-17T22:18:34+02:00
+lastmod: 2026-06-18T10:00:06+02:00
 draft: false
 summary: "Your Moon sign represents your emotional world in astrology, including your instincts, comfort needs and private reactions."
 description: "Learn what your Moon sign means in astrology, how it differs from your Sun sign and why it may feel more personally familiar."
@@ -34,6 +34,8 @@ Yet when people begin exploring astrology beyond the basics, the Moon is often t
 It can help explain why two people with the same zodiac sign experience the world differently. In astrological interpretation, it describes what makes you feel safe, how you process emotions and what you may need when life becomes overwhelming.
 
 If your Sun sign describes who you are becoming, your Moon sign can describe who you already are beneath the surface.
+
+{{< ebook-cta label="Astrology ebook" title="When your zodiac sign feels incomplete" description="The Soft Moon Studio astrology guide helps you understand why your Moon sign or Rising Sign may feel more familiar than your Sun sign alone." image="/img/books/your-zodiac-sign-was-never-meant-to-explain-you.png" imageAlt="Cover of the Soft Moon Studio astrology guide Your Zodiac Sign Was Never Meant To Explain You" url="https://payhip.com/b/od2Ol?utm_source=softmoonstudio&utm_medium=blog&utm_campaign=astrology_ebook&utm_content=moon_sign_intro" cta="Explore the Guide" >}}
 
 ## What Is a Moon Sign?
 
@@ -144,7 +146,7 @@ Many people discover their Moon sign and immediately realize there is much more 
 
 If you've ever wondered why your zodiac sign felt incomplete, you're not imagining it.
 
-{{< ebook-cta label="Astrology ebook" title="Think astrology doesn't describe you?" description="This short guide explains why many people relate more to their Moon sign or Rising sign than their zodiac sign." image="/img/books/your-zodiac-sign-was-never-meant-to-explain-you.png" imageAlt="Cover of the Soft Moon Studio astrology guide Your Zodiac Sign Was Never Meant To Explain You" url="https://payhip.com/b/od2Ol" cta="Explore the Guide" >}}
+{{< ebook-cta label="Astrology ebook" title="Your Moon sign is only one layer" description="If this placement already feels more personal than your zodiac sign, the guide walks through how your Sun, Moon and Rising Sign work together." image="/img/books/your-zodiac-sign-was-never-meant-to-explain-you.png" imageAlt="Cover of the Soft Moon Studio astrology guide Your Zodiac Sign Was Never Meant To Explain You" url="https://payhip.com/b/od2Ol?utm_source=softmoonstudio&utm_medium=blog&utm_campaign=astrology_ebook&utm_content=moon_sign_mid_article" cta="Explore the Guide" >}}
 
 ## How Do You Find Your Moon Sign?
 
@@ -165,6 +167,8 @@ But in astrological interpretation, it describes some of the most personal parts
 It can symbolize what feels comforting. What feels safe. What helps you recover after difficult experiences. And what your heart quietly needs, even when your mind wants something else.
 
 The more you understand your Moon sign, the more clearly you may begin to understand yourself.
+
+{{< ebook-cta label="Astrology ebook" title="Go deeper than your Moon sign" description="Use the Soft Moon Studio guide to connect your Moon sign with your Sun and Rising Sign, so your birth chart starts to feel less fragmented." image="/img/books/your-zodiac-sign-was-never-meant-to-explain-you.png" imageAlt="Cover of the Soft Moon Studio astrology guide Your Zodiac Sign Was Never Meant To Explain You" url="https://payhip.com/b/od2Ol?utm_source=softmoonstudio&utm_medium=blog&utm_campaign=astrology_ebook&utm_content=moon_sign_bottom" cta="Explore the Guide" >}}
 
 ## Where to Go Next
 

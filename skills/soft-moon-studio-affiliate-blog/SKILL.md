@@ -1,11 +1,11 @@
 ---
 name: soft-moon-studio-affiliate-blog
-description: Create or update Soft Moon Studio blog articles that include Amazon affiliate products. Use when writing, editing, reviewing, or publishing an article with Amazon links in the Soft Moon Studio workspace. Enforce the site's disclosure, product-card shortcode, visual style, image-sourcing rules, and concise reader-first affiliate copy.
+description: Create or update Soft Moon Studio blog articles that include Amazon affiliate products, Payhip ebooks, or other monetized offers. Use when writing, editing, reviewing, or publishing a commercial Soft Moon Studio article or article-assisted funnel. Enforce disclosure, shortcode use, visual style, image-sourcing rules, concise reader-first affiliate copy, and respectful conversion strategy for spiritual, astrology, wellness, home, and lifestyle content.
 ---
 
 # Soft Moon Studio Affiliate Blog
 
-Use this workflow whenever a Soft Moon Studio article contains an Amazon affiliate link.
+Use this workflow whenever a Soft Moon Studio article contains an Amazon affiliate link, Payhip ebook CTA, or other monetized recommendation.
 
 ## Required Article Setup
 
@@ -55,3 +55,36 @@ Rules:
 - Wellness copy avoids medical promises and unsupported claims.
 - Disclosure appears on the live article.
 - Buttons render correctly on desktop and mobile.
+
+## Digital Product and Ebook CTAs
+
+Use `layouts/shortcodes/ebook-cta.html` for Payhip ebooks and other Soft Moon Studio digital guides. Do not use bare Payhip links as the main conversion element.
+
+For astrology and spiritual digital products:
+
+- Keep the promise reflective and educational. Do not imply certainty, prediction, diagnosis, healing, wealth, love outcomes, or guaranteed transformation.
+- Connect the offer to the reader's current question. For example, a Moon sign article should frame the guide around understanding the Sun, Moon, and Rising Sign together.
+- Use the ebook cover or a truthful preview image whenever possible. Set accurate `imageAlt`.
+- Place CTAs at natural decision points rather than only at the end.
+- Use UTM parameters when the same ebook appears more than once in an article, so placement performance can be measured.
+- Vary CTA titles and descriptions by placement. Repeating the same block three times reads like an ad, not guidance.
+
+Recommended CTA placement for an informational astrology article:
+
+1. Early contextual CTA after the opening problem or reader-recognition moment.
+2. Middle CTA after the article has explained a meaningful concept and the reader wants the next layer.
+3. Bottom CTA after the conclusion, before or near "Where to go next."
+
+Use:
+
+```text
+{{< ebook-cta label="Astrology ebook" title="Reader-facing benefit" description="One concise sentence connecting the guide to this article's question." image="/img/books/your-zodiac-sign-was-never-meant-to-explain-you.png" imageAlt="Cover of the Soft Moon Studio astrology guide Your Zodiac Sign Was Never Meant To Explain You" url="https://payhip.com/b/od2Ol?utm_source=softmoonstudio&utm_medium=blog&utm_campaign=astrology_ebook&utm_content=PLACEMENT" cta="Explore the Guide" >}}
+```
+
+Review checklist for ebook CTAs:
+
+- The article contains enough value before asking for a click.
+- CTA placement matches reader intent and does not interrupt a fragile or sensitive section.
+- The cover renders on desktop and mobile.
+- Payhip URL works and includes UTM parameters when useful.
+- Copy avoids unsupported spiritual or wellness claims.
