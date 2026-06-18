@@ -2,7 +2,7 @@
 title: "A Simple Full Moon Ritual at Home for a Quiet Evening"
 seoTitle: "A Simple Full Moon Ritual at Home"
 date: 2026-05-28T12:15:00+02:00
-lastmod: 2026-06-17T22:18:34+02:00
+lastmod: 2026-06-18T10:26:59+02:00
 draft: false
 summary: "Simple full Moon rituals can help you slow down, release what no longer serves you and reconnect with your inner rhythm."
 description: "Create a simple full Moon ritual at home with a quiet space, reflective journaling, a symbolic release and a gentle evening wind-down."
@@ -26,6 +26,8 @@ sources:
 The full Moon can be a useful calendar moment for pausing and reflecting. You do not need to believe that lunar energy controls your mood or health to create a meaningful ritual around it.
 
 This simple full Moon ritual is a symbolic personal practice: a quiet space, a few questions and an intentional end to the evening. Keep the parts that feel useful and leave the rest.
+
+{{< ebook-cta label="Astrology ebook" title="Want to understand your Moon beyond rituals?" description="The Soft Moon Studio guide connects Moon sign meaning with your Sun and Rising Sign, so lunar reflection has more personal context." image="/img/books/your-zodiac-sign-was-never-meant-to-explain-you.png" imageAlt="Cover of the Soft Moon Studio astrology guide Your Zodiac Sign Was Never Meant To Explain You" url="https://payhip.com/b/od2Ol?utm_source=softmoonstudio&utm_medium=blog&utm_campaign=astrology_ebook&utm_content=full_moon_intro" cta="Explore the Guide" >}}
 
 ## What Is the Purpose of a Full Moon Ritual?
 
@@ -59,6 +61,6 @@ Rest and close the evening. Put away the materials, lower the lights and give yo
 
 There is no single correct way to honour the Moon. Feel free to adapt these steps, combine journaling with dance, invite friends to create a supportive circle or simply sit silently and watch the Moon. The key is intention. Let your intuition guide you and trust that whatever arises is exactly what you need.
 
-{{< ebook-cta label="Astrology ebook" title="Think astrology doesn't describe you?" description="This short guide explains why many people relate more to their Moon sign or Rising sign than their zodiac sign." image="/img/books/your-zodiac-sign-was-never-meant-to-explain-you.png" imageAlt="Cover of the Soft Moon Studio astrology guide Your Zodiac Sign Was Never Meant To Explain You" url="https://payhip.com/b/od2Ol" cta="Explore the Guide" >}}
+{{< ebook-cta label="Astrology ebook" title="Make your Moon reflection more personal" description="Explore why the Moon sign can feel more emotionally familiar than your zodiac sign alone." image="/img/books/your-zodiac-sign-was-never-meant-to-explain-you.png" imageAlt="Cover of the Soft Moon Studio astrology guide Your Zodiac Sign Was Never Meant To Explain You" url="https://payhip.com/b/od2Ol?utm_source=softmoonstudio&utm_medium=blog&utm_campaign=astrology_ebook&utm_content=full_moon_bottom" cta="Explore the Guide" >}}
 
 Use the lunar cycle as a recurring reminder to pause, not as a rule you have to follow. For another quiet routine, try [a gentle morning ritual](/posts/soft-mornings-creating-a-gentle-routine-for-balance-productivity/) or create a softer setting with [cozy evening lighting ideas](/posts/9-cozy-lighting-ideas-that-make-your-home-feel-softer-at-night/).

@@ -2,7 +2,7 @@
 title: "What Does Your Birth Chart Say About You?"
 seoTitle: "What Your Birth Chart Says About You"
 date: 2026-06-14T20:30:00+02:00
-lastmod: 2026-06-17T22:18:34+02:00
+lastmod: 2026-06-18T10:26:59+02:00
 draft: false
 summary: "Learn what a birth chart is and how your Sun, Moon, Rising Sign, planets and houses create a fuller picture than your zodiac sign alone."
 description: "A beginner-friendly guide to birth charts, including the Sun, Moon, Rising Sign, planets, houses and the patterns they may reveal."
@@ -31,6 +31,8 @@ That is often the moment people discover there is much more to astrology than a 
 Your birth chart is a snapshot of the sky at the exact moment you were born. It maps the positions of the Sun, Moon and planets from your place on Earth and reveals a much more detailed picture of your personality, emotions, strengths, challenges and life path.
 
 You do not need to become an astrologer to understand the basics. Once you know what you're looking at, your birth chart becomes far less mysterious than it first appears.
+
+{{< ebook-cta label="Astrology ebook" title="Start with your Sun, Moon and Rising Sign" description="The Soft Moon Studio guide helps you understand why your full chart may feel more accurate than your zodiac sign alone." image="/img/books/your-zodiac-sign-was-never-meant-to-explain-you.png" imageAlt="Cover of the Soft Moon Studio astrology guide Your Zodiac Sign Was Never Meant To Explain You" url="https://payhip.com/b/od2Ol?utm_source=softmoonstudio&utm_medium=blog&utm_campaign=astrology_ebook&utm_content=birth_chart_intro" cta="Explore the Guide" >}}
 
 ## What Is a Birth Chart?
 
@@ -74,7 +76,7 @@ This is why two people with the same Sun sign can be completely different from o
 
 If you have ever felt disconnected from your zodiac sign, there is a good chance the answer can be found elsewhere in your birth chart.
 
-{{< ebook-cta label="Astrology ebook" title="Think astrology doesn't describe you?" description="This short guide explains why many people relate more to their Moon sign or Rising sign than their zodiac sign." image="/img/books/your-zodiac-sign-was-never-meant-to-explain-you.png" imageAlt="Cover of the Soft Moon Studio astrology guide Your Zodiac Sign Was Never Meant To Explain You" url="https://payhip.com/b/od2Ol" cta="Explore the Guide" >}}
+{{< ebook-cta label="Astrology ebook" title="If your zodiac sign feels incomplete" description="This short guide explains why your Moon sign or Rising Sign may describe parts of you that your Sun sign does not." image="/img/books/your-zodiac-sign-was-never-meant-to-explain-you.png" imageAlt="Cover of the Soft Moon Studio astrology guide Your Zodiac Sign Was Never Meant To Explain You" url="https://payhip.com/b/od2Ol?utm_source=softmoonstudio&utm_medium=blog&utm_campaign=astrology_ebook&utm_content=birth_chart_sun_sign" cta="Explore the Guide" >}}
 
 ## The Three Most Important Parts of a Birth Chart
 
@@ -128,7 +130,7 @@ Rather than asking, "What's wrong with me?" they begin asking, "Why do I experie
 
 That shift alone can be incredibly valuable.
 
-{{< ebook-cta label="Astrology ebook" title="Think astrology doesn't describe you?" description="This short guide explains why many people relate more to their Moon sign or Rising sign than their zodiac sign." image="/img/books/your-zodiac-sign-was-never-meant-to-explain-you.png" imageAlt="Cover of the Soft Moon Studio astrology guide Your Zodiac Sign Was Never Meant To Explain You" url="https://payhip.com/b/od2Ol" cta="Explore the Guide" >}}
+{{< ebook-cta label="Astrology ebook" title="Make the Big Three feel less confusing" description="Use the guide to connect your Sun, Moon and Rising Sign into one clearer picture of your chart." image="/img/books/your-zodiac-sign-was-never-meant-to-explain-you.png" imageAlt="Cover of the Soft Moon Studio astrology guide Your Zodiac Sign Was Never Meant To Explain You" url="https://payhip.com/b/od2Ol?utm_source=softmoonstudio&utm_medium=blog&utm_campaign=astrology_ebook&utm_content=birth_chart_bottom" cta="Explore the Guide" >}}
 
 ## Astrology Is a Language
 

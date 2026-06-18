@@ -88,3 +88,12 @@ Review checklist for ebook CTAs:
 - The cover renders on desktop and mobile.
 - Payhip URL works and includes UTM parameters when useful.
 - Copy avoids unsupported spiritual or wellness claims.
+
+For a cluster-wide ebook conversion pass:
+
+- Audit every related post in the category plus adjacent posts that already link to the ebook.
+- Replace bare Payhip links with `ebook-cta`.
+- Standardize cover usage across the cluster.
+- Use two CTAs for short or ritual-style articles and three CTAs for core explanatory articles.
+- Give each placement a unique `utm_content` value based on article and position.
+- Keep CTA copy specific to the section the reader just finished.

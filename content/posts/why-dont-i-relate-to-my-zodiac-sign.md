@@ -2,7 +2,7 @@
 title: "Why Don't I Relate to My Zodiac Sign?"
 seoTitle: "Why You Don't Relate to Your Zodiac Sign"
 date: 2026-06-15T10:00:00+02:00
-lastmod: 2026-06-17T22:18:34+02:00
+lastmod: 2026-06-18T10:26:59+02:00
 draft: false
 summary: "Your Sun sign is only one part of your birth chart. Your Moon sign, Rising Sign and other placements may feel much more familiar."
 description: "Discover why you may not relate to your zodiac sign and how your Moon sign, Rising Sign and full birth chart add important context."
@@ -44,6 +44,8 @@ One of the biggest misconceptions about astrology is the idea that your zodiac s
 
 Your birth chart contains many layers, and some of them may describe you far more accurately than your Sun sign alone.
 
+{{< ebook-cta label="Astrology ebook" title="Your zodiac sign was never meant to explain all of you" description="The Soft Moon Studio guide shows how your Moon sign and Rising Sign can make your chart feel more personal." image="/img/books/your-zodiac-sign-was-never-meant-to-explain-you.png" imageAlt="Cover of the Soft Moon Studio astrology guide Your Zodiac Sign Was Never Meant To Explain You" url="https://payhip.com/b/od2Ol?utm_source=softmoonstudio&utm_medium=blog&utm_campaign=astrology_ebook&utm_content=zodiac_sign_intro" cta="Explore the Guide" >}}
+
 ## Your Zodiac Sign Is Your Sun Sign
 
 When someone asks, "What's your sign?" they are usually asking for your Sun sign.
@@ -84,7 +86,7 @@ The other may be quiet and reflective.
 
 Both can still be authentic expressions of the same Sun sign.
 
-{{< ebook-cta label="Astrology ebook" title="Think astrology doesn't describe you?" description="This short guide explains why many people relate more to their Moon sign or Rising sign than their zodiac sign." image="/img/books/your-zodiac-sign-was-never-meant-to-explain-you.png" imageAlt="Cover of the Soft Moon Studio astrology guide Your Zodiac Sign Was Never Meant To Explain You" url="https://payhip.com/b/od2Ol" cta="Explore the Guide" >}}
+{{< ebook-cta label="Astrology ebook" title="Find the placements that feel more familiar" description="If your Sun sign feels too narrow, this guide helps you start with the Moon and Rising Sign instead." image="/img/books/your-zodiac-sign-was-never-meant-to-explain-you.png" imageAlt="Cover of the Soft Moon Studio astrology guide Your Zodiac Sign Was Never Meant To Explain You" url="https://payhip.com/b/od2Ol?utm_source=softmoonstudio&utm_medium=blog&utm_campaign=astrology_ebook&utm_content=zodiac_sign_chart_layers" cta="Explore the Guide" >}}
 
 ## Your Moon Sign May Feel More Familiar
 
@@ -156,6 +158,8 @@ But so are your Moon sign, Rising Sign, planets and houses.
 Together, they create a much richer picture of who you are.
 
 Once you begin exploring those layers, astrology often starts making much more sense.
+
+{{< ebook-cta label="Astrology ebook" title="Understand the chart behind your sign" description="Go beyond the question of your zodiac sign and explore the three placements that often explain why astrology finally clicks." image="/img/books/your-zodiac-sign-was-never-meant-to-explain-you.png" imageAlt="Cover of the Soft Moon Studio astrology guide Your Zodiac Sign Was Never Meant To Explain You" url="https://payhip.com/b/od2Ol?utm_source=softmoonstudio&utm_medium=blog&utm_campaign=astrology_ebook&utm_content=zodiac_sign_bottom" cta="Explore the Guide" >}}
 
 ## Where to Go Next
 

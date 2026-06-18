@@ -2,6 +2,7 @@
 title: "What Color Is My Aura?"
 seoTitle: "What Color Is My Aura? 7 Aura Colors"
 date: 2026-06-15T11:00:00+02:00
+lastmod: 2026-06-18T10:26:59+02:00
 draft: false
 summary: "Explore seven common aura colors and their symbolic meanings without reducing yourself to a single fixed personality label."
 description: "Discover the symbolic meanings of red, orange, yellow, green, blue, purple and white auras in this gentle beginner's guide."
@@ -40,6 +41,8 @@ It may be more useful to treat each color as a symbolic reflection of the energy
 Aura interpretations belong to spiritual traditions rather than scientific measurement. Different readers may interpret colors differently, and there is no universal system everyone follows.
 
 With that distinction in mind, the descriptions can still offer thoughtful prompts for self-reflection.
+
+{{< ebook-cta label="Aura ebook" title="Explore aura colors without turning them into labels" description="The Soft Moon Studio aura guide walks through seven colors, common myths and gentle reflection prompts." image="/img/books/why-do-some-people-seem-to-glow.png" imageAlt="Cover of the Soft Moon Studio aura guide Why Do Some People Seem To Glow" url="https://payhip.com/b/756KN?utm_source=softmoonstudio&utm_medium=blog&utm_campaign=aura_ebook&utm_content=aura_color_intro" cta="Explore the Aura Guide" >}}
 
 ## Red Aura
 
@@ -86,7 +89,7 @@ You may resonate with yellow if:
 * You enjoy meaningful conversations
 * Personal growth matters to you
 
-{{< ebook-cta label="Aura ebook" title="Curious About Aura Colors?" description="The Soft Moon Studio aura guide explores all seven colors, common aura myths and gentle reflection exercises." url="https://payhip.com/b/756KN" cta="Explore the Aura Guide" >}}
+{{< ebook-cta label="Aura ebook" title="Curious which aura colors feel most familiar?" description="Use the guide as a soft self-reflection companion while you explore red, orange, yellow, green, blue, purple and white." image="/img/books/why-do-some-people-seem-to-glow.png" imageAlt="Cover of the Soft Moon Studio aura guide Why Do Some People Seem To Glow" url="https://payhip.com/b/756KN?utm_source=softmoonstudio&utm_medium=blog&utm_campaign=aura_ebook&utm_content=aura_color_mid_article" cta="Explore the Aura Guide" >}}
 
 ## Green Aura
 
@@ -174,4 +177,4 @@ The value lies in the reflection itself.
 
 Sometimes, paying attention to the presence you cultivate can teach you more than any color ever could.
 
-Continue exploring with the [Soft Moon Studio aura guide](https://payhip.com/b/756KN), a gentle introduction to aura colors, energy awareness and the traditions behind human auras.
+{{< ebook-cta label="Aura ebook" title="Keep exploring your aura gently" description="Continue with the Soft Moon Studio aura guide for color meanings, myths and reflection exercises you can return to over time." image="/img/books/why-do-some-people-seem-to-glow.png" imageAlt="Cover of the Soft Moon Studio aura guide Why Do Some People Seem To Glow" url="https://payhip.com/b/756KN?utm_source=softmoonstudio&utm_medium=blog&utm_campaign=aura_ebook&utm_content=aura_color_bottom" cta="Explore the Aura Guide" >}}
