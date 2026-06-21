@@ -396,6 +396,180 @@ a.softmoon-category:focus-visible {
   color: #fff;
 }
 
+.softmoon-aura-freebie-cta,
+.softmoon-aura-continue {
+  background: #17191f;
+  border: 1px solid rgb(214 186 126 / 42%);
+  border-radius: 0.85rem;
+  box-shadow: 0 0.9rem 2rem rgb(23 25 31 / 14%);
+  color: #f6efe4;
+  margin: 1.5rem 0 1.9rem;
+  padding: 1.1rem;
+}
+
+.softmoon-aura-freebie-eyebrow,
+.softmoon-aura-continue-label {
+  color: #d6ba7e;
+  font-size: 0.66rem !important;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  margin: 0 0 0.55rem !important;
+  text-transform: uppercase;
+}
+
+.softmoon-aura-freebie-content {
+  align-items: center;
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: minmax(0, 1fr) auto;
+}
+
+.softmoon-aura-freebie-cta h3,
+.softmoon-aura-continue h2 {
+  color: #fff8ed;
+  font-family: "SSShinb7", "Questrial", ui-sans-serif, system-ui, sans-serif;
+  font-size: 1.35rem;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 1.2;
+  margin: 0 0 0.45rem;
+}
+
+.softmoon-aura-freebie-cta p,
+.softmoon-aura-continue p {
+  color: rgb(246 239 228 / 86%);
+  font-size: 0.88rem;
+  line-height: 1.5;
+  margin: 0 !important;
+  max-width: 42rem;
+}
+
+.softmoon-aura-freebie-note {
+  color: rgb(246 239 228 / 66%) !important;
+  font-size: 0.74rem !important;
+  margin-top: 0.65rem !important;
+}
+
+.softmoon-aura-freebie-button,
+.softmoon-aura-secondary-button {
+  align-items: center;
+  border-radius: 999px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  font-size: 0.78rem;
+  justify-content: center;
+  min-height: 44px;
+  padding: 0.65rem 0.95rem;
+  text-decoration: none;
+}
+
+.softmoon-aura-freebie-button {
+  background: #d6ba7e;
+  border: 1px solid #d6ba7e;
+  color: #17191f;
+}
+
+.softmoon-aura-secondary-button {
+  background: transparent;
+  border: 1px solid rgb(214 186 126 / 72%);
+  color: #fff8ed;
+}
+
+.softmoon-aura-freebie-button:hover,
+.softmoon-aura-freebie-button:focus-visible {
+  background: #efd89d;
+  color: #17191f;
+}
+
+.softmoon-aura-secondary-button:hover,
+.softmoon-aura-secondary-button:focus-visible {
+  background: rgb(214 186 126 / 12%);
+  color: #fff8ed;
+}
+
+.softmoon-aura-continue-grid {
+  display: grid;
+  gap: 0.9rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin-top: 0.9rem;
+}
+
+.softmoon-aura-continue article {
+  border: 1px solid rgb(214 186 126 / 24%);
+  border-radius: 0.65rem;
+  display: grid;
+  gap: 0.75rem;
+  justify-items: start;
+  padding: 0.95rem;
+}
+
+.softmoon-aura-form {
+  background: #17191f;
+  border: 1px solid rgb(214 186 126 / 42%);
+  border-radius: 0.85rem;
+  box-shadow: 0 0.9rem 2rem rgb(23 25 31 / 14%);
+  color: #f6efe4;
+  display: grid;
+  gap: 0.9rem;
+  margin: 1.5rem 0 1.9rem;
+  padding: 1.1rem;
+}
+
+.softmoon-aura-form label {
+  display: grid;
+  gap: 0.35rem;
+}
+
+.softmoon-aura-form span {
+  color: #fff8ed;
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.softmoon-aura-form em {
+  color: rgb(246 239 228 / 62%);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.softmoon-aura-form input {
+  background: #fff8ed;
+  border: 1px solid rgb(214 186 126 / 58%);
+  border-radius: 0.55rem;
+  color: #17191f;
+  font-size: 1rem;
+  min-height: 46px;
+  padding: 0.65rem 0.75rem;
+  width: 100%;
+}
+
+.softmoon-aura-form button {
+  align-items: center;
+  background: #d6ba7e;
+  border: 1px solid #d6ba7e;
+  border-radius: 999px;
+  color: #17191f;
+  cursor: pointer;
+  display: inline-flex;
+  font-size: 0.82rem;
+  justify-content: center;
+  min-height: 46px;
+  padding: 0.7rem 1rem;
+  width: fit-content;
+}
+
+.softmoon-aura-form button:hover,
+.softmoon-aura-form button:focus-visible {
+  background: #efd89d;
+}
+
+.softmoon-aura-form p {
+  color: rgb(246 239 228 / 66%);
+  font-size: 0.74rem;
+  line-height: 1.45;
+  margin: 0 !important;
+}
+
 #dream-single-post-content {
   overflow-wrap: anywhere;
 }
@@ -552,6 +726,18 @@ footer > * {
   .softmoon-guide-cta-button {
     align-items: center;
     min-height: 44px;
+    width: 100%;
+  }
+
+  .softmoon-aura-freebie-content,
+  .softmoon-aura-continue-grid {
+    align-items: stretch;
+    grid-template-columns: 1fr;
+  }
+
+  .softmoon-aura-freebie-button,
+  .softmoon-aura-secondary-button,
+  .softmoon-aura-form button {
     width: 100%;
   }
 }

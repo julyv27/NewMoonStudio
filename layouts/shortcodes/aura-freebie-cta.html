@@ -1,0 +1,15 @@
+{{ $url := .Get "url" }}
+{{ if not $url }}
+  {{ $url = "/aura-freebie/?utm_source=blog&utm_medium=optin&utm_campaign=aura_freebie&utm_content=why_people_feel_different" }}
+{{ end }}
+<aside class="softmoon-aura-freebie-cta not-prose" aria-label="{{ with .Get "label" }}{{ . }}{{ else }}Aura free workbook{{ end }}">
+  {{ with .Get "eyebrow" }}<p class="softmoon-aura-freebie-eyebrow">{{ . }}</p>{{ end }}
+  <div class="softmoon-aura-freebie-content">
+    <div>
+      <h3>{{ .Get "title" }}</h3>
+      <p>{{ .Get "description" | markdownify }}</p>
+      {{ with .Get "note" }}<p class="softmoon-aura-freebie-note">{{ . }}</p>{{ end }}
+    </div>
+    <a class="softmoon-aura-freebie-button" href="{{ $url }}">{{ .Get "cta" }}</a>
+  </div>
+</aside>

@@ -6,3 +6,4 @@ resources/
 .env
 .env.*
 !.env.example
+mailerlite/PLAK-HIER-JE-MAILERLITE-TOKEN.txt

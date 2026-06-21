@@ -1,0 +1,13 @@
+<form class="softmoon-aura-form not-prose" action="/api/aura-freebie" method="post">
+  <input type="hidden" name="source" value="{{ with .Get "source" }}{{ . }}{{ else }}aura_freebie_page{{ end }}">
+  <label>
+    <span>Email address</span>
+    <input type="email" name="email" autocomplete="email" required placeholder="you@example.com">
+  </label>
+  <label>
+    <span>First name <em>optional</em></span>
+    <input type="text" name="name" autocomplete="given-name" placeholder="Your name">
+  </label>
+  <button type="submit">{{ with .Get "cta" }}{{ . }}{{ else }}Download The Free Workbook{{ end }}</button>
+  <p>Aura traditions are spiritual and symbolic practices. This content is for personal reflection and educational use only.</p>
+</form>

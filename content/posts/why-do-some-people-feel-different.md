@@ -47,6 +47,8 @@ Psychology offers several possible answers. Facial expression, tone of voice, bo
 
 Spiritual traditions offer another framework: the idea that human beings carry an energetic presence sometimes described as an aura.
 
+{{< aura-freebie-cta eyebrow="Free reflection workbook" title="Want to explore this for yourself?" description="Download the free Soft Moon Studio reflection workbook: **Why Do People Feel Different?** A gentle workbook with questions to help you explore energy, presence and the people who stay with you." cta="Download The Free Workbook" >}}
+
 {{< ebook-cta label="Aura ebook" title="Why do some people seem to glow?" description="The Soft Moon Studio aura guide explores presence, aura colors and energy awareness as a gentle reflection practice." image="/img/books/why-do-some-people-seem-to-glow.png" imageAlt="Cover of the Soft Moon Studio aura guide Why Do Some People Seem To Glow" url="https://payhip.com/b/756KN?utm_source=softmoonstudio&utm_medium=blog&utm_campaign=aura_ebook&utm_content=feel_different_intro" cta="Explore the Aura Guide" >}}
 
 ## What Is a Human Aura?
@@ -62,6 +64,8 @@ A person's energy might therefore be interpreted differently during periods of s
 These interpretations are spiritual and symbolic. Human auras have not been scientifically established as visible colored energy fields.
 
 Yet the underlying idea remains compelling: people carry an atmosphere into the spaces they enter.
+
+{{< aura-freebie-cta eyebrow="Gentle reflection" title="A quiet reflection for later" description="If this topic feels familiar, save the free workbook for a slower moment. It includes gentle reflection questions about the energy you notice in yourself and others." cta="Get The Free Workbook" note="Aura traditions are spiritual and symbolic practices. This content is for personal reflection and educational use only." >}}
 
 ## Why the Idea Still Fascinates People
 
@@ -149,6 +153,8 @@ These questions remain meaningful whether or not you believe in aura colors.
 
 {{< ebook-cta label="Aura ebook" title="Reflect on the energy you carry" description="Use the aura guide to explore color symbolism, human presence and the qualities you naturally bring into a room." image="/img/books/why-do-some-people-seem-to-glow.png" imageAlt="Cover of the Soft Moon Studio aura guide Why Do Some People Seem To Glow" url="https://payhip.com/b/756KN?utm_source=softmoonstudio&utm_medium=blog&utm_campaign=aura_ebook&utm_content=feel_different_presence" cta="Explore the Aura Guide" >}}
 
+{{< aura-freebie-cta eyebrow="Start softly" title="Not ready for the full guide yet?" description="Start with the free reflection workbook: **Why Do People Feel Different?**" cta="Start With The Free Workbook" >}}
+
 ## A Gentle Reflection
 
 Perhaps aura traditions have endured because they point toward something many of us already sense.
@@ -168,3 +174,5 @@ The underlying curiosity remains the same:
 **What makes each person uniquely themselves, and what kind of presence do we leave behind when we walk out of a room?**
 
 {{< ebook-cta label="Aura ebook" title="Explore your presence more deeply" description="Continue with the Soft Moon Studio aura guide for a calm introduction to aura colors, myths and reflection exercises." image="/img/books/why-do-some-people-seem-to-glow.png" imageAlt="Cover of the Soft Moon Studio aura guide Why Do Some People Seem To Glow" url="https://payhip.com/b/756KN?utm_source=softmoonstudio&utm_medium=blog&utm_campaign=aura_ebook&utm_content=feel_different_bottom" cta="Explore the Aura Guide" >}}
+
+{{< aura-continue >}}

@@ -1,0 +1,23 @@
+{{ $freebieUrl := .Get "freebieUrl" }}
+{{ if not $freebieUrl }}
+  {{ $freebieUrl = "/aura-freebie/?utm_source=blog&utm_medium=optin&utm_campaign=aura_freebie&utm_content=why_people_feel_different_end" }}
+{{ end }}
+{{ $guideUrl := .Get "guideUrl" }}
+{{ if not $guideUrl }}
+  {{ $guideUrl = "/my-books/?utm_source=blog&utm_medium=cta&utm_campaign=aura_ebook&utm_content=feel_different_end" }}
+{{ end }}
+<section class="softmoon-aura-continue not-prose" aria-label="Continue exploring aura energy">
+  <h2>Continue Exploring Aura Energy</h2>
+  <div class="softmoon-aura-continue-grid">
+    <article>
+      <p class="softmoon-aura-continue-label">Free Reflection Workbook</p>
+      <p>Start gently with questions about energy and presence.</p>
+      <a class="softmoon-aura-freebie-button" href="{{ $freebieUrl }}">Download Free Workbook</a>
+    </article>
+    <article>
+      <p class="softmoon-aura-continue-label">Full Aura Guide</p>
+      <p>Go deeper into aura colors, energetic presence and why some people seem to glow.</p>
+      <a class="softmoon-aura-secondary-button" href="{{ $guideUrl }}">Explore The Full Guide</a>
+    </article>
+  </div>
+</section>
