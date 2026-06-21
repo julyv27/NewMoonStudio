@@ -17,6 +17,25 @@ Automation draft created:
 
 - `190911938543224016` - Aura Nurture Sequence — Why Do People Feel Different?
 
+Automation structure created through the MailerLite API on 2026-06-21:
+
+- Trigger: subscriber joins `Aura Freebie Subscribers`
+- Email 1: `190918979047392265` - Your Workbook Is Ready
+- Delay: `190918978596505553` - Wait for 2 days
+- Email 2: `190918977974699807` - Why Some People Stay With Us
+- Delay: `190918977547929328` - Wait for 2 days
+- Email 3: `190918977029932741` - What If Aura Colors Aren't Fixed?
+- Delay: `190918976590579347` - Wait for 2 days
+- Email 4: `190918976069437020` - The Question Most Aura Articles Ignore
+- Delay: `190918975627986316` - Wait for 2 days
+- Email 5: `190918975158224119` - Inside The Aura Guide
+- Delay: `190918974749280188` - Wait for 3 days
+- Email 6: `190918974221845877` - A Small Reflection Before You Go
+- Action: `190918973751035710` - Copy to Soft Moon Community
+- Action: `190918973319021870` - Copy to Tag - Aura Funnel Completed
+
+The automation is intentionally still disabled because MailerLite does not accept email body/design content through the tested API endpoints. The API accepts trigger, delays, action steps and email metadata, but the email content remains undesigned in MailerLite until edited in the dashboard.
+
 Freebie download file on the website:
 
 - `/downloads/why-do-people-feel-different-freebie.pdf`
@@ -35,7 +54,7 @@ Cloudflare Pages must have this environment variable set in production:
 
 Wrangler could not set this automatically from this local environment because no `CLOUDFLARE_API_TOKEN` is configured for non-interactive Cloudflare access.
 
-Important: MailerLite's public API can create groups and draft automations, but the automation trigger, steps, delays, and email content must be completed in the MailerLite dashboard. The website can now collect subscribers and place them in the right trigger group; the email sequence still needs the MailerLite automation builder to send the six emails.
+Important: MailerLite's public API and the tested hidden endpoints can create the automation trigger, delays, email blocks and group actions. The tested API endpoints do not write the email body/design content, so each email body still needs to be opened in the MailerLite dashboard before activation.
 
 ## Form / landing page
 
