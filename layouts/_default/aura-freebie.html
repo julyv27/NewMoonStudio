@@ -1,0 +1,70 @@
+{{ define "title" }}{{ or .Params.seoTitle .Title }}{{ end }}
+
+{{ define "main" }}
+<main class="softmoon-optin-page">
+  <section class="softmoon-optin-hero" aria-labelledby="aura-freebie-title">
+    <div class="softmoon-optin-hero-copy">
+      <p class="softmoon-optin-kicker">Free reflection workbook</p>
+      <h1 id="aura-freebie-title">Why Do People Feel Different?</h1>
+      <p class="softmoon-optin-subtitle">Download the free reflection workbook on energy, presence and the people we never forget.</p>
+      <div class="softmoon-optin-body">
+        <p>Some people feel instantly calming.<br>Some people seem magnetic.<br>Some people stay with us long after they leave.</p>
+        <p>This free Soft Moon Studio workbook helps you gently explore the energy you notice in yourself and others.</p>
+      </div>
+
+      <form class="softmoon-optin-form" id="aura-freebie-form" action="/api/aura-freebie" method="post">
+        <input type="hidden" name="source" value="landing_page_optin_aura_freebie">
+        <h2>Where should I send your workbook?</h2>
+        <label>
+          <span>Email address</span>
+          <input type="email" name="email" autocomplete="email" required placeholder="you@example.com">
+        </label>
+        <label>
+          <span>First name <em>optional</em></span>
+          <input type="text" name="name" autocomplete="given-name" placeholder="Your name">
+        </label>
+        <button type="submit">Send Me The Workbook</button>
+        <p>You’ll receive the free workbook and a short Soft Moon Studio email sequence about aura colors, energy and presence. Unsubscribe anytime.</p>
+      </form>
+    </div>
+
+    <div class="softmoon-optin-visual" aria-label="Preview of the free workbook">
+      <div class="softmoon-optin-moon"></div>
+      <img src="/img/freebies/why-do-people-feel-different-workbook.png" alt="Cover preview of the free workbook Why Do People Feel Different?" width="840" height="1191" loading="eager" decoding="async">
+      <p>8-page reflection workbook</p>
+    </div>
+  </section>
+
+  <section class="softmoon-optin-section softmoon-optin-grid" aria-label="Workbook details">
+    <div>
+      <p class="softmoon-optin-kicker">Inside the free workbook</p>
+      <h2>What You’ll Receive</h2>
+      <ul>
+        <li>Gentle reflection questions about energy and presence</li>
+        <li>A softer way to explore why some people feel magnetic</li>
+        <li>Prompts to notice the kind of energy you carry</li>
+        <li>A quiet introduction to aura colors and human presence</li>
+      </ul>
+    </div>
+    <div>
+      <p class="softmoon-optin-kicker">A gentle invitation</p>
+      <h2>This is for you if…</h2>
+      <ul>
+        <li>You’ve ever wondered why certain people stay with you</li>
+        <li>You feel drawn to aura colors, energy or intuition</li>
+        <li>You want a gentle self-discovery practice</li>
+        <li>You’re curious about why some people seem to glow</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="softmoon-optin-bottom" aria-labelledby="aura-freebie-bottom-title">
+    <p class="softmoon-optin-kicker">Begin softly</p>
+    <h2 id="aura-freebie-bottom-title">Ready to explore your own energy?</h2>
+    <p>Download the free reflection workbook and begin with one quiet question: what kind of presence do you bring into the world?</p>
+    <a href="#aura-freebie-form">Download The Free Workbook</a>
+  </section>
+
+  <p class="softmoon-optin-disclaimer">Aura traditions are spiritual and symbolic practices. This content is for personal reflection and educational use only.</p>
+</main>
+{{ end }}
