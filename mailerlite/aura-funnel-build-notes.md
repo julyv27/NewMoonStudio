@@ -34,7 +34,24 @@ Automation structure created through the MailerLite API on 2026-06-21:
 - Action: `190918973751035710` - Copy to Soft Moon Community
 - Action: `190918973319021870` - Copy to Tag - Aura Funnel Completed
 
-The automation is intentionally still disabled because MailerLite does not accept email body/design content through the tested API endpoints. The API accepts trigger, delays, action steps and email metadata, but the email content remains undesigned in MailerLite until edited in the dashboard.
+The automation content was completed through the MailerLite dashboard editor on 2026-06-21 using a controlled browser session. All six emails are now designed and complete in MailerLite.
+
+Current automation status:
+
+- Enabled: yes
+- Complete: yes
+- Emails count: 6
+
+Final live test on 2026-06-21:
+
+- Posted `softmoon.final.test.20260621@example.com` through `https://softmoonstudio.com/api/aura-freebie`
+- Endpoint returned `303` to `/aura-freebie-thank-you/`
+- Subscriber was added to:
+  - Aura Freebie Subscribers
+  - Tag - Aura Interest
+  - Tag - Downloaded Aura Freebie
+- Automation queue increased to `1`
+- The dummy test subscriber was deleted after verification.
 
 Freebie download file on the website:
 
@@ -54,7 +71,7 @@ Cloudflare Pages must have this environment variable set in production:
 
 Wrangler could not set this automatically from this local environment because no `CLOUDFLARE_API_TOKEN` is configured for non-interactive Cloudflare access.
 
-Important: MailerLite's public API and the tested hidden endpoints can create the automation trigger, delays, email blocks and group actions. The tested API endpoints do not write the email body/design content, so each email body still needs to be opened in the MailerLite dashboard before activation.
+Important: MailerLite's public API and the tested hidden endpoints can create the automation trigger, delays, email blocks and group actions. The tested API endpoints did not write the email body/design content, so the email bodies were completed through the MailerLite dashboard editor.
 
 ## Form / landing page
 
