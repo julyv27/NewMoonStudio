@@ -42,6 +42,8 @@ Aura interpretations belong to spiritual traditions rather than scientific measu
 
 With that distinction in mind, the descriptions can still offer thoughtful prompts for self-reflection.
 
+{{< aura-freebie-cta eyebrow="Free reflection workbook" title="Want to explore your own energy gently?" description="Download the free Soft Moon Studio reflection workbook: **Why Do People Feel Different?** A quiet companion for noticing energy, presence and the people who stay with you." cta="Download The Free Workbook" >}}
+
 {{< ebook-cta label="Aura ebook" title="Explore aura colors without turning them into labels" description="The Soft Moon Studio aura guide walks through seven colors, common myths and gentle reflection prompts." image="/img/books/why-do-some-people-seem-to-glow.png" imageAlt="Cover of the Soft Moon Studio aura guide Why Do Some People Seem To Glow" url="https://payhip.com/b/756KN?utm_source=softmoonstudio&utm_medium=blog&utm_campaign=aura_ebook&utm_content=aura_color_intro" cta="Explore the Aura Guide" >}}
 
 ## Red Aura
@@ -90,6 +92,8 @@ You may resonate with yellow if:
 * Personal growth matters to you
 
 {{< ebook-cta label="Aura ebook" title="Curious which aura colors feel most familiar?" description="Use the guide as a soft self-reflection companion while you explore red, orange, yellow, green, blue, purple and white." image="/img/books/why-do-some-people-seem-to-glow.png" imageAlt="Cover of the Soft Moon Studio aura guide Why Do Some People Seem To Glow" url="https://payhip.com/b/756KN?utm_source=softmoonstudio&utm_medium=blog&utm_campaign=aura_ebook&utm_content=aura_color_mid_article" cta="Explore the Aura Guide" >}}
+
+{{< aura-freebie-cta eyebrow="Start softly" title="A quiet reflection for later" description="If aura colors make you curious, save the free workbook for a slower moment. It includes gentle prompts about the energy you notice in yourself and others." cta="Get The Free Workbook" note="Aura traditions are spiritual and symbolic practices. This content is for personal reflection and educational use only." >}}
 
 ## Green Aura
 
@@ -163,6 +167,8 @@ The goal is to become more aware of the qualities you already carry.
 
 If you are new to this subject, begin with [Why Do Some People Feel Different?](/posts/why-do-some-people-feel-different/) for a broader introduction to the idea behind human auras.
 
+{{< aura-freebie-cta eyebrow="Free workbook" title="Not ready for the full guide yet?" description="Start with the free reflection workbook: **Why Do People Feel Different?** It is a gentle first step into aura energy, presence and self-reflection." cta="Start With The Free Workbook" >}}
+
 ## A Gentle Reflection
 
 Instead of asking which aura color you are, try asking a slightly different question:
@@ -178,3 +184,5 @@ The value lies in the reflection itself.
 Sometimes, paying attention to the presence you cultivate can teach you more than any color ever could.
 
 {{< ebook-cta label="Aura ebook" title="Keep exploring your aura gently" description="Continue with the Soft Moon Studio aura guide for color meanings, myths and reflection exercises you can return to over time." image="/img/books/why-do-some-people-seem-to-glow.png" imageAlt="Cover of the Soft Moon Studio aura guide Why Do Some People Seem To Glow" url="https://payhip.com/b/756KN?utm_source=softmoonstudio&utm_medium=blog&utm_campaign=aura_ebook&utm_content=aura_color_bottom" cta="Explore the Aura Guide" >}}
+
+{{< aura-continue freebieUrl="/aura-freebie/?utm_source=blog&utm_medium=optin&utm_campaign=aura_freebie&utm_content=what_color_is_my_aura_bottom" guideUrl="/my-books/?utm_source=blog&utm_medium=cta&utm_campaign=aura_ebook&utm_content=what_color_is_my_aura_bottom" >}}
