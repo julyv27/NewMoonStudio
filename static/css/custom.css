@@ -740,6 +740,29 @@ a.softmoon-category:focus-visible {
   margin: 0;
 }
 
+.softmoon-optin-form .softmoon-optin-status {
+  border-radius: 0.55rem;
+  color: #fff8ed;
+  font-size: 0.82rem;
+  min-height: 1.2rem;
+  padding: 0;
+}
+
+.softmoon-optin-form .softmoon-optin-status.is-success,
+.softmoon-optin-form .softmoon-optin-status.is-error {
+  padding: 0.72rem 0.8rem;
+}
+
+.softmoon-optin-form .softmoon-optin-status.is-success {
+  background: rgb(214 186 126 / 18%);
+  border: 1px solid rgb(214 186 126 / 45%);
+}
+
+.softmoon-optin-form .softmoon-optin-status.is-error {
+  background: rgb(151 52 52 / 22%);
+  border: 1px solid rgb(239 216 157 / 32%);
+}
+
 .softmoon-optin-visual {
   justify-self: center;
   max-width: 23rem;
